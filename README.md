@@ -67,22 +67,22 @@ print(df.head())
 | chic.accountants | available | $43.99    | $153.99       | medium         | low    | 4      | name.com                                            |
 | art.clothing     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                    |
 | art.shoes        | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                                           |
-| chic.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo                                            |
+| chic.attorney    | available | $62.99    | $62.99        | medium         | low    | 4      | namesilo                                            |
 | art.moda         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                    |
 | art.shop         | premium   | $12,500   | —             | high           | medium | 3      | name.com                                            |
-| chic.diet        | available | $104.99   | $114.99       | medium         | low    | 4      | namesilo                                            |
+| chic.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo                                            |
 | chic.gg          | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC (https://porkbun.com/)                  |
 | hip.style        | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                                            |
-| chic.energy      | available | $5.98     | $155.98       | medium         | low    | 4      | namecheap                                           |
+| chic.church      | available | $8.48     | $78.98        | medium         | low    | 4      | namecheap                                           |
 | chic.me          | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
 | chic.club        | premium   | $960      | $17.70        | medium         | low    | 4      | namesilo                                            |
-| chic.giving      | available | $5.99     | $40.99        | medium         | low    | 4      | name.com                                            |
+| chic.cx          | available | $18.99    | $18.99        | medium         | low    | 4      | namesilo                                            |
 | chic.studio      | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
 | chic.cool        | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                                            |
-| chic.melbourne   | available | $44.98    | $53.98        | medium         | low    | 4      | namecheap                                           |
+| chic.diet        | available | $104.99   | $114.99       | medium         | low    | 4      | namesilo                                            |
 | chic.world       | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | chic.fashion     | premium   | $5,000    | $46.99        | medium         | low    | 4      | name.com                                            |
-| chic.osaka       | available | $32.98    | $41.98        | medium         | low    | 4      | namecheap                                           |
+| chic.energy      | available | $5.98     | $155.98       | medium         | low    | 4      | namecheap                                           |
 | chic.you         | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
