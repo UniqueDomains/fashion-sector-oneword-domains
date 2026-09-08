@@ -16,7 +16,7 @@ This selection covers one-word domain names tied to the fashion keyword, spannin
 
 **Public extract:** 1,000 rows · **Live catalog:** 216,328 domains · **Median ask:** $805.71 · **High-demand under $2,500:** 803
 
-**Last updated:** 2026-09-07
+**Last updated:** 2026-09-08
 **Canonical page:** `https://unique.domains/domains/sector/fashion`
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| chic.associates  | available | $12.98    | $49.98        | medium         | low    | 4      | namecheap                          |
+| chic.attorney    | available | $62.99    | $62.99        | medium         | low    | 4      | namesilo                           |
 | art.moda         | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                   |
 | art.shoes        | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap                          |
-| chic.attorney    | available | $62.99    | $62.99        | medium         | low    | 4      | namesilo                           |
+| chic.barcelona   | available | $38.98    | $38.98        | medium         | low    | 4      | namecheap                          |
 | chic.gg          | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC (https://porkbun.com/) |
 | art.shop         | premium   | $12,500   | —             | high           | medium | 3      | name.com                           |
-| chic.barcelona   | available | $38.98    | $38.98        | medium         | low    | 4      | namecheap                          |
+| chic.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo                           |
 | chic.me          | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                    |
 | hip.style        | premium   | $38.94    | $38.94        | medium         | low    | 3      | namesilo                           |
-| chic.blackfriday | available | $114.99   | $114.99       | medium         | low    | 4      | namesilo                           |
+| chic.camera      | available | $21.99    | $75.99        | medium         | low    | 4      | name.com                           |
 | chic.nyc         | resell    | —         | —             | medium         | low    | 4      | Hello Internet Corp.               |
 | chic.bid         | premium   | $437.50   | $62.50        | medium         | low    | 4      | name.com                           |
-| chic.camera      | available | $21.99    | $75.99        | medium         | low    | 4      | name.com                           |
+| chic.church      | available | $8.48     | $78.98        | medium         | low    | 4      | namecheap                          |
 | chic.studio      | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                    |
 | chic.boo         | premium   | $311.25   | $311.25       | medium         | low    | 4      | name.com                           |
-| chic.church      | available | $8.48     | $78.98        | medium         | low    | 4      | namecheap                          |
+| chic.coach       | available | $11.98    | $95.98        | medium         | low    | 4      | namecheap                          |
 | chic.you         | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                    |
 | chic.cool        | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                           |
-| chic.coach       | available | $11.98    | $95.98        | medium         | low    | 4      | namecheap                          |
+| chic.cx          | available | $18.99    | $18.99        | medium         | low    | 4      | namesilo                           |
 | mall.clothing    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Fashion Domain Names — 506 TLDs*. Version 2026-09-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Fashion Domain Names — 506 TLDs*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
