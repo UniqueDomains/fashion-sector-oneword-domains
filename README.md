@@ -1,10 +1,10 @@
-# One-Word Fashion Domain Names — 506 TLDs (224,859)
+# One-Word Fashion Domain Names — 506 TLDs (226,111)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-224%2C859%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-226%2C111%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word domain names tied to the fashion keyword, spanning 506 different TLDs from a pool of over 184,000 candidates. The median ask across these domains is about $963. Updated daily, the list helps investors and founders compare pricing and brandability before committing to a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **224,859 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **226,111 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 224,859 domains · **Median ask:** $775.93 · **High-demand under $2,500:** 797
+**Public extract:** 1,000 rows · **Live catalog:** 226,111 domains · **Median ask:** $771.96 · **High-demand under $2,500:** 797
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/sector/fashion`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| chic.archi    | available | $14.98    | $132.98       | medium         | low    | 4      | namecheap                                    |
+| chic.ag       | available | $89       | $141.99       | medium         | low    | 4      | name.com                                     |
 | art.works     | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                  |
+| hip.moda      | premium   | $854      | $854          | medium         | low    | 3      | namesilo                                     |
+| chic.archi    | available | $14.98    | $132.98       | medium         | low    | 4      | namecheap                                    |
+| chic.agency   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 25                            |
 | chic.boutique | premium   | $500      | $500          | medium         | low    | 4      | name.com                                     |
 | chic.audio    | available | $104.99   | $114.99       | medium         | low    | 4      | namesilo                                     |
-| chic.agency   | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 25                            |
-| chic.cam      | premium   | $500      | $29.99        | medium         | low    | 4      | name.com                                     |
-| chic.band     | available | $17.48    | $39.98        | medium         | low    | 4      | namecheap                                    |
-| chic.gold     | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
+| chic.baby     | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.                              |
 | chic.channel  | premium   | $311.25   | $311.25       | medium         | low    | 4      | name.com                                     |
-| chic.build    | available | $32.98    | $39.98        | medium         | low    | 4      | namecheap                                    |
-| chic.homes    | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.                              |
+| chic.auto     | available | $1,999.99 | $2,199        | medium         | low    | 4      | namesilo                                     |
+| chic.gold     | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
 | chic.click    | premium   | $875      | $1,250        | medium         | low    | 4      | name.com                                     |
-| chic.cars     | available | $1,999.99 | $2,199        | medium         | low    | 4      | namesilo                                     |
+| chic.band     | available | $17.48    | $39.98        | medium         | low    | 4      | namecheap                                    |
+| chic.now      | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.                              |
+| chic.clothing | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo                                     |
+| chic.boats    | available | $1.80     | $19.98        | medium         | low    | 4      | namecheap                                    |
 | chic.pet      | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
 | chic.cv       | premium   | $1,309.75 | $87.75        | medium         | low    | 4      | namecheap                                    |
-| chic.cleaning | available | $75.49    | $75.49        | medium         | low    | 4      | namesilo                                     |
+| chic.condos   | available | $58.99    | $58.99        | medium         | low    | 4      | namesilo                                     |
 | chic.pics     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                  |
-| chic.day      | premium   | $311.25   | $311.25       | medium         | low    | 4      | name.com                                     |
-| chic.courses  | available | $1.98     | $50.98        | medium         | low    | 4      | namecheap                                    |
-| chic.today    | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 224,859 live domains                       |
+| 1,000-row public sample | 226,111 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 797 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Fashion Domain Names — 506 TLDs*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Fashion Domain Names — 506 TLDs*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
