@@ -1,10 +1,10 @@
-# One-Word Fashion Domain Names — 506 TLDs (128,450)
+# One-Word Fashion Domain Names — 506 TLDs (133,985)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-128%2C450%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-133%2C985%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word domain names tied to the fashion keyword, spanning 506 different TLDs from a pool of over 184,000 candidates. The median ask across these domains is about $963. Updated daily, the list helps investors and founders compare pricing and brandability before committing to a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **128,450 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **133,985 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 128,450 domains · **Median ask:** $822.91 · **High-demand under $2,500:** 244
+**Public extract:** 1,000 rows · **Live catalog:** 133,985 domains · **Median ask:** $766.11 · **High-demand under $2,500:** 222
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/sector/fashion`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| gym.ryukyu        | available | $22.98    | —             | high           | low    | 3      | namecheap                                    |
-| chic.plus         | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
-| chic.boston       | premium   | $96       | $21.24        | medium         | low    | 4      | namesilo                                     |
-| chic.actor        | available | $9.48     | $54.98        | medium         | low    | 4      | namecheap                                    |
-| chic.services     | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC                             |
-| chic.boutique     | premium   | $500      | $500          | medium         | low    | 4      | name.com                                     |
-| chic.adult        | available | $69.98    | $166.98       | medium         | low    | 4      | namecheap                                    |
-| chic.sex          | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC                             |
-| chic.film         | premium   | $242      | $242          | medium         | low    | 4      | namesilo                                     |
-| chic.cat          | available | $26.98    | $38.98        | medium         | low    | 4      | namecheap                                    |
-| form.digital      | resell    | —         | —             | high           | low    | 4      | Porkbun LLC                                  |
-| chic.living       | premium   | $1,820    | $2,600        | medium         | low    | 4      | namecheap                                    |
-| chic.claims       | available | $11.98    | $82.98        | medium         | low    | 4      | namecheap                                    |
-| gems.black        | resell    | —         | —             | high           | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| chic.luxe         | premium   | $854      | $17.70        | medium         | low    | 4      | namesilo                                     |
-| chic.construction | available | $15.99    | $50.99        | medium         | low    | 4      | name.com                                     |
-| gems.life         | resell    | —         | —             | high           | low    | 4      | Squarespace Domains II LLC                   |
-| chic.moda         | premium   | $118.80   | $118.80       | medium         | low    | 4      | namesilo                                     |
-| chic.credit       | available | $9.48     | $131.98       | medium         | low    | 4      | namecheap                                    |
-| gems.us           | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                             |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| chic.associates  | available | $12.98    | $49.98        | medium         | low    | 4      | namecheap            |
+| chic.nyc         | resell    | —         | —             | medium         | low    | 4      | Hello Internet Corp. |
+| chic.boo         | premium   | $311.25   | $311.25       | medium         | low    | 4      | name.com             |
+| chic.degree      | available | $14.99    | $64.99        | medium         | low    | 4      | name.com             |
+| hair.lat         | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.      |
+| chic.design      | premium   | $422.50   | $845          | medium         | low    | 4      | namecheap            |
+| chic.delivery    | available | $2.98     | $79.98        | medium         | low    | 4      | namecheap            |
+| mall.homes       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.      |
+| chic.eco         | premium   | $625      | $113.99       | medium         | low    | 4      | name.com             |
+| chic.democrat    | available | $5.98     | $41.48        | medium         | low    | 4      | namecheap            |
+| model.cat        | resell    | —         | —             | medium         | low    | 5      | Name SRS AB          |
+| chic.living      | premium   | $1,820    | $2,600        | medium         | low    | 4      | namecheap            |
+| chic.diamonds    | available | $54.99    | $54.99        | medium         | low    | 4      | namesilo             |
+| style.rocks      | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc          |
+| chic.locker      | premium   | $159.23   | $8.80         | medium         | low    | 4      | namesilo             |
+| chic.enterprises | available | $5.99     | $50.99        | medium         | low    | 4      | name.com             |
+| style.shoes      | resell    | —         | —             | high           | low    | 5      | Dynadot Inc          |
+| chic.luxe        | premium   | $854      | $17.70        | medium         | low    | 4      | namesilo             |
+| chic.gives       | available | $5.99     | $40.99        | medium         | low    | 4      | name.com             |
+| clothe.shop      | resell    | —         | —             | medium         | low    | 6      | —                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 128,450 live domains                       |
+| 1,000-row public sample | 133,985 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 244 high-demand names under $2,500         |
+| Basic exported fields   | 222 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Fashion Domain Names — 506 TLDs*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Fashion Domain Names — 506 TLDs*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

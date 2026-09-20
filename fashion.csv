@@ -2,51 +2,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a5c1331-83b9-48d7-b6bb-274dc5f6e811,clothing.fashion,resell,,,medium,low,8,Dynadot Inc,24/04/2021 01:33,24/04/2027 01:33,13/09/2026 09:00
 c7e22121-7736-44e2-a537-f764abc5c79a,fashion.gg,resell,,,high,medium,7,Dynadot Inc. (https://www.dynadot.com),,,
 04b58177-d83d-4a5a-8e18-04ce063a37ad,clothing.moda,premium,118.8,118.8,medium,low,8,namesilo,,,13/09/2026 09:00
-c75784fd-029f-4792-8515-b6ba1e8b446e,clothing.gratis,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
-0d4105a8-aba9-4deb-920a-dd6bedea646a,clothing.build,premium,1950,1950,medium,low,8,namecheap,,,13/09/2026 09:00
-e57c70c8-aa1b-46b1-945c-8c9370d26951,clothing.sydney,available,44.98,54.98,medium,low,8,namecheap,,,13/09/2026 09:00
-2dc44cb9-30f2-459b-854e-be00c84d83ba,clothing.equipment,available,28.99,28.99,medium,low,8,namesilo,,,13/09/2026 09:00
-4a918fce-246a-4606-b11c-e22ba686fed3,clothing.sarl,available,6.98,8.98,medium,low,8,namecheap,,,13/09/2026 09:00
-d0b6fe3a-abec-48b3-a0f1-c20ef1ba6ede,clothing.org,resell,,,medium,low,8,"GoDaddy.com, LLC",26/04/2000 10:47,26/04/2036 10:47,13/09/2026 09:00
-39d88b7d-7945-45b7-b5e2-59faa40ad862,clothing.boo,premium,1298.7,1298.7,medium,low,8,namecheap,,,13/09/2026 09:00
-0027c837-eb1c-4dbd-9897-740cbe6da4fd,clothing.degree,available,52.99,52.99,medium,low,8,namesilo,,,13/09/2026 09:00
-9bdb1ba7-6b52-4a49-821d-20a07d12c567,clothing.school,available,36.49,36.49,medium,low,8,namesilo,,,13/09/2026 09:00
-ca0aa62b-4e95-4f36-b5f2-a1625248cc93,clothing.group,resell,,,medium,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",27/01/2018 16:40,27/01/2027 16:40,13/09/2026 09:00
-93d030cc-efce-47a2-be38-125340a4979b,clothing.lifestyle,premium,1820,2600,medium,low,8,namecheap,,,13/09/2026 09:00
-6d9ab7a8-7ce7-45e7-9f8b-f074dfcbcfa0,clothing.care,premium,64.35,128.7,medium,low,8,namecheap,,,13/09/2026 09:00
-011984fe-00f6-406d-a4af-77ae6ee2b889,clothing.kaufen,available,5.99,26.99,medium,low,8,namesilo,,,13/09/2026 09:00
-4117de09-eb63-44f5-be45-ba144a21bff4,clothing.game,available,309.99,429.99,medium,low,8,namesilo,,,13/09/2026 09:00
-5ef54872-5534-41ca-bc83-b1cf190fef31,clothing.report,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
-000ebb25-f8a4-463d-a02c-e67fc80b1cf6,clothing.autos,available,1.8,21.98,medium,low,8,namecheap,,,13/09/2026 09:00
-3c9d7cef-afed-43be-8994-7e34a0e44294,clothing.associates,premium,118.8,118.8,medium,low,8,namesilo,,,13/09/2026 09:00
-ca047571-6d55-44e7-bd2d-47450d332a5a,clothing.kim,available,5.98,32.98,medium,low,8,namecheap,,,13/09/2026 09:00
-5138d563-e442-4e30-a954-f42b53232847,clothing.business,premium,38.94,38.94,medium,low,8,namesilo,,,13/09/2026 09:00
-9fb2f146-69b8-4c1e-b221-8100c52505b3,clothing.surgery,premium,118.8,118.8,medium,low,8,namesilo,,,13/09/2026 09:00
-f91b2002-3ad0-4168-9b5c-47d3aa2d6776,clothing.charity,available,7.48,37.98,medium,low,8,namecheap,,,13/09/2026 09:00
-6fcf0ec0-738a-417c-a050-b530596b83f3,clothing.lease,premium,118.8,118.8,medium,low,8,namesilo,,,13/09/2026 09:00
-7ac21cc9-3f13-4efd-b441-de511f2e66ca,clothing.college,premium,640,640,medium,low,8,namesilo,,,13/09/2026 09:00
-781a79f7-cf3a-4882-a8b2-86a73dad91a6,clothing.date,premium,640,302.5,medium,low,8,namesilo,,,13/09/2026 09:00
-3a38e7e4-52da-4b26-b455-f099ccfb419c,clothing.energy,available,5.98,155.98,medium,low,8,namecheap,,,13/09/2026 09:00
-3e52bd3a-ad0f-4f55-abf6-080b6b719af0,clothing.wine,available,8.48,75.98,medium,low,8,namecheap,,,13/09/2026 09:00
-ff3a4097-3e22-4c58-a9be-739c7da6cd44,clothing.sexy,available,2749.99,2749.99,medium,low,8,namesilo,,,13/09/2026 09:00
-5e5079ce-e54f-43fe-a20d-c2a26f9b20bd,clothing.photo,premium,116,116,medium,low,8,namesilo,,,13/09/2026 09:00
-002bad6e-488a-42bc-bae9-473e58158717,clothing.jetzt,available,23.99,23.99,medium,low,8,namesilo,,,13/09/2026 09:00
-265868a0-da14-4378-8302-513449352e17,clothing.careers,premium,512,512,medium,low,8,namesilo,,,13/09/2026 09:00
-df7ae2fa-845c-4db6-80ac-8e8bdc89707a,clothing.recipes,available,5.48,95.98,medium,low,8,namecheap,,,13/09/2026 09:00
-748a1b65-caa6-4688-a1d7-13487f4fb453,clothing.training,available,8.98,53.98,medium,low,8,namecheap,,,13/09/2026 09:00
-123d913e-91ab-40c2-b9e6-c136bcf8df44,clothing.fish,premium,118.8,118.8,medium,low,8,namesilo,,,13/09/2026 09:00
-d902f02a-7eb8-4cc5-985b-22b94bdeba4f,clothing.cash,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
-60ace688-ba11-4102-8b58-52cb7a5a9204,clothing.attorney,available,62.99,62.99,medium,low,8,namesilo,,,13/09/2026 09:00
 abcfd9ae-e31c-43ac-beaa-91facb4dc70f,clothing.blue,premium,768,768,medium,low,8,namesilo,,,13/09/2026 09:00
-f0dba97f-7ef2-4c32-a45f-21f24f61f149,clothing.news,resell,,,medium,low,8,Porkbun LLC,27/05/2026 16:54,27/05/2027 16:54,13/09/2026 09:00
 24e83063-fda6-4513-8d06-29a60f0af822,fashion.shoes,resell,,,high,medium,7,Dynadot Inc,07/10/2016 08:00,07/10/2026 08:00,
 f09e7987-95ed-403b-b22c-83b91742e0c9,fashion.moda,premium,118.8,118.8,high,medium,7,namesilo,,,
 f48d070d-ad00-4b70-936f-ef914751b6e6,clothing.pink,premium,640,640,medium,low,8,namesilo,,,13/09/2026 09:00
-fdf609c1-0995-4e0d-844c-096a647eac04,clothing.pub,available,39.99,39.99,medium,low,8,namesilo,,,13/09/2026 09:00
-ca4611b3-a3bf-434b-ab5d-97c30044fd45,clothing.holdings,available,64.99,64.99,medium,low,8,namesilo,,,13/09/2026 09:00
-62a3afb9-0a49-4096-8721-ff2d42e8a321,clothing.reviews,premium,854,854,medium,low,8,namesilo,,,13/09/2026 09:00
-b445e6ec-bc21-4d30-8b8e-2918da735197,clothing.cat,available,26.98,38.98,medium,low,8,namecheap,,,13/09/2026 09:00
-86c18237-5993-4e22-9e30-d9e7d5629e61,clothing.rsvp,premium,1298.7,1298.7,medium,low,8,namecheap,,,13/09/2026 09:00
 eba7d28a-7763-4954-a9d9-3f8005a13639,clothing.bayern,available,34.99,34.99,medium,low,8,namesilo,,,13/09/2026 09:00
 e38dd690-a4b1-4192-b29e-ef22685861b4,clothing.bar,premium,819,1170,medium,low,8,namecheap,,,13/09/2026 09:00
 b4f30e2c-a010-4377-84f1-7c14e1658b3d,clothing.deals,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
@@ -56,9 +15,7 @@ c1cf6118-6d46-4189-be4f-a2018b87d8a3,clothing.ski,premium,854,854,medium,low,8,n
 0daa34ee-061d-4bc1-ae41-e6b4b2d94f88,clothing.page,premium,1278.72,1278.72,medium,low,8,namesilo,,,13/09/2026 09:00
 36fe07c3-8076-4a85-b8c7-7ffcf43576a3,clothing.surf,resell,,,medium,low,8,"Spaceship, Inc.",21/11/2025 09:47,21/11/2026 09:47,13/09/2026 09:00
 d934808e-f4e2-467b-b55f-b6e3c144c6d1,clothing.rodeo,premium,242,11.8,medium,low,8,namesilo,,,13/09/2026 09:00
-a1044d32-eb7d-49dc-9de2-e332b4e6b523,style.community,resell,,,medium,low,5,"Sav.com, LLC",03/08/2026 15:03,03/08/2027 15:03,08/09/2026 07:22
 d60c0be2-4e70-46c5-829b-63613088dab4,clothing.diamonds,premium,512,512,medium,low,8,namesilo,,,13/09/2026 09:00
-95281c6d-113b-4a1a-8d79-1c7e33d4903a,luxury.shop,premium,3125,,high,low,6,name.com,,,
 8f2a17c2-c3f2-4d4e-830f-96b84b55bae4,clothing.tube,premium,2600,26,medium,low,8,namecheap,,,13/09/2026 09:00
 80f6109e-c2b4-4a3c-ab0c-7428596881d5,clothing.auto,available,1999.99,2199,medium,low,8,namesilo,,,13/09/2026 09:00
 1a6b4fbf-2f3d-4017-8dd8-db30f1704965,clothing.hair,available,1.8,21.98,medium,low,8,namecheap,,,13/09/2026 09:00
@@ -66,6 +23,7 @@ b2ed48ab-b661-44d3-ad0f-38354e227bef,clothing.miami,premium,5200,23.4,medium,low
 2e531906-e6e9-4ad2-ab1a-d4f44dab497f,clothing.lgbt,premium,78.54,78.54,medium,low,8,namesilo,,,13/09/2026 09:00
 a88130a4-fb7d-44a7-a7ba-ac0bf85cca1e,clothing.red,premium,640,640,medium,low,8,namesilo,,,13/09/2026 09:00
 6e8b8541-fd59-4f5e-83a5-e186ffeebfaa,clothing.memorial,available,52.99,52.99,medium,low,8,namesilo,,,13/09/2026 09:00
+ac26c3d7-80bb-4f6d-9a14-d47c54aa67cf,garment.shoes,available,34.98,81.98,medium,low,7,namecheap,,,19/09/2026 20:02
 54852169-2589-4c08-ac3d-7a8c8cee936a,clothing.uno,premium,6500,6500,medium,low,8,namecheap,,,13/09/2026 09:00
 5f91932b-3357-442d-bc7c-d48ec779b253,clothing.new,available,488.98,601.98,medium,low,8,namecheap,,,13/09/2026 09:00
 191d3a91-cdbb-463e-8a0a-11545b44bfde,clothing.car,available,1999.99,2199,medium,low,8,namesilo,,,13/09/2026 09:00
@@ -84,63 +42,35 @@ bfde01a7-007d-48db-9c38-389d567655a7,clothing.immobilien,available,37.99,37.99,m
 39826ad1-ab13-4c4d-a1d8-9b6f9e6caa49,clothing.uk,resell,,,medium,low,8,Charles Scott t/a Domain Holdings UK,28/02/2019 10:21,29/02/2028 10:21,13/09/2026 09:00
 3f52d40a-a165-4fc5-a8cf-c0237b4b917c,clothing.tires,available,5.99,78.99,medium,low,8,namesilo,,,13/09/2026 09:00
 22df06d9-fa12-4896-b945-0e22ea785b4f,clothing.yoga,resell,,,medium,low,8,"GoDaddy.com, LLC",26/08/2020 18:48,26/08/2027 18:48,13/09/2026 09:00
-99b4e2c3-3855-4b89-ba31-3cf356c99adc,shop.international,resell,,,high,medium,4,"Go Canada Domains, LLC",24/06/2015 16:00,24/06/2026 16:00,
 66c6c0f0-f0c0-44ae-85ac-834346504028,clothing.accountant,available,23.59,23.59,medium,low,8,namesilo,,,13/09/2026 09:00
 9a82b80a-55d5-4b5a-937c-c84c1f60808e,clothing.bingo,available,51.98,68.98,medium,low,8,namecheap,,,13/09/2026 09:00
 be8c01ee-998e-4f90-8056-9f499f0d285f,clothing.airforce,available,103.99,103.99,medium,low,8,namesilo,,,13/09/2026 09:00
 4c594c2e-93a7-44a0-b63a-a0a3ab63d7ae,clothing.osaka,available,32.98,41.98,medium,low,8,namecheap,,,13/09/2026 09:00
-70b9de5d-2f0b-43a6-801d-f080007a0a6d,designers.furniture,available,39.99,,high,low,9,name.com,,,
 c6ca15bf-1a96-4def-a7d3-482e5c00e3d5,style.shop,premium,1107,1107,medium,low,5,namesilo,,,08/09/2026 07:22
 c633ca2a-523a-443c-936c-550310ed0d62,clothing.men,premium,13000,130,medium,low,8,namecheap,,,13/09/2026 09:00
-6594290d-f249-44f4-8ae4-7873ff55b7f8,designers.blackfriday,available,114.99,114.99,high,low,9,namesilo,,,
 7a439a50-68d1-4902-a758-a97e273ca505,clothing.institute,available,5.98,37.98,medium,low,8,namecheap,,,13/09/2026 09:00
-176c4e41-b370-4b59-a3af-e78b47662b22,designers.financial,available,29.99,,high,low,9,name.com,,,
 119f6bfd-77b0-4c35-b66c-4930b9963ced,clothing.gripe,available,6.98,8.98,medium,low,8,namecheap,,,13/09/2026 09:00
 547690c1-605f-4b29-942a-7538de354964,clothing.irish,available,5.98,31.98,medium,low,8,namecheap,,,13/09/2026 09:00
 d6f91e6c-cb1d-4547-8895-a573bd1c459f,clothing.one,premium,640,640,medium,low,8,namesilo,,,13/09/2026 09:00
-ea2d433f-0919-4114-a646-1592fae090b0,designers.hair,available,1.65,15.75,high,low,9,namesilo,,,
-181afdfa-6cef-41f4-a49a-a5ca26ef7842,designers.stream,available,5.25,6.25,high,low,9,namesilo,,,
-263a18af-15e0-4c90-892a-ff982ab6bd0a,designers.attorney,available,62.99,62.99,high,low,9,namesilo,,,
 c923e8eb-ea4d-428d-8cc3-e6c0e06ee644,clothing.plus,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
 1236159a-d884-4e95-b4ed-5ea56ad1c77b,clothing.style,resell,,,medium,low,8,"Sav.com, LLC - 20",16/08/2025 15:15,16/08/2027 15:15,13/09/2026 09:00
-a85823ab-8b0c-489a-9fa6-a5b19c9a19e4,designers.run,available,6.99,,high,low,9,name.com,,,
 4d36467c-739c-484f-b848-63a7724582e4,style.rocks,resell,,,medium,low,5,Dynadot Inc,05/08/2026 19:02,05/08/2027 19:02,08/09/2026 07:22
-ad1097af-c6ac-4552-a0b9-62047388315f,designers.support,resell,,,high,low,9,"Sav.com, LLC - 28",10/10/2025 15:16,10/10/2026 15:16,
-9b2dad39-b906-4169-b43f-3f0675a1ebcc,designers.rocks,available,12.99,,high,low,9,name.com,,,
-ed96938b-1ce7-4221-93ad-8d9d6afbd44e,designers.shiksha,available,19.99,,high,low,9,name.com,,,
 2ea130c7-6c82-4c2a-bb2d-1c7c59c6c184,clothing.fm,available,69.98,118.98,medium,low,8,namecheap,,,13/09/2026 09:00
 b4718e79-0c8d-46d2-974d-68362a55ca9f,clothing.wedding,premium,242,29.5,medium,low,8,namesilo,,,13/09/2026 09:00
 f0560c06-485c-4dce-b1e8-efea2368a375,fashion.shopping,resell,,,high,low,7,"Global Domains International, Inc. DBA DomainCostClub.com",25/09/2016 16:00,25/09/2026 16:00,
 8d6158b2-7dac-43f3-91ef-9e569bc30e2c,fashion.tienda,available,9.99,,high,medium,7,name.com,,,
-4ad65df9-48de-4428-bfff-0f7dbe96e0f4,designers.fast,premium,53.92,53.92,high,low,9,namesilo,,,
 72af7b4c-444d-457a-a4f6-5b9e9d04fc80,clothing.events,available,10.48,57.98,medium,low,8,namecheap,,,13/09/2026 09:00
-95069498-2378-40d8-b798-780b508c2b9b,designers.doctor,available,14.99,,high,low,9,name.com,,,
-782df2d8-2e23-4a3d-a06a-6b42c2d68d8d,designers.photo,premium,116,116,high,low,9,namesilo,,,
 c70bba72-7025-4b26-95d7-9a215ff9fe0d,clothing.trading,premium,520,520,medium,low,8,namecheap,,,13/09/2026 09:00
-bad67aa3-e5ab-46df-85cb-eb6e9227ce8d,movement.ryukyu,available,22.98,,high,low,8,namecheap,,,
 1116d7c6-2260-4814-b114-45f8da4a41c8,clothing.sucks,premium,2658.67,2658.67,medium,low,8,namesilo,,,13/09/2026 09:00
-6cbff394-5bdd-45ad-baac-696c3aa0ea03,designers.agency,resell,,,high,low,9,"NameCheap, Inc.",30/04/2014 22:57,30/04/2027 22:57,
 b2034591-b950-4189-9795-20d75460a54a,clothing.gg,resell,,,medium,low,8,Dynadot Inc. (https://www.dynadot.com),,,13/09/2026 09:00
-aaa430dc-9755-4c14-b6d9-e99d926741e6,luxury.gift,resell,,,high,low,6,"Global Domains International, Inc.",13/11/2018 05:58,13/11/2026 05:58,
 5922f070-7c2b-4baf-a99a-3342e0148aa5,clothing.desi,available,19.98,22.98,medium,low,8,namecheap,,,13/09/2026 09:00
 70e837bf-b39b-4b0a-a7c4-b7b9c2e51dda,clothing.builders,available,34.98,43.98,medium,low,8,namecheap,,,13/09/2026 09:00
 a881f5e8-8a22-456d-a5cb-b128da2b6671,clothing.adult,available,69.98,166.98,medium,low,8,namecheap,,,13/09/2026 09:00
-f1378b90-6c91-42dd-9a51-02555224cfab,designers.academy,premium,118.8,118.8,high,low,9,namesilo,,,
-26784e30-d8d2-447d-815d-3889b37ae6b4,designers.nexus,premium,161.25,,high,low,9,name.com,,,
-9f8550fa-275b-4a2f-b820-21b7330bd5e6,designers.hamburg,available,59.99,,high,low,9,name.com,,,
-b8149151-ee77-4300-9c24-0e5027731043,designers.rehab,premium,242,242,high,low,9,namesilo,,,
 d5c9f2ad-a8a2-4a1f-9464-003dad85aba8,clothing.review,premium,6500,130,medium,low,8,namecheap,,,13/09/2026 09:00
-a6004867-272d-430e-ac13-2c4d08ac3c06,designers.sydney,premium,89.31,,high,low,9,name.com,,,
 0da5160d-9f9d-475c-8118-ec3f923687cc,fashion.store,premium,3125,,high,medium,7,name.com,,,
 93c43f5c-7457-4bc2-a595-63243ec47fc9,clothing.loans,available,17.48,144.98,medium,low,8,namecheap,,,13/09/2026 09:00
-dcb88646-f879-47ab-95a2-e041c18e04b9,designers.church,available,11.99,,high,low,9,name.com,,,
-54f9f18f-2076-40e3-a287-638f6d9c34a9,designers.esq,premium,411.25,,high,low,9,name.com,,,
-8985b531-406f-4db8-89a5-7aa7dc453f88,chic.moda,premium,118.8,118.8,medium,low,4,namesilo,,,12/08/2026 04:40
-2131d821-e220-489a-b253-0cf07e97aa3f,designers.ltda,available,34.99,34.99,high,low,9,namesilo,,,
-a4997b4e-c85e-4838-99f3-a8cbde388b10,designers.deals,available,5.99,,high,low,9,name.com,,,
 bd815e39-f2e6-4990-aa34-123bee2bbb8c,clothing.lighting,available,22.98,31.98,medium,low,8,namecheap,,,13/09/2026 09:00
 13360077-00f4-4e3d-974e-4362b5fc5fc4,clothing.inc,premium,2015,2600,medium,low,8,namecheap,,,13/09/2026 09:00
-bd46c33a-d6e3-4894-9b2a-01d208cec1de,designers.ac,available,34.99,47.99,high,low,9,namesilo,,,
 5599d476-9272-4519-8faa-4bdb9a0a121b,clothing.health,available,3.98,107.98,medium,low,8,namecheap,,,13/09/2026 09:00
 a7315f7f-f1a9-4284-a85c-823e8529d056,clothing.viajes,available,37.99,37.99,medium,low,8,namesilo,,,13/09/2026 09:00
 11554a77-fa10-4057-90f4-6feba4a7946c,fashion.men,available,,,high,low,7,,,,
@@ -151,67 +81,51 @@ b0c9afa1-ed20-4592-a78d-f617bd00b51c,clothing.rentals,premium,242,242,medium,low
 4c829fda-166c-4f12-a233-d641ed7ff27c,clothing.contractors,available,35.49,35.49,medium,low,8,namesilo,,,13/09/2026 09:00
 8b3d5c88-1025-4643-b8da-f73d394302e0,style.kiwi,available,31.98,35.68,medium,low,5,namecheap,,,08/09/2026 07:22
 f7ea3b50-9e15-47da-89cc-6830b0b80c84,clothing.blog,premium,640,2660,medium,low,8,namesilo,,,13/09/2026 09:00
-2e537760-cf52-4812-89fa-a367ff4593f9,designers.condos,available,58.99,58.99,high,low,9,namesilo,,,
 678a4781-52c2-4921-93e7-357346d56e0d,style.ryukyu,available,17.98,22.98,medium,low,5,namecheap,,,08/09/2026 07:22
-d3cbfd5b-070a-4df1-80e5-08f745db081f,designers.reisen,available,3.99,20.99,high,low,9,namesilo,,,
 4fd91f5b-0c29-425a-be0f-1a933e00b386,clothing.theater,available,65.99,65.99,medium,low,8,namesilo,,,13/09/2026 09:00
 aeeb2afc-18f5-438b-8ff3-8ca286eb546f,clothing.security,available,1999.99,2049.99,medium,low,8,namesilo,,,13/09/2026 09:00
 bc069d38-4e29-458e-b50e-5c1f98481a30,clothing.clinic,premium,118.8,118.8,medium,low,8,namesilo,,,13/09/2026 09:00
 bf4057bd-7e2d-4e4d-b426-a98e451a24bc,clothing.law,available,95.99,95.99,medium,low,8,namesilo,,,13/09/2026 09:00
-5c62149e-2d5b-479f-aa6a-aad9fce960c8,fashion.diamonds,premium,242,242,high,medium,7,namesilo,,,
+5c62149e-2d5b-479f-aa6a-aad9fce960c8,fashion.diamonds,premium,242,242,high,medium,7,namesilo,,,20/09/2026 00:54
 bb115712-c7d9-4a69-a38c-3f4308b21a9c,clothing.partners,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
 3b1d8d5c-7ef2-4b77-97c4-7aa1698833f7,clothing.email,available,4.98,40.98,medium,low,8,namecheap,,,13/09/2026 09:00
-d06f1ffd-11bd-4b20-a407-f65be0baf44a,designers.info,resell,,,high,low,9,"GoDaddy.com, LLC",13/07/2002 19:26,13/07/2027 19:26,18/09/2026 08:06
-2e33ea30-a226-4e04-9924-5565a02955c1,fashion.red,resell,,,high,medium,7,Squarespace Domains II LLC,25/09/2021 05:52,25/09/2033 05:52,
+2e33ea30-a226-4e04-9924-5565a02955c1,fashion.red,resell,,,high,medium,7,Squarespace Domains II LLC,25/09/2021 05:52,25/09/2033 05:52,19/09/2026 07:08
 315056b1-7aa7-4586-8367-5cd260f39e5d,fashion.pink,premium,625,,high,medium,7,name.com,,,
 9fd64fa4-e33f-4252-96db-c76ddb2c3bb7,clothing.black,premium,640,640,medium,low,8,namesilo,,,13/09/2026 09:00
 31d184d1-b355-4a74-b695-e7da72200c1c,clothing.meme,premium,1690,1690,medium,low,8,namecheap,,,13/09/2026 09:00
-c5666b06-aaba-44d3-9ef3-f43180dad02b,designers.deal,available,38.99,38.99,high,low,9,namesilo,,,
 cbc16ab6-4932-4315-85ca-eccc711972db,fashion.gold,resell,,,high,medium,7,"DNSPod, Inc.",22/12/2018 23:27,22/12/2026 23:27,
 c8eb0e1d-a5dc-4779-bcc9-bacb658777c9,clothing.immo,available,34.99,34.99,medium,low,8,namesilo,,,13/09/2026 09:00
 47baddaa-4679-414e-8935-04cb54bcc596,clothing.cab,available,32.99,32.99,medium,low,8,namesilo,,,13/09/2026 09:00
-12a92258-1885-43ff-8e70-d4cb16cc200c,designers.creditcard,available,9.99,,high,low,9,name.com,,,
-d2f94f5c-20d9-4933-8f46-2bb6830491a3,designers.to,resell,,,high,low,9,NAMECHEAP,09/04/2023 02:27,01/08/2026 00:00,
-82944cc2-ee66-414c-a442-1d4b981391f5,designers.motorcycles,available,1.99,15.75,high,low,9,namesilo,,,
-86d5228b-020c-4673-ac64-fc99fef9c685,model.agency,resell,,,medium,low,5,"GoDaddy.com, LLC",20/04/2021 23:17,20/04/2027 23:17,08/09/2026 03:01
-5b9abd4f-20d4-472f-b69d-e3a375e85dbd,designers.codes,available,11.99,,high,low,9,name.com,,,
 ee60cb02-59b7-46e2-afee-0715ca0149d1,fashion.salon,premium,78.54,78.54,high,medium,7,namesilo,,,
 267e518b-76e9-4fee-9f69-a7ba3191fbee,clothing.pictures,resell,,,medium,low,8,"GoDaddy.com, LLC",16/06/2022 01:56,16/06/2027 01:56,13/09/2026 09:00
 738e2f1f-c59d-450e-adff-981545938ea2,clothing.webcam,premium,640,77.35,medium,low,8,namesilo,,,13/09/2026 09:00
-8312be46-bbc1-44d5-aea5-d7e23f0b9b13,designers.solutions,available,5.99,,high,low,9,name.com,,,
 88e2b019-8845-40c8-bb01-667289ea74a5,clothing.tel,premium,1300,11.7,medium,low,8,namecheap,,,13/09/2026 09:00
-ed6dee4e-8ed2-4e1b-b3db-07f4795a1753,fashion.hair,premium,812.5,,high,medium,7,name.com,,,
+ed6dee4e-8ed2-4e1b-b3db-07f4795a1753,fashion.hair,premium,832,832,high,medium,7,namesilo,,,18/09/2026 23:12
 5e14582f-ec97-4b87-81c7-a2ff50772eb5,clothing.ltda,premium,56.64,33.04,medium,low,8,namesilo,,,13/09/2026 09:00
 a570500a-ce35-41a3-87f0-e994025022c6,fashion.makeup,premium,812.5,,high,medium,7,name.com,,,
-e62fd19b-3191-48f0-abfb-294df593d579,designers.meme,premium,187.5,,high,low,9,name.com,,,
-1bbdc657-8e85-4613-bad6-9e5122876c49,designers.live,premium,69.3,138.6,high,low,9,namecheap,,,
-0d4b6cf0-10c2-4a2f-a27b-7aa378f5feb3,designers.business,premium,118.8,118.8,high,low,9,namesilo,,,
 19b7b89b-58d1-433f-83b4-3bacfd7c2b82,clothing.spot,premium,116,116,medium,low,8,namesilo,,,13/09/2026 09:00
 b7038eae-6b82-4313-bfd9-9490cb003bab,fashion.skin,premium,812.5,,high,medium,7,name.com,,,
 d8cf258c-83b1-401b-8ad7-6f5b530a1715,clothing.auction,premium,1107,1107,medium,low,8,namesilo,,,13/09/2026 09:00
-f044881f-5023-47f0-b6ec-17f67a3794b2,designers.services,premium,280,560,high,low,9,namecheap,,,
+f8e50048-ef36-4828-ace4-5039ef0979f9,garment.furniture,available,23.98,127.98,medium,low,7,namecheap,,,19/09/2026 20:02
 d9dfca62-1951-4bf2-9bbb-cebf255ce1f7,clothing.zip,premium,1298.7,1298.7,medium,low,8,namecheap,,,13/09/2026 09:00
 c8ddf3e0-60d4-44f6-8856-5787f3402973,clothing.cam,resell,,,medium,low,8,"Spaceship, Inc.",24/10/2025 09:44,24/10/2026 23:59,13/09/2026 09:00
-1b7d2876-0627-4ac2-953f-57a4c7b831e7,designers.cruises,available,14.99,,high,low,9,name.com,,,
 9776c22e-01a6-42b3-8db6-f31e037f9ad7,clothing.nexus,premium,1298.7,1298.7,medium,low,8,namecheap,,,13/09/2026 09:00
-3f219f36-2da5-49a7-9e3f-507dfabe1a4b,designers.ventures,available,19.99,,high,low,9,name.com,,,
-fb8ae07f-8607-4515-b571-004e13c24a21,designers.trade,available,5.25,6.25,high,low,9,namesilo,,,
-38eb6900-b06c-4656-80d7-ea8377dc005e,designers.company,premium,242,242,high,low,9,namesilo,,,
-2f48850a-796d-4981-9935-86b0b80abfd2,designers.day,premium,311.25,,high,low,9,name.com,,,
 8fc5236d-09b5-4800-9a6d-f749e662c9c4,fashion.furniture,premium,118.8,118.8,high,medium,7,namesilo,,,
 7c1159ac-4f68-4f8d-bcaa-8da33889a219,clothing.fund,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
 1e9c4450-612a-463b-b446-17c81dff40ef,clothing.gold,premium,512,512,medium,low,8,namesilo,,,13/09/2026 09:00
-74a794b2-52c3-4f84-beb8-246a4629dbe5,designers.country,available,2450,,high,low,9,namecheap,,,
 0a0f50ac-82ac-49d5-8a3e-92a6971f644d,fashion.photos,available,,,high,low,7,,,,
 1c21751d-7167-45bb-ac72-e910f1b2de89,fashion.pics,resell,,,high,medium,7,Dynadot LLC,20/08/2025 10:32,20/08/2026 23:59,
-aa16a46b-99a1-4472-a624-2a2d6286870d,designers.taxi,available,10.99,,high,low,9,name.com,,,
+7852993c-4042-4335-becb-35f48463e11c,garment.jewelry,available,67.98,69.98,medium,low,7,namecheap,,,19/09/2026 20:02
+f4497750-d287-4448-8819-387dbda2feeb,garment.cards,available,40.98,48.98,medium,low,7,namecheap,,,19/09/2026 20:02
 d0e5228f-58f6-48d0-a49f-2d87e9923134,clothing.hiv,available,195.99,195.99,medium,low,8,namesilo,,,13/09/2026 09:00
-7fd240cd-00b1-4e47-a416-76032eecbc4e,chic.boutique,premium,500,500,medium,low,4,name.com,,,12/08/2026 04:40
+5557db6d-a075-48fc-a4c2-5bd6d1cd9328,garment.red,available,9.48,28.48,medium,low,7,namecheap,,,19/09/2026 20:02
 9279de05-8e57-4c95-a40b-d64a7528e2b2,fashion.rich,available,94.99,1999,high,medium,7,namesilo,,,
+4751f3eb-4682-4509-93d7-6169b7f26df5,garment.mortgage,available,65.98,76.98,medium,low,7,namecheap,,,19/09/2026 20:02
+066e7c36-1ffd-46cc-95e7-fff39a97a88b,garment.desi,available,19.98,22.98,medium,low,7,namecheap,,,19/09/2026 20:02
 c854c1e6-d7d0-4ba9-9342-cbd7db0a0490,clothing.bz,available,21.98,26.98,medium,low,8,namecheap,,,13/09/2026 09:00
-4a4f163c-701d-4612-b2bd-7637b0eba051,designers.party,premium,437.5,,high,low,9,name.com,,,
 d3372dc7-77ac-45c4-8bc7-79c20533bb1a,fashion.watch,premium,500,,high,medium,7,name.com,,,
-dcbfe92d-470d-4911-9ae0-7155a1676d21,shop.guru,resell,,,high,medium,4,Porkbun LLC,15/07/2015 16:00,15/07/2026 16:00,
+473cb205-8d76-41d7-b82e-28870486e1eb,garment.limited,available,37.98,39.98,medium,low,7,namecheap,,,19/09/2026 20:02
+5519be1c-57ac-475c-ba3c-83991ddcc3ac,garment.flowers,available,108.98,159.98,medium,low,7,namecheap,,,19/09/2026 20:02
 1ec24bac-7217-4869-8851-5cb0f1a16b56,clothing.hockey,available,59.99,59.99,medium,low,8,namesilo,,,13/09/2026 09:00
 fc995534-7a18-48e8-9dac-c605094bf8f3,clothing.gifts,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
 b9783661-80bb-455b-ae9c-29a13c498b96,fashion.site,premium,1562.5,,high,medium,7,name.com,,,
@@ -219,37 +133,33 @@ ea38053e-d154-44ce-ba85-6de2641b692d,fashion.online,premium,7812.5,,high,medium,
 427ec710-3667-4612-b9f3-3f8e79345b29,fashion.archi,available,24.99,,high,medium,7,name.com,,,
 8034ad77-12a4-451f-89f4-d5c3c1761f3b,clothing.schule,available,28.99,28.99,medium,low,8,namesilo,,,13/09/2026 09:00
 8ead4a17-eb15-4a04-8e04-f65ecd350642,clothing.wtf,premium,118.8,118.8,medium,low,8,namesilo,,,13/09/2026 09:00
+f358b30c-c1c6-4cad-ad74-bd8a5ef4fe56,garment.engineering,available,10.48,85.98,medium,low,7,namecheap,,,19/09/2026 20:02
 7aebbf27-6921-4f13-a1f8-e1d2d34e9d68,fashion.space,premium,3500,14000,high,medium,7,namecheap,,,
 0c08e3d0-eb70-41e5-aa5f-f2b21ff5c198,fashion.dev,premium,1623.75,,high,medium,7,name.com,,,
 3ed7d5ed-1c9e-4d1d-b119-68b9ef787a50,fashion.xyz,available,,,high,low,7,,,,
-25370878-0925-4069-b7ef-0293cf736621,designers.viajes,available,37.99,37.99,high,low,9,namesilo,,,
-9090a1fc-1ce4-41d4-a2ca-7c57ceb68486,designers.bid,available,5.25,6.25,high,low,9,namesilo,,,
 aabbb598-487c-4334-8ff9-5c9239cd26e3,fashion.zone,premium,854,854,high,medium,7,namesilo,,,
-56e10e65-b943-49a9-bb6d-ba47cc129c2f,designers.salon,available,14.99,,high,low,9,name.com,,,
-2b78d8ef-a0ea-47ea-8ffb-140bd343887e,designers.bot,available,64.99,64.99,high,low,9,namesilo,,,
 10bd4362-42ed-48ca-951d-0f97a55a0522,clothing.art,premium,1662.5,83.3,medium,low,8,namesilo,,,13/09/2026 09:00
+89657fef-c56d-492a-9718-fc420a3ac7d7,garment.mov,premium,76.7,76.7,medium,low,7,namecheap,,,19/09/2026 20:02
+3b8610a4-cabc-4eb4-aa3b-ec14cf0d4475,garment.autos,available,1.8,21.98,medium,low,7,namecheap,,,19/09/2026 20:02
 a0c282ce-9e3d-48c3-81da-86eec8c0a331,fashion.hot,premium,1107,1107,high,medium,7,namesilo,,,
 4a70eb3a-0868-4849-bf76-e6ec8b0f0391,fashion.studio,available,,,high,low,7,,,,
-598e074a-e831-427f-8fe8-0bde8384663f,designers.futbol,available,17.99,17.99,high,low,9,namesilo,,,
 2d0fde9e-fe2a-4394-82a5-e6106c73954a,fashion.ooo,available,,,high,low,7,,,,
 c22478ef-8553-4c25-913a-a260d5793ddb,fashion.lifestyle,premium,1960,2800,high,medium,7,namecheap,,,
 37107693-856f-4912-8e04-e3f1c4f091d7,fashion.living,premium,1960,2800,high,medium,7,namecheap,,,
 18674fe1-f08e-4432-ad44-d0b47910b56d,fashion.forsale,premium,1107,1107,high,medium,7,namesilo,,,
 1c19f775-148d-4c02-8197-0e97864535cc,fashion.sale,premium,1107,1107,high,medium,7,namesilo,,,
+8ba1dc6a-8b99-4e01-932c-5cfbf97a01ff,garment.phd,premium,63.7,63.7,medium,low,7,namecheap,,,19/09/2026 20:02
 5a4b17fe-e030-4b0f-a82c-999e216e7c3c,fashion.promo,premium,3125,,high,medium,7,name.com,,,
-5ee6220d-9549-4b4e-a8f9-b544304f3954,designers.recipes,available,11.99,,high,low,9,name.com,,,
 c640621a-ca0c-4714-9d36-e96af73c8778,fashion.limo,available,19.99,,high,medium,7,name.com,,,
 82e05cc7-dcf0-4e32-bce0-b06ba105096d,fashion.page,premium,1248.75,,high,medium,7,name.com,,,
 72fd19e0-fbd2-4736-b09d-27dd313c1594,fashion.website,premium,3125,,high,medium,7,name.com,,,
 00195444-055e-4b56-9c40-d8898e932dd7,fashion.onl,premium,302.5,640,high,medium,7,namesilo,,,
 de9a45f7-4c1b-4a85-b463-623001cfb6ca,fashion.blackfriday,premium,116,30.68,high,medium,7,namesilo,,,
-6bad3f19-0913-42e7-9b2e-b7d59fc2dd4e,designers.biz,premium,116,21.24,high,low,9,namesilo,,,
 8dc27ce4-ec5b-4b25-96f3-9e68652bcd0a,fashion.gratis,available,23.99,23.99,high,medium,7,namesilo,,,
 f68aebb8-2a33-4ec9-bef7-040526a0d2b8,fashion.free,premium,1107,1107,high,medium,7,namesilo,,,
 cd1ebc0e-e94e-4059-82b7-64302677ed70,fashion.bargains,premium,118.8,118.8,high,medium,7,namesilo,,,
 1254ec54-dd47-4ac4-91cf-8d912baf4cbd,fashion.coupons,premium,78.54,78.54,high,medium,7,namesilo,,,
 78b209b7-09f1-4313-8fc5-9d9d04d8c322,fashion.qpon,premium,3450,23.54,high,medium,7,namesilo,,,
-678f2e7b-aa97-4dd4-8e42-7ca6197c1c61,fashion.cheap,resell,,,high,medium,7,"Key-Systems, LLC",29/07/2015 16:00,29/07/2026 16:00,
 5c1bf210-11db-4ebf-acd2-bbbcbaa26e60,fashion.deal,premium,3125,,high,medium,7,name.com,,,
 01b20a29-9aac-439d-927d-90df566d9e8e,clothing.studio,premium,130,260,medium,low,8,namecheap,,,13/09/2026 09:00
 efa8d3c2-d837-4a12-8f02-2caf68b9ebca,fashion.dealer,premium,2170,2800,high,medium,7,namecheap,,,
@@ -259,8 +169,6 @@ a0c88775-0f08-4974-b26f-8c436b581892,fashion.motorcycles,premium,812.5,,high,med
 83ddb8c1-aea6-47ac-a18a-9704ff7638d3,fashion.auto,available,1999.99,2199,high,medium,7,namesilo,,,
 219408c2-997f-4515-af62-98ced868b759,fashion.cars,available,1999.99,2199,high,medium,7,namesilo,,,
 fb6f4ba6-4b47-494d-81e7-41495750f53a,fashion.haus,premium,854,854,high,medium,7,namesilo,,,
-d12115a5-9a8e-46f0-9d9b-f4e3fceadaeb,trendy.zone,resell,,,medium,low,6,"DNSPod, Inc.",01/12/2023 15:15,01/12/2026 15:15,11/09/2026 19:19
-e72a937a-d55d-4222-a7da-40bb964366ef,designers.coupons,available,3.99,,high,low,9,name.com,,,
 2eac22bf-01fb-4e4d-8ecb-125b2a36c4b4,fashion.house,resell,,,high,medium,7,"Spaceship, Inc.",21/10/2020 23:17,21/10/2026 23:17,
 0390371f-8b1e-47a2-9cf2-6dda810249e4,fashion.maison,available,19.99,,high,medium,7,name.com,,,
 b62d9bca-6a46-4b4a-8c00-951238a4ec27,fashion.casa,premium,5000,,high,medium,7,name.com,,,
@@ -273,18 +181,22 @@ cff15a34-4822-40fc-af1e-be6dfbea9659,fashion.apartments,available,19.99,,high,me
 110b16b1-22dc-4863-8e96-c41356e706e3,fashion.property,available,,,high,low,7,,,,
 1e3f1c0c-7532-4e09-b96c-8c9f56d3cb8d,fashion.villas,premium,242,242,high,medium,7,namesilo,,,
 04c43f52-6c37-4c22-ab58-33bf18a3365f,fashion.immobilien,available,14.99,,high,medium,7,name.com,,,
+e6b12385-99bd-41d1-9457-69b5be1b0c9a,garment.storage,available,538.98,858,medium,low,7,namecheap,,,19/09/2026 20:02
 f7ac9dd9-6b44-4dbc-b1b2-63110999578a,fashion.lighting,available,14.99,,high,medium,7,name.com,,,
-073924fd-09bc-4729-97e3-5bfef30b9118,designers.vegas,premium,242,119.94,high,low,9,namesilo,,,
+cbe51bc3-0e86-42bc-bfcc-f51dc284e0cf,garment.supplies,available,25.48,32.48,medium,low,7,namecheap,,,19/09/2026 20:02
 b29332c0-7966-4c1c-a72c-060a3ac153bf,fashion.ninja,premium,38.94,38.94,high,medium,7,namesilo,,,
-86ac40d5-c1f9-410f-b4ea-dd41fc1a2af4,sophistication.cruises,available,14.99,,high,low,14,name.com,,,
 7f14e23f-f52f-427e-8a92-96cc4fc234a0,clothing.marketing,premium,118.8,118.8,medium,low,8,namesilo,,,13/09/2026 09:00
 2c33a1fd-ecdf-4a79-9917-365dcb567e95,fashion.to,resell,,,high,low,7,humbly LLC,09/02/2024 02:27,14/02/2026 05:35,
-93289f90-9eef-4ea6-962d-ac555cbf8041,wear.ryukyu,available,22.98,,high,low,4,namecheap,,,
+ed9e7d07-af17-40a5-80ff-74719022dca7,garment.mom,available,1.8,45.98,medium,low,7,namecheap,,,19/09/2026 20:02
+dc0a784f-36a1-4b8d-9aae-13c3933b5c2c,garment.pet,available,6.98,35.98,medium,low,7,namecheap,,,19/09/2026 20:02
+e2fdc2f3-62ba-438e-a3ba-fcc5f59ab7be,garment.holdings,available,67.98,81.98,medium,low,7,namecheap,,,19/09/2026 20:02
+2e68eb70-6c79-4b4c-b1c3-602dab98c511,garment.florist,available,31.98,41.98,medium,low,7,namecheap,,,19/09/2026 20:02
 83261beb-b28c-40ab-bdbe-f0e48a2e4946,fashion.icu,premium,106.8,227.84,high,medium,7,namesilo,,,
 b9cf81b9-cd28-4a34-a5e9-8f03c988b1df,fashion.cyou,premium,282.88,565.76,high,medium,7,namesilo,,,
+942a6c35-08b4-4f85-8384-8b910eb84ceb,garment.pink,available,6.48,31.48,medium,low,7,namecheap,,,19/09/2026 20:02
+410bbaea-2aa3-4b89-97b4-588b8625963c,garment.digital,available,2.98,53.98,medium,low,7,namecheap,,,19/09/2026 20:02
 d2c8ca17-75eb-485a-8e32-f54e4cedd2af,fashion.engineer,resell,,,high,medium,7,Dynadot Inc,19/02/2026 01:23,19/02/2027 01:23,
 ac041756-e3c7-495c-9805-b91b1317989b,clothing.camp,premium,512,512,medium,low,8,namesilo,,,13/09/2026 09:00
-e4d6d2ca-29a0-4df1-80b5-d24200b1a661,chic.properties,available,10.99,50.99,medium,low,4,name.com,,,12/08/2026 04:40
 4f966839-f8b7-4c15-b972-352a048ad934,fashion.eu,resell,,,high,medium,7,Name: D-Cube Resource Website: www.dcube-resource.be,,,
 2eea1029-2f27-4437-8e17-9e940f372193,fashion.cx,resell,,,high,medium,7,West263 International Limited,04/07/2024 02:54,04/07/2027 02:54,17/09/2026 14:23
 437da0ec-b7e0-46cf-bb31-970b58a0b128,fashion.im,available,,,high,low,7,,,,
@@ -292,20 +204,13 @@ e4d6d2ca-29a0-4df1-80b5-d24200b1a661,chic.properties,available,10.99,50.99,mediu
 a2234536-d262-42f6-bc85-4069475a6737,fashion.bz,resell,,,high,low,7,"GoDaddy.com, LLC",29/10/2016 20:42,29/10/2026 20:42,
 8fc8195e-ecd0-47ae-bd48-55fbe923ebba,fashion.fun,premium,1562.5,,high,medium,7,name.com,,,
 fc9c3350-0a5d-4f32-90d3-7d818ee8c35f,fashion.boo,premium,1248.75,,high,medium,7,name.com,,,
-03aeb378-b9ff-491e-8ebd-28d5587f3970,pattern.moda,premium,118.8,118.8,medium,low,7,namesilo,,,25/08/2026 02:49
 b9ddd73d-33a5-46bf-b68d-a954480a4dbf,fashion.vegas,resell,,,high,medium,7,Porkbun LLC,09/09/2019 16:40,09/09/2026 16:40,
-2e1161f8-7603-4cd3-827a-8d1817bfd748,designers.pw,premium,74.92,,high,low,9,name.com,,,
-b19c7f0f-6e07-487f-9a5a-1565a93879a6,designers.dad,premium,311.25,,high,low,9,name.com,,,
-b6a43d41-5d82-4125-893b-b0a1b8f09b4a,sophistication.vin,available,11.99,,high,low,14,name.com,,,
 dc86e5db-f8a8-49fd-9077-7aec04af6b48,fashion.uno,premium,3125,,high,medium,7,name.com,,,
-46f27d2e-c941-4944-b6df-3410aab1a4ee,sophistication.cash,available,17.99,,high,low,14,name.com,,,
-4a392c98-de29-4506-ba14-3bfc226e8a6a,designers.maison,available,19.99,,high,low,9,name.com,,,
 2a52db3f-21b6-4f3f-8ad7-084aa97881ef,clothing.engineer,available,38.99,38.99,medium,low,8,namesilo,,,13/09/2026 09:00
 5f4f89bd-04f3-4a93-9011-b2e14e228cdb,fashion.adult,premium,310,,high,medium,7,name.com,,,
 e07240b5-6985-4dcb-9c57-5534d91e38fd,fashion.porn,available,,,high,low,7,,,,
 8656bc93-3af7-489a-8045-f17cb6d77746,fashion.sexy,available,2749.99,2749.99,high,medium,7,namesilo,,,
-f5b6b6f5-4a4b-4071-a48a-6f6880d277ec,chic.credit,available,9.48,131.98,medium,low,4,namecheap,,,12/08/2026 04:40
-e7cb1733-f081-48ad-b868-82a35ee56084,sophistication.men,available,5.25,6.25,high,low,14,namesilo,,,
+1297d0d9-8b6e-4f7c-b403-176fe31922d5,garment.guide,available,43.48,54.48,medium,low,7,namecheap,,,19/09/2026 20:02
 84c9f473-6971-4266-bf6e-f155ef05e580,fashion.ing,premium,3750,,high,medium,7,name.com,,,
 5efd0e40-7980-4aa5-8cb6-45689cb9f54a,fashion.one,premium,625,,high,medium,7,name.com,,,
 f3d96773-3992-4794-8d3c-ba58cef8e5e6,fashion.soy,premium,623.75,,high,medium,7,name.com,,,
@@ -319,7 +224,6 @@ ec72d397-5d5c-4464-9450-ba55c1c566a0,fashion.bayern,premium,293.01,,high,medium,
 8f3087cd-f77f-4b33-9a9b-cbb17bdda0cd,fashion.sydney,premium,900.38,,high,medium,7,name.com,,,
 cb8cfe32-19db-4a99-b25a-4a1d44c16dfe,fashion.berlin,resell,,,high,medium,7,,27/11/2015 16:02,27/11/2027 16:02,
 3c285246-1adc-4bf9-9164-1b1a12692ff3,fashion.me,resell,,,high,medium,7,1API GmbH,29/04/2008 18:00,29/04/2027 18:00,
-97500170-7a1b-42cf-89a2-13e7e4d30843,sophistication.wedding,available,32.49,32.49,high,low,14,namesilo,,,
 a983fbaa-d27d-4ae5-ab0c-b6861bf78de3,fashion.camera,premium,500,,high,medium,7,name.com,,,
 e1b80d53-44c6-4c0b-8cf8-dc583ab2809a,fashion.tattoo,available,,,high,low,7,,,,
 000a97b7-0d7c-4b4b-9b81-a1aa0442d944,fashion.build,premium,1875,,high,medium,7,name.com,,,
@@ -332,12 +236,12 @@ e6dcf7a2-7bde-4604-a37e-c0779b243c4a,fashion.horse,premium,5000,,high,medium,7,n
 6f2952a3-ce84-44c4-9cd4-e109b1337c0a,fashion.dog,resell,,,high,medium,7,"Sav.com, LLC",27/04/2025 17:08,27/04/2027 17:08,
 364b4b6f-bfb2-4b9f-810d-2c783becc7a9,fashion.yachts,premium,812.5,,high,medium,7,name.com,,,
 5b5652e8-4567-4db5-a692-26f194ca4c9e,fashion.ink,premium,125,,high,medium,7,name.com,,,
-a1a5ba6c-c5cf-4cd0-9baa-2c6bb606e7e0,designers.realty,available,109.99,299,high,low,9,namesilo,,,
+9e38a96f-81de-4b2c-8172-4c2edeb0c51c,garment.news,available,8.98,41.48,medium,low,7,namecheap,,,19/09/2026 20:02
 75dabba3-40ee-4241-a748-697886daeee9,fashion.expert,available,,,high,low,7,,,,
 b87e9a1a-7f77-4547-b0e9-34374723dd24,fashion.parts,premium,242,242,high,medium,7,namesilo,,,
 df29e82c-7976-45f1-ad3e-db7da7287a38,style.vin,available,6.98,75.98,medium,low,5,namecheap,,,08/09/2026 07:22
+79249100-3032-48ec-80a5-ae37f28b0d44,garment.men,available,5.98,9.48,medium,low,7,namecheap,,,19/09/2026 20:02
 063afb9b-9ad1-4d31-931f-ae873e158764,fashion.vodka,available,32.49,32.49,high,medium,7,namesilo,,,
-419133f3-bffe-444a-a27a-1842498a637d,pattern.luxe,available,19.49,19.49,medium,low,7,namesilo,,,25/08/2026 02:49
 d10500ff-b25b-44e2-b18f-bd607bbeb3e2,fashion.day,premium,1248.75,,high,medium,7,name.com,,,
 fb96e8db-1e1b-4667-b91f-4cfdb95a8092,fashion.digital,resell,,,high,medium,7,"GoDaddy.com, LLC",03/09/2023 15:15,03/09/2026 15:15,
 c0659d58-9e88-4a34-a6af-96546adc1002,fashion.spot,premium,1107,1107,high,medium,7,namesilo,,,
@@ -364,9 +268,8 @@ fbf767be-3290-4508-b94b-31ed67ad6efc,fashion.video,premium,1750,3500,high,medium
 22ec6ba6-2e49-4227-9393-03df97d0461b,fashion.stream,premium,6250,,high,medium,7,name.com,,,
 cfcffdf2-c02f-437f-bdd2-a1ef83177817,fashion.tube,available,,,high,low,7,,,,
 9ec3749e-701c-44e7-80a1-ff0724131b88,fashion.locker,premium,3136.33,8.05,high,medium,7,namesilo,,,
-2ddafdaa-ad57-43e7-aa23-e0c5e3769954,designers.mov,premium,161.25,,high,low,9,name.com,,,
 79ba9cb0-838e-4afa-b945-706b84f12bd1,fashion.storage,available,509.99,529.99,high,medium,7,namesilo,,,
-314f004b-970c-41e3-bdbe-0855a605cd90,glamorous.style,premium,78.54,78.54,medium,low,9,namesilo,,,19/08/2026 00:15
+1831ee13-1c1e-4c4f-8051-8d62668ed3d7,garment.lease,available,58.98,73.98,medium,low,7,namecheap,,,19/09/2026 20:02
 f0478abe-1a0f-42b5-aadc-9c2722a007f3,fashion.gifts,resell,,,high,medium,7,Dynadot Inc,30/11/2020 01:28,30/11/2026 01:28,
 a2f59083-fae6-41a7-bb09-3c001981abc7,fashion.gives,premium,118.8,118.8,high,medium,7,namesilo,,,
 aadbc82b-c721-49e6-aeeb-f224e53fc989,fashion.giving,available,,,high,low,7,,,,
@@ -380,7 +283,6 @@ f8c82e5b-8a95-49de-b20a-2332c33e0973,fashion.inc,premium,2061.5,2660,high,medium
 0d8809cd-5309-4585-8c24-c868c9d0e599,fashion.ltd,resell,,,high,medium,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),14/08/2019 03:12,14/08/2030 03:12,
 8b5384d2-fba3-433a-89d8-4acd3c97b2a9,fashion.llc,premium,1875,,high,medium,7,name.com,,,
 ab17d442-0118-43f1-b20a-2419740389f3,fashion.foo,premium,1248.75,,high,medium,7,name.com,,,
-b50b25e1-356a-43de-b6cf-b44e0b436e5f,chic.tickets,available,359.99,389.99,medium,low,4,namesilo,,,12/08/2026 04:40
 f7704283-2a1f-4c6f-8d45-bfd17d53b7e7,fashion.financial,premium,242,242,high,medium,7,namesilo,,,
 dcc4dbbb-4251-4e7a-bcf0-bc3562ba6100,fashion.investments,premium,242,242,high,medium,7,namesilo,,,
 78169d44-209b-4cc2-8c61-8bcc842795d0,fashion.loan,premium,1107,116,high,medium,7,namesilo,,,
@@ -395,7 +297,7 @@ ec0e0f2c-1084-4c61-8cad-82365411cc8e,fashion.viajes,available,37.99,37.99,high,m
 dfe06730-68ab-4c86-8756-74bcec3a4608,fashion.reisen,available,3.99,20.99,high,medium,7,namesilo,,,
 7bd9e463-75c3-456d-9d60-b3231f5153b5,fashion.travel,resell,,,high,medium,7,Dynadot Inc,12/08/2023 17:00,12/08/2026 17:00,
 746d9c07-6c34-4fc1-a68f-dfbe199adc57,fashion.food,premium,1960,2800,high,medium,7,namecheap,,,
-119ec0c0-03fc-44b9-bbfa-3ad9fd2a613d,sophistication.asia,available,2.59,13.49,high,low,14,namesilo,,,
+cbb76754-4058-4527-b35d-c375d3adb54a,garment.lawyer,available,65.98,66.98,medium,low,7,namecheap,,,19/09/2026 20:02
 0741e709-997f-49b4-a805-aa9d12dab420,fashion.hockey,available,14.99,,high,medium,7,name.com,,,
 fedf1dc7-add6-412b-977e-2f6f6d8eb6a2,fashion.moe,premium,302.5,14.16,high,medium,7,namesilo,,,
 b34ada2d-909c-4907-b322-8b981f9317d5,clothing.ventures,available,5.98,75.98,medium,low,8,namecheap,,,13/09/2026 09:00
@@ -415,7 +317,6 @@ f6a9574e-bab8-4c51-97ce-c9b2e9989e1c,fashion.audio,available,104.99,114.99,high,
 3f5747a1-ef72-4b80-81c6-43b80f676ff0,fashion.music,available,,,high,low,7,,,,
 09bce0d9-5ee7-4a50-a849-24a0994e112d,fashion.hiphop,available,,,high,low,7,,,,
 711491de-1f54-4d49-b59a-687fbc4d9990,fashion.cruises,available,14.99,,high,medium,7,name.com,,,
-dc0da3f5-2759-4aa0-b780-9a253ab27a2d,designers.sale,available,5.99,,high,low,9,name.com,,,
 19537f3b-4d37-4d20-a6ff-d40cc881d89d,fashion.attorney,premium,3750,,high,medium,7,name.com,,,
 a0a9e5b6-fe61-4468-b533-36cf462df2ea,fashion.legal,resell,,,high,medium,7,Dynadot Inc,22/01/2026 17:01,22/01/2027 17:01,
 936fd84e-c3ff-452b-a4d4-87a64af511f8,fashion.esq,premium,1623.75,,high,medium,7,name.com,,,
@@ -425,30 +326,27 @@ ee9787a2-3d38-4cd2-9946-4f61d7a7b5b2,fashion.football,available,19.99,,high,medi
 776463b0-d7f5-4d1d-84cd-7170af634cae,fashion.futbol,available,17.99,17.99,high,medium,7,namesilo,,,
 9f294adf-c472-4171-8dd3-460407e537e4,fashion.kim,premium,1107,1107,high,medium,7,namesilo,,,
 1141e18d-7998-46d8-a3c3-781db840876a,clothing.cleaning,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
-81f7ae4b-c729-4177-a950-0a99dd8acd27,designers.guitars,available,104.99,114.99,high,low,9,namesilo,,,
 bdd692b0-bf64-4c42-a7b8-0d22dd1ca83f,fashion.reviews,available,,,high,low,7,,,,
 99520fa1-a469-494b-926d-a5efae1ad754,fashion.gripe,premium,38.94,38.94,high,medium,7,namesilo,,,
 6ced25f0-1edf-4e11-adaa-9f69437ffc14,fashion.wtf,available,,,high,low,7,,,,
 6182d00f-9275-4850-a59e-586088c3d81b,fashion.sucks,available,,,high,low,7,,,,
 991b1f2b-3de9-4174-9447-44acc222dd22,fashion.review,premium,12500,,high,medium,7,name.com,,,
+96e5af44-8728-4ca4-8dd8-78a229b208ff,garment.xxx,available,69.98,154.98,medium,low,7,namecheap,,,19/09/2026 20:02
 4729038a-4fba-4dbf-91ec-301b5e1a44e4,fashion.country,available,2450,,high,medium,7,namecheap,,,
 87138cd1-20d7-4257-8e37-6f7bd3f27776,fashion.tires,available,5.99,78.99,high,medium,7,namesilo,,,
 2856c41e-d239-4943-a717-dd9cf07f7682,clothing.today,premium,854,854,medium,low,8,namesilo,,,13/09/2026 09:00
 b6d6bb3c-ba15-41ac-a2a0-82c580fdcf01,fashion.social,resell,,,high,medium,7,"GoDaddy.com, LLC",27/09/2024 09:39,27/09/2026 09:39,
 85a5060b-e706-47ae-9a1b-5b5c4e7bf85a,fashion.cleaning,available,75.49,75.49,high,medium,7,namesilo,,,
-43728079-f2ef-4f25-adf3-0bc780451e9b,sophistication.fashion,available,32.49,32.49,high,low,14,namesilo,,,
 caa880fa-e485-46bf-a788-29b93754de29,fashion.ceo,premium,499,,high,medium,7,name.com,,,
 61bca2cf-df86-48c5-a9e2-4ac03958fb25,fashion.talk,premium,625,,high,medium,7,name.com,,,
 fed32f23-f63c-4cee-8f8a-f47165a3c995,fashion.cricket,available,23.59,23.59,high,medium,7,namesilo,,,
 50ee1007-52ae-459f-8e54-0a45811bba40,fashion.boats,premium,812.5,,high,medium,7,name.com,,,
 e21e6273-13d3-436e-9718-ad180974c306,fashion.cooking,available,32.49,32.49,high,medium,7,namesilo,,,
-58dccd52-21b5-4421-9428-f7c918965459,designers.holiday,available,9.99,,high,low,9,name.com,,,
 ee1b9b00-3d1f-42af-b716-a305afeb045c,fashion.contact,resell,,,high,medium,7,Porkbun LLC,09/12/2020 16:00,09/12/2026 16:00,
 6f9f5fb0-4427-4f96-a41b-ce54b4c50309,fashion.fan,premium,250,,high,medium,7,name.com,,,
 db15c3b2-467e-43f7-bd4c-d9911effb9a2,fashion.fans,available,,,high,low,7,,,,
 c5b236b6-2287-4a19-b322-137f9fd6b655,fashion.dentist,available,65.99,65.99,high,medium,7,namesilo,,,
 2bcc692a-fd9a-472b-9fe9-022705ece553,fashion.dental,available,59.98,,high,medium,7,namecheap,,,
-3d69bc30-7560-4607-a9dd-572b06d53592,sophistication.healthcare,available,88.99,88.99,high,low,14,namesilo,,,
 fb616ac1-e2e5-4eb5-b527-5295571f253f,fashion.tennis,available,65.99,65.99,high,medium,7,namesilo,,,
 b5a334fd-a14d-43e7-931d-42ec14493e99,fashion.racing,premium,116,116,high,medium,7,namesilo,,,
 2975a1fa-4a4b-40e2-90fe-c4b10dd14162,fashion.computer,resell,,,high,medium,7,"Sav.com, LLC - 2",31/10/2025 15:15,31/10/2026 15:15,
@@ -456,7 +354,6 @@ b5a334fd-a14d-43e7-931d-42ec14493e99,fashion.racing,premium,116,116,high,medium,
 ba619bcf-e4ae-47ad-ba83-c897589c41c4,fashion.farm,resell,,,high,medium,7,"Spaceship, Inc.",02/09/2021 17:00,02/09/2026 17:00,
 e6093a2d-3492-4ec3-b314-bc855eb499cb,clothing.protection,available,1999.99,2049.99,medium,low,8,namesilo,,,13/09/2026 09:00
 6d78bbfd-c5ff-4250-8f12-f1cd76bd979b,fashion.party,available,,,high,low,7,,,,
-09dafe1a-c6a9-4b4f-a01c-c96f529c5985,fashion.link,resell,,,high,low,7,"NameSilo, LLC",26/07/2017 22:40,26/07/2026 22:40,
 ef75d21a-a37d-4e69-a928-48a12e70c672,fashion.ski,available,39.99,,high,medium,7,name.com,,,
 85ea9b46-3654-44cc-81d0-8a262385c174,fashion.surf,premium,242,29.5,high,medium,7,namesilo,,,
 c74df4cf-a249-4d96-a05f-9a9596bf8741,fashion.wiki,premium,812.5,,high,medium,7,name.com,,,
@@ -476,18 +373,14 @@ d5b540d4-8f89-4cb9-828e-90e1e138e31b,fashion.voting,available,,,high,low,7,,,,
 0d90a36a-a2fd-40b0-890b-86998c71176a,fashion.voto,available,19.99,,high,medium,7,name.com,,,
 c13bcdf8-58a9-429f-8793-49f20c11c0a2,clothing.diy,premium,1820,2600,medium,low,8,namecheap,,,13/09/2026 09:00
 8ed46860-e194-41c6-9106-cdc075b21ece,fashion.bot,premium,3125,,high,medium,7,name.com,,,
-675553e3-8946-43e6-894d-1fc0a984e7e7,chic.science,available,11.99,11.99,medium,low,4,namesilo,,,12/08/2026 04:40
 9453d1be-0a22-47b3-9fe7-9da13850d07c,fashion.courses,premium,6250,,high,medium,7,name.com,,,
 1276a29e-71ca-43ab-b889-b17cbcd9976a,fashion.software,premium,500,,high,medium,7,name.com,,,
 edcf0556-7463-4481-a845-d660936c8ea6,fashion.care,premium,280,560,high,medium,7,namecheap,,,
 da12bd71-bb6b-4052-a341-c91f4dc4abfa,fashion.claims,available,19.99,,high,medium,7,name.com,,,
 d93617a5-175c-40de-978e-464acdc391b5,clothing.guide,premium,78.54,78.54,medium,low,8,namesilo,,,13/09/2026 09:00
-6b6fb210-7769-4373-90b2-8734678ed1db,designers.tube,premium,125,,high,low,9,name.com,,,
 cb0dd86a-8d9c-4ded-953b-92aca33506d0,fashion.fishing,available,32.49,32.49,high,medium,7,namesilo,,,
 770faf7d-8921-44ac-9f77-5c6639a789fd,fashion.sbs,premium,282.88,565.76,high,medium,7,namesilo,,,
-1f63a965-30f5-4e3c-b626-0e61631ba906,fashion.partners,resell,,,high,medium,7,"Sav.com, LLC - 10",25/07/2025 15:15,25/07/2026 15:15,
 d95039e8-d357-4495-93da-9645fa56c29d,fashion.surgery,premium,242,242,high,medium,7,namesilo,,,
-5e39ee94-3e2f-4924-9682-0a1a26fd43e0,fashion.tips,resell,,,high,medium,7,"GoDaddy.com, LLC",24/07/2024 18:44,24/07/2026 18:44,
 73fb7bd8-3db7-4fea-a08c-fd8ad11c9e3e,fashion.guide,premium,500,,high,medium,7,name.com,,,
 d1a1a16f-775d-4118-9f68-473d01689ea7,fashion.associates,premium,242,242,high,medium,7,namesilo,,,
 37df212c-17b6-429f-8622-bf2a0f3b71da,fashion.protection,available,1999.99,2049.99,high,medium,7,namesilo,,,
@@ -499,7 +392,6 @@ d964bf49-2a1d-4f46-9824-bc729fed3ba3,fashion.nexus,premium,1248.75,,high,medium,
 2e8b93e1-0a60-48c3-a059-352513c3c56f,fashion.zip,premium,1248.75,,high,medium,7,name.com,,,
 c875e022-ff8f-4272-8f36-53019a502d79,fashion.kids,available,,,high,low,7,,,,
 6d161854-67f8-491e-8410-80f8e3dc6690,clothing.menu,available,27.99,27.99,medium,low,8,namesilo,,,13/09/2026 09:00
-47804a18-fb99-46bc-b2c0-7e9a7358acbe,designers.giving,available,5.99,,high,low,9,name.com,,,
 c664e4c6-4dfc-4560-b23b-f835e66af5ea,fashion.charity,premium,242,242,high,medium,7,namesilo,,,
 144f3ac4-5979-4f1c-897f-dbd0dd251137,fashion.singles,premium,78.54,78.54,high,medium,7,namesilo,,,
 f21836e7-f92c-471a-bd3f-3d03166e2d7e,fashion.dating,premium,78.54,78.54,high,medium,7,namesilo,,,
@@ -507,7 +399,6 @@ f21836e7-f92c-471a-bd3f-3d03166e2d7e,fashion.dating,premium,78.54,78.54,high,med
 47e9c5e7-f856-4f09-961e-ce3cee326c85,clothing.network,resell,,,medium,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",10/03/2015 15:13,10/03/2027 15:13,13/09/2026 09:00
 eb73cfa6-8381-4705-80d4-b74153a91745,fashion.university,resell,,,high,medium,7,Porkbun LLC,24/06/2025 00:17,24/06/2026 00:17,
 dae048d7-226a-4a9c-b224-18cffbd4e2ad,fashion.college,premium,3125,,high,medium,7,name.com,,,
-32d9bacc-e136-4c3b-8e70-672d9e4819f6,trends.hot,premium,6500,6500,medium,low,6,namecheap,,,17/09/2026 19:12
 2da00ee9-98a9-413e-bc5a-9433c8636421,fashion.science,premium,1107,116,high,medium,7,namesilo,,,
 b9ae4d47-e812-4a35-b9d3-d40842875202,fashion.ngo,available,16.99,,high,medium,7,name.com,,,
 a624fe94-ed37-4412-b06f-0438fde583c3,fashion.phd,premium,1623.75,,high,medium,7,name.com,,,
@@ -542,460 +433,569 @@ e64e6a51-cc7d-4214-a30f-1ecddb2faf0e,fashion.navy,available,41.99,41.99,high,med
 130a4879-ffeb-44a0-aeb0-309586a634c8,fashion.hiv,available,,,high,low,7,,,,
 57e4ed4e-d06f-4714-aa0c-600cb6ca36bf,fashion.solar,premium,280,560,high,medium,7,namecheap,,,
 d6bd7656-e2d4-4838-9686-61f3c6c16943,fashion.training,premium,242,242,high,medium,7,namesilo,,,
-7d3e6051-dbf5-4961-8ab6-88111a916257,sophistication.protection,available,1999.99,2049.99,high,low,14,namesilo,,,
 9d1f7cfe-4e90-47ab-bfd1-05c522b23cf2,clothing.sex,available,69.98,154.98,medium,low,8,namecheap,,,13/09/2026 09:00
-2656de5c-e79f-4c96-b935-ce7915f1a508,sophistication.builders,available,7.99,,high,low,14,name.com,,,
-4d77797a-e540-4f32-befe-f3eec7ed54ca,chic.construction,available,15.99,50.99,medium,low,4,name.com,,,12/08/2026 04:40
-236ed17a-823d-4981-b7d4-c8c777205b87,sophistication.gratis,available,23.99,23.99,high,low,14,namesilo,,,
 5a1324e0-0647-4f63-861f-1c2e42fa42d8,clothing.ooo,premium,22080,119.99,medium,low,8,namesilo,,,13/09/2026 09:00
-2e530386-5516-4420-aa85-00fb6efec3a1,chic.foundation,available,5.99,40.99,medium,low,4,name.com,,,12/08/2026 04:40
-646367a4-e6c9-4520-b828-fae9128bcc1f,trends.shoes,available,34.98,81.98,medium,low,6,namecheap,,,17/09/2026 19:12
-a0aa3ff7-1298-4bd7-be3b-ba4eeca160d5,technique.pro,resell,,,high,low,9,Dynadot Inc,09/06/2018 10:25,09/06/2027 10:25,
-512e2b61-663e-48bd-8445-86e313b9bf90,sophistication.news,available,17.99,,high,low,14,name.com,,,
-5d3b73fc-57a3-4082-9df4-88955476bdb2,designers.tickets,available,359.99,389.99,high,low,9,namesilo,,,
+5c6e43d7-5c8e-4068-aa7b-a387e756520e,garment.rodeo,available,13.98,17.98,medium,low,7,namecheap,,,19/09/2026 20:02
+9f1f958c-8e13-4046-a50f-9c77620e30ea,garment.dealer,premium,2015,2600,medium,low,7,namecheap,,,19/09/2026 20:02
+9d812867-e9a5-445b-b533-c771dc66c6d0,garment.cars,available,2070,2950,medium,low,7,namecheap,,,19/09/2026 20:02
 07ad9d1c-7068-40a0-a712-cd951ae0f664,clothing.city,premium,260,520,medium,low,8,namecheap,,,13/09/2026 09:00
-4ca04418-f797-4890-ab93-1adede7f1be1,sophistication.haus,available,19.99,,high,low,14,name.com,,,
-98d5a023-cb5a-41d1-9439-32dd52c3b288,sophistication.land,available,19.99,,high,low,14,name.com,,,
-6c49e09e-e1d6-4b62-a70b-a3347968e1d1,sophistication.immo,available,14.99,,high,low,14,name.com,,,
-970cad82-ca03-42bd-be29-3cbc58737a8a,sophistication.jewelry,available,19.99,,high,low,14,name.com,,,
+ce1fcddb-87d8-4107-8976-efe24e16c8fb,garment.best,available,2.28,29.98,medium,low,7,namecheap,,,19/09/2026 20:02
 4d8a1dce-b066-4024-ba54-ae3273c4806f,clothing.consulting,premium,64.35,128.7,medium,low,8,namecheap,,,13/09/2026 09:00
-32426293-88b3-47c9-9514-f6af8c47c3c0,designers.gift,available,14.99,14.99,high,low,9,namesilo,,,
-df6f058f-0afb-4a1c-8bf2-3bf4930bfc88,gems.moda,premium,118.8,118.8,high,low,4,namesilo,,,
-471821aa-c854-4d4a-ba8b-df4ea0e82d74,chic.dental,available,78.99,78.99,medium,low,4,namesilo,,,12/08/2026 04:40
-96b08c97-d459-4ae7-a6a8-2f6eb1df9baa,sophistication.global,available,59.99,,high,low,14,name.com,,,
-abbe1a43-b43b-40f2-8acf-6e61894882e6,sophistication.vegas,available,12.99,43.99,high,low,14,namesilo,,,
-9ca66ab7-5468-43b2-9439-1ca6a73a92c3,designers.loan,available,5.25,6.25,high,low,9,namesilo,,,
-59048ab5-d188-42f5-a180-946ec5891f19,chic.film,premium,242,242,medium,low,4,namesilo,,,12/08/2026 04:40
-98f049db-7089-4e60-8142-3262a36cb6da,trendy.black,available,17.48,82.98,medium,low,6,namecheap,,,11/09/2026 19:19
-9a40d9a7-92db-4f63-bbbc-f517441c15e8,sophistication.country,available,2450,,high,low,14,namecheap,,,
-2666d8f1-e00c-4788-b884-d0084dcc76ba,trends.living,premium,455,650,medium,low,6,namecheap,,,17/09/2026 19:12
+ae393854-9f6b-4a67-898e-d5ced96be15c,garment.software,available,11.98,56.98,medium,low,7,namecheap,,,19/09/2026 20:02
+2bcbbca7-98ef-41ac-a4ec-89a4c6874f96,garment.hiv,available,,,medium,low,7,,,,19/09/2026 20:02
+1242fffe-2963-4767-881e-1ba5bba051d1,garment.juegos,available,368.98,478.98,medium,low,7,namecheap,,,19/09/2026 20:02
 07fbf2cb-c0fa-4666-9471-b60aed318ec9,clothing.cyou,premium,68.43,147.2,medium,low,8,namesilo,,,13/09/2026 09:00
-817d7e68-0ae9-46cb-9209-33cbf711d063,sophistication.capital,available,9.99,,high,low,14,name.com,,,
-be55c73e-9d5a-4cd4-918a-300416dcc3d3,weave.shop,premium,625,,high,low,5,name.com,,,
-c0556a4d-4948-409e-a562-6d3179ba71b6,designers.gmbh,available,45.99,45.99,high,low,9,namesilo,,,
+52bbe8e2-ce21-47ab-8069-63bc083096ee,garment.education,available,36.98,46.98,medium,low,7,namecheap,,,19/09/2026 20:02
 74b7817d-edd0-45fb-a763-1d35d77fa973,clothing.website,premium,3250,6500,medium,low,8,namecheap,,,13/09/2026 09:00
-c91df32c-a49a-4467-bb9f-be8787aa853b,chic.forsale,available,13.98,47.48,medium,low,4,namecheap,,,12/08/2026 04:40
-45cf45f6-596a-4028-bbe1-791d0841131a,sophistication.ing,available,16.98,,high,low,14,namecheap,,,
-40f0945a-dfb9-4dba-80b8-ffe8793f7d4c,design.recipes,available,5.48,95.98,medium,medium,6,namecheap,,,08/09/2026 12:04
+c0254079-a86f-4af2-8efd-6fad3fb2b8f7,garment.bargains,available,14.98,37.98,medium,low,7,namecheap,,,19/09/2026 20:02
+00c945a7-8acb-477d-9d62-4749492693d5,garment.live,available,2.98,39.48,medium,low,7,namecheap,,,19/09/2026 20:02
+3088c421-bd03-43d9-8de3-0d5f8bfcf9f3,garment.show,resell,,,medium,low,7,,,,19/09/2026 20:02
 d434dc67-eb2c-4794-86b4-e806ea4a3e10,apparel.fashion,premium,5200,31.2,high,low,7,namecheap,,,
-793f3a9a-6fc3-4a41-939c-2b1344d4d645,designers.vet,available,41.99,41.99,high,low,9,namesilo,,,
-3517c62c-ead3-42e6-aeb4-ae96485111aa,chic.tools,available,8.48,47.48,medium,low,4,namecheap,,,12/08/2026 04:40
 97f41547-dd35-43c6-9a5c-865a7ba6d146,apparel.style,resell,,,high,low,7,Dynadot Inc,11/09/2025 08:54,11/09/2026 08:54,
-2748988d-fb84-4c82-ba31-069f01d87664,sophistication.fish,available,19.99,,high,low,14,name.com,,,
+3a198172-ea3c-4981-9ee8-385f259ca9df,garment.bike,available,5.98,48.98,medium,low,7,namecheap,,,19/09/2026 20:02
+8aafb3bc-7a6c-489d-a840-58cc32578fb5,garment.fish,available,46.98,59.98,medium,low,7,namecheap,,,19/09/2026 20:02
 c152d395-4d9b-469c-9efe-34b5a8113385,fashion.luxe,resell,,,high,medium,7,"GoDaddy.com, LLC",05/05/2021 12:52,05/05/2027 12:52,
-1876dba3-3e94-4338-ae64-daa99b2d1f5c,chic.loans,available,17.48,144.98,medium,low,4,namecheap,,,12/08/2026 04:40
+82971b3f-e7f9-41b6-a4d0-9011e1b8eb1d,garment.spot,available,25.98,31.98,medium,low,7,namecheap,,,19/09/2026 20:02
 c3c5bc51-867c-4344-9d91-d7ba4c9fd461,apparel.moda,premium,128.7,128.7,high,low,7,namecheap,,,
-23eee719-a98c-4a53-8ed9-8dabaa317f72,chic.services,resell,,,medium,low,4,"GoDaddy.com, LLC",16/05/2026 17:03,16/05/2027 17:03,12/08/2026 04:40
-3af5b6a3-1b48-4794-becf-e765a04a9295,artist.llc,resell,,,high,low,6,"GoDaddy.com, LLC",08/02/2026 17:05,08/02/2027 17:05,
-84c1f929-b304-49cf-ad33-e72a751acff1,designers.bayern,available,34.99,34.99,high,low,9,namesilo,,,
-06395e5e-a5b8-4b12-8340-626049120277,gems.jetzt,available,9.99,,high,low,4,name.com,,,
-2acdde6f-75fd-4de7-9348-b654a5bc2d48,time.watch,resell,,,high,medium,4,Porkbun LLC,22/07/2015 16:00,22/07/2026 16:00,
-e95caa9d-0b24-4292-997f-74f091494627,designers.bike,available,14.99,,high,low,9,name.com,,,
-0174a712-abe2-4b43-9b79-8c996e293804,glamour.adult,available,69.98,166.98,medium,low,7,namecheap,,,21/08/2026 07:43
-279fb238-f854-47a4-b6ea-8f2d549473fb,gems.nyc,premium,3125,,high,low,4,name.com,,,
-d596e021-7d56-4aca-9600-915324e67933,sophistication.investments,available,14.99,,high,low,14,name.com,,,
-a550c585-9779-4966-adcf-464d3ff801e4,designers.cricket,available,23.59,23.59,high,low,9,namesilo,,,
+d8dbfa25-9435-40ee-b3dd-8c72963359f7,garment.makeup,available,1.8,21.98,medium,low,7,namecheap,,,19/09/2026 20:02
+63b820c4-8cc0-42a9-9685-4e68d63968b9,designer.industries,available,45.99,45.99,low,low,8,namesilo,,,20/09/2026 02:12
+03609896-91e8-4d8b-95a1-2e1262b1dafb,garment.racing,available,12.98,16.98,medium,low,7,namecheap,,,19/09/2026 20:02
+c1cd2620-59ac-4852-b0f1-bdd5e0f95d32,designer.spot,premium,116,116,low,low,8,namesilo,,,20/09/2026 02:12
+6526c001-ff92-4bdc-8313-04e16caa8933,garment.holiday,available,67.98,81.98,medium,low,7,namecheap,,,19/09/2026 20:02
+a5d837f2-2316-4746-bd21-353832e59318,garment.apartments,available,60.98,72.98,medium,low,7,namecheap,,,19/09/2026 20:02
 ae0be4b6-cce6-46ea-878a-73a1fba7d161,clothing.movie,available,40.98,446.98,medium,low,8,namecheap,,,13/09/2026 09:00
-2c3f9262-ffe0-4a2e-94ee-b795c800c650,sophistication.exchange,available,10.99,,high,low,14,name.com,,,
-0a0e188d-2b9a-416a-885b-3aadf868949f,chic.vet,available,41.99,41.99,medium,low,4,namesilo,,,12/08/2026 04:40
-6ea7fd1e-c2f9-43ca-8a8b-bd8905128d1c,designers.tienda,available,9.99,,high,low,9,name.com,,,
-bf0f046e-888f-4d9e-9f74-43d2ca7fa3f4,trendy.photos,available,8.98,40.98,medium,low,6,namecheap,,,11/09/2026 19:19
-da6c64af-897e-4df6-8358-7281e4163d0e,gems.loan,premium,437.5,,high,low,4,name.com,,,
 797ed167-dae8-4227-914b-f683ea082b63,clothing.repair,available,5.98,47.48,medium,low,8,namecheap,,,13/09/2026 09:00
-ddcd2520-89ec-434f-9116-f9744a0eded1,designers.insure,available,9.99,,high,low,9,name.com,,,
 b346a09c-76f1-49cb-904b-49018568f08c,clothing.condos,premium,118.8,118.8,medium,low,8,namesilo,,,13/09/2026 09:00
-b79cc8d6-1980-4190-b668-814ecd379496,gems.cyou,premium,16.52,33.04,high,low,4,namesilo,,,
-2dfe3cc7-0cd6-4b02-9b24-8ec733232082,gems.boston,premium,96,21.24,high,low,4,namesilo,,,
-5921b35f-0566-4d3d-b1d1-24cfd72b0bb3,designers.website,premium,62.5,,high,low,9,name.com,,,
 4bf070b7-0a18-4b3e-a575-68d662c8e6ec,clothing.kitchen,available,8.98,83.98,medium,low,8,namecheap,,,13/09/2026 09:00
+e1b7cc30-2b8a-4622-8b2e-92849c0bfadf,garment.ryukyu,available,17.98,22.98,medium,low,7,namecheap,,,19/09/2026 20:02
+5da2794f-4c4b-4dc1-9912-be10022ad4dc,garment.contractors,available,36.98,39.98,medium,low,7,namecheap,,,19/09/2026 20:02
 e0d11a65-ebd8-4e00-9db7-f94de86cf6ea,clothing.apartments,available,57.99,57.99,medium,low,8,namesilo,,,13/09/2026 09:00
-fb7b2bb9-7d6b-4b0c-9291-789ae5b1a815,gems.us,resell,,,high,low,4,"GoDaddy.com, LLC",29/06/2007 18:04,28/06/2028 23:59,
-0d515b64-8811-4036-85a4-9fe8014db9fb,chic.claims,available,11.98,82.98,medium,low,4,namecheap,,,12/08/2026 04:40
-181eef51-e762-4dbf-96e7-d70a92529d29,trendy.meme,premium,455,455,medium,low,6,namecheap,,,11/09/2026 19:19
-83b4b84a-1aaf-4960-bc34-81c7ff27212e,chic.limited,available,14.99,52.99,medium,low,4,name.com,,,12/08/2026 04:40
-fd872eca-952f-443d-8899-0297fda1dd3b,sophistication.estate,available,14.99,,high,low,14,name.com,,,
-afa1f590-69f1-4114-9957-2c5dc9f6786a,chic.hiphop,available,23.99,23.99,medium,low,4,namesilo,,,12/08/2026 04:40
-d8cefca3-aea1-408b-8cc1-2f4d29de83b0,sophistication.racing,available,11.99,11.99,high,low,14,namesilo,,,
-7e95a8be-fb22-4061-851a-f0d98302c7c8,gems.loans,available,19.99,,high,low,4,name.com,,,
+50277c3c-bab7-4695-b040-dd2a80fde398,garment.engineer,available,40.98,52.98,medium,low,7,namecheap,,,19/09/2026 20:02
+d81d70a5-d9e4-47a3-a90b-6de496643fcf,designer.protection,available,1999.99,2049.99,low,low,8,namesilo,,,20/09/2026 02:12
 3dd23a7d-d05b-4bcb-af5f-a51d621a04e3,clothing.party,available,5.25,6.25,medium,low,8,namesilo,,,13/09/2026 09:00
-b6b3ff6d-db72-42f9-9813-757775e4bbbe,gems.church,available,11.99,,high,low,4,name.com,,,
-b70b56ba-6570-4b5d-a3d0-77a0d944507b,chic.insure,available,9.99,94.99,medium,low,4,name.com,,,12/08/2026 04:40
-3c288dd0-8b26-4d5f-be0f-e4782c49a14a,buying.shop,premium,3125,,high,low,6,name.com,,,
-2c7e77fb-14a0-479c-97e0-ebe3c55be0fe,gems.cfd,premium,18.88,37.76,high,low,4,namesilo,,,
+9242a12d-f7b6-48f6-aa46-49d12416ee57,garment.cat,available,26.98,38.98,medium,low,7,namecheap,,,19/09/2026 20:02
+bbcf253b-824e-4eb4-9c9a-8a010623dfdd,designer.repair,available,12.99,36.99,low,low,8,namesilo,,,20/09/2026 02:12
 ecdd55dc-41c3-4630-bad4-b531cd380d37,clothing.democrat,available,5.98,41.48,medium,low,8,namecheap,,,13/09/2026 09:00
-25cc105c-58da-4875-8160-e5c57e29ba44,sophistication.guide,available,10.99,,high,low,14,name.com,,,
-84571e6a-d4b1-4b04-8c4d-f37698622ad8,label.shop,premium,3125,,high,low,5,name.com,,,
-ed4361bf-3765-4520-97e3-fe83cdc3419d,sophistication.cv,available,9.99,9.99,high,low,14,namesilo,,,
 a768a6d3-c3da-40ed-8446-5b35968903a3,clothing.press,premium,3250,6500,medium,low,8,namecheap,,,13/09/2026 09:00
-54f8ba05-b357-4e79-9209-4a458f14f870,chic.finance,available,11.99,84.99,medium,low,4,name.com,,,12/08/2026 04:40
-81a22402-b30a-4a59-bf0c-01cced7eb845,gems.family,premium,71.4,71.4,high,low,4,namesilo,,,
-ee4fb8a1-d740-42af-ad62-f53d1bc1c4f5,designers.institute,available,9.99,,high,low,9,name.com,,,
+d996a3ac-1432-4c4f-b31e-635dea27cfd9,designer.car,available,1999.99,2199,low,low,8,namesilo,,,20/09/2026 02:12
 df3fe396-9238-4f97-865c-499ff46ac9d2,clothing.place,premium,42.9,85.8,medium,low,8,namecheap,,,13/09/2026 09:00
 83560df8-f573-4908-9fef-0f736310f446,luxury.equipment,resell,,,high,low,6,"Sav.com, LLC - 37",16/10/2025 15:15,16/10/2026 15:15,
-144d121e-2e73-476f-a220-ac5872a195f7,sophistication.viajes,available,37.99,37.99,high,low,14,namesilo,,,
-c246c2f7-d1a4-4b98-b14e-defaf45a0201,chic.sex,resell,,,medium,low,4,"GoDaddy.com, LLC",15/05/2026 04:23,15/05/2027 04:23,12/08/2026 04:40
-4de8c970-94f1-48e9-ace8-89b69ed0522e,trendy.study,premium,130,130,medium,low,6,namecheap,,,11/09/2026 19:19
-04323744-c0c6-4498-8093-c124f3dc30ab,trendy.pizza,available,5.98,83.98,medium,low,6,namecheap,,,11/09/2026 19:19
-80443e67-349e-49da-9f62-7545de442423,trendy.you,resell,,,medium,low,6,"Spaceship, Inc.",27/11/2025 09:49,27/11/2026 09:49,11/09/2026 19:19
-09dae213-5cdc-4ea2-a7b3-64a3a804dce3,sandals.faith,available,16.98,,medium,low,7,namecheap,,,
-fc64d557-5639-47b7-970b-809c10c70b50,designers.space,premium,87.5,350,high,low,9,namecheap,,,
-2f276218-acf1-42db-a179-869da87d8b03,gems.gallery,available,28.99,28.99,high,low,4,namesilo,,,
-5cdb472d-911c-4d9f-999d-bd5e2ffb3d12,gems.coffee,available,23.99,,high,low,4,name.com,,,
-10e94f38-121b-4d53-8175-9b5c9dac31d1,trendy.kitchen,available,8.98,83.98,medium,low,6,namecheap,,,11/09/2026 19:19
-4f922ad2-68e1-4fc9-bc72-ac46dec20ebc,sophistication.desi,available,22.98,,high,low,14,namecheap,,,
-b129dd8c-7d69-4d3d-aa3b-24b8abf73636,designers.dental,available,59.98,,high,low,9,namecheap,,,
-1c7807ec-d244-459c-ab4a-4f25cec34aa0,glamour.jewelry,available,19.99,84.99,medium,low,7,name.com,,,21/08/2026 07:43
-bb1f5b1a-ca91-4e95-8d36-566542a59635,gems.auto,available,1999.99,2199,high,low,4,namesilo,,,
-dc377b10-f144-4411-94bc-9d23badc1649,trendy.school,premium,130,260,medium,low,6,namecheap,,,11/09/2026 19:19
-6d4bd206-8745-420f-b1c8-a7209ef94a02,sophistication.express,available,16.99,,high,low,14,name.com,,,
-9fe27f6d-e6be-4606-9e12-e9c9d84ec317,sandals.zip,premium,161.25,,medium,low,7,name.com,,,
-b50e11c9-f179-4d53-b430-9cbec4b7b7fd,sophistication.markets,available,9.99,,high,low,14,name.com,,,
-634b67cb-e6ec-4ee1-8c53-b7182c073827,trendy.contractors,available,36.98,39.98,medium,low,6,namecheap,,,11/09/2026 19:19
-cce60b29-8ecb-41f5-9a3e-a65690755d28,activewear.moda,available,43.98,45.98,medium,low,10,namecheap,,,17/09/2026 05:14
-0a122171-d45e-40b0-817e-b2e56d057ecd,trendy.car,available,2070,2400,medium,low,6,namecheap,,,11/09/2026 19:19
-a627d09f-00e7-49b8-a975-42361fb64b29,sophistication.jetzt,available,9.99,,high,low,14,name.com,,,
-60e6a083-778b-496e-b717-5e9c46225882,chic.repair,available,5.98,47.48,medium,low,4,namecheap,,,12/08/2026 04:40
-7e56c760-e823-46fa-bcb2-1672d31864fe,gems.design,premium,116,116,high,low,4,namesilo,,,
-cca8e57d-c5e7-45d9-ba7d-edcc1ae46620,gym.ryukyu,available,22.98,,high,low,3,namecheap,,,
-6495d0ce-6c07-41e8-87cd-3827537ad09f,glamorous.porn,available,69.98,154.98,medium,low,9,namecheap,,,19/08/2026 00:15
-027cbad7-a077-40c6-a27f-cc0e8e6b30fc,sophistication.tours,available,9.99,,high,low,14,name.com,,,
-3204a32d-5ab2-4d0e-ba52-74da1d1195a8,sophistication.cc,available,4.19,9.99,high,low,14,namesilo,,,
+e4dfc042-2cf7-46f9-b9ae-a6919b6da4e3,designer.schule,available,28.99,28.99,low,low,8,namesilo,,,20/09/2026 02:12
+47cc33c5-5233-4b27-890b-51c4042bc507,designer.pics,resell,,,medium,low,8,,,,20/09/2026 02:12
+99c705ef-66a5-4480-957a-bbb260afde30,designer.garden,premium,96,29.5,medium,low,8,namesilo,,,20/09/2026 02:12
+68364a14-c4ee-4a5c-bd59-0346cdff669e,garment.healthcare,available,93.98,111.98,medium,low,7,namecheap,,,19/09/2026 20:02
+561eafc4-e3e9-4d86-919c-958ad3acd195,designer.guitars,available,108.98,159.98,low,low,8,namecheap,,,20/09/2026 02:12
 20092c2c-41bc-47ff-8298-336b15073db5,clothing.services,premium,130,260,medium,low,8,namecheap,,,13/09/2026 09:00
-d063ec43-c4c6-46f8-8bb4-426b4ec5d1ef,glamour.paris,premium,365.55,365.55,medium,low,7,name.com,,,21/08/2026 07:43
-e479a175-f86a-43cb-9dec-ca26caf80170,gems.charity,available,5.99,,high,low,4,name.com,,,
 be468484-995e-454a-87ed-01daff959c41,clothing.moi,available,25.99,25.99,medium,low,8,namesilo,,,13/09/2026 09:00
-c5394237-cb8c-4e84-aedd-65017fddc801,trends.to,resell,,,low,low,6,"Spaceship, Inc.",30/01/2025 12:36,16/12/2026 01:36,17/09/2026 19:12
 061874b1-9f6c-4969-9f0f-4e1ad7f68bcc,clothing.construction,available,38.99,38.99,medium,low,8,namesilo,,,13/09/2026 09:00
+1043cc0c-4f57-4fe0-9fa0-f785318395ba,designer.gives,available,14.99,23.99,low,low,8,namesilo,,,20/09/2026 02:12
 229459c0-03cb-43e7-8197-c168447935a8,clothing.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,13/09/2026 09:00
-b48c3af9-5b67-413b-8168-dc76eb06fa70,chic.theater,available,19.99,83.99,medium,low,4,name.com,,,12/08/2026 04:40
-c7452889-3614-4d5b-a879-bdf7d53e33ea,trendy.fitness,available,3.48,54.98,medium,low,6,namecheap,,,11/09/2026 19:19
-d8ce3570-9cb5-4f04-af23-f04a2c4904e4,marketing.kitchen,resell,,,high,medium,9,Vautron Rechenzentrum AG,12/08/2015 16:00,12/08/2026 16:00,
-7cf254c3-e35d-4d5e-86e0-b049061772f4,compilation.gratis,available,23.99,23.99,medium,low,11,namesilo,,,
-995228b0-34e2-46d2-a0a9-95acdbcf8b0c,designers.voto,available,19.99,,high,low,9,name.com,,,
-15a97766-f84b-4841-980a-01984db5b748,sophistication.rip,available,7.99,,high,low,14,name.com,,,
-8c3ef67c-675f-4f9e-9b30-8a6967df1c8a,sophistication.partners,available,13.99,,high,low,14,name.com,,,
-0f6fb0f1-ad57-408d-b3b9-7ecebd38a059,sophistication.casa,available,2.19,12.99,high,low,14,namesilo,,,
-b3c8d734-c0de-48d8-9b32-fb114d8ddf65,glamorous.at,available,11.99,11.99,medium,low,9,namesilo,,,19/08/2026 00:15
-5ae3ebaf-9e76-4aca-a021-24a7431c84ad,trends.wedding,premium,104,32.5,low,low,6,namecheap,,,17/09/2026 19:12
-175d8fc8-4518-40f7-a9a2-d1ec3e6718de,trendy.world,resell,,,medium,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",24/01/2026 15:15,24/01/2027 15:15,11/09/2026 19:19
-91239a02-6ffe-4628-b0e8-19489443e6e9,pattern.rsvp,premium,161.25,161.25,medium,low,7,name.com,,,25/08/2026 02:49
-251a7dbc-82b1-4ebf-ae14-de4d03ddb692,chic.adult,available,69.98,166.98,medium,low,4,namecheap,,,12/08/2026 04:40
-4210e025-7081-43a1-b92f-16d9ea85b973,sandals.stream,premium,437.5,,medium,low,7,name.com,,,
-40736cdd-bb25-40d5-aa9b-d74bfea22f8f,glamour.moi,available,25.99,25.99,medium,low,7,namesilo,,,21/08/2026 07:43
-8a640801-f918-487f-afac-d2dd00db38ee,designers.press,premium,312.5,,high,low,9,name.com,,,
-2b334a12-00cf-499a-b6a3-697c0ba5a58a,sophistication.pro,available,3.58,29.49,high,low,14,namesilo,,,
+98d8820e-33f7-4c65-84c8-dd69780ebf47,designer.tennis,available,65.99,65.99,low,low,8,namesilo,,,20/09/2026 02:12
+097d2cc8-45d2-4418-b32b-2cf75e228524,designer.life,resell,,,low,low,8,,,,20/09/2026 02:12
+45a5b4f1-7bbf-4a50-8ba9-ba3713faaeaa,designer.cash,available,4.98,50.98,low,low,8,namecheap,,,20/09/2026 02:12
+6ddfc20a-7c06-48f5-bffd-56e5b2dbe7e8,designer.forsale,available,16.99,36.99,low,low,8,namesilo,,,20/09/2026 02:12
 57249c11-8285-4d3e-9092-722d3c064804,clothing.reise,available,27.89,97.99,medium,low,8,namesilo,,,13/09/2026 09:00
 7f428cff-9a32-4a10-9b03-0a9216fd5546,chic.luxe,premium,854,17.7,medium,low,4,namesilo,,,12/08/2026 04:40
-072cb394-297c-4b48-b26b-b67966da224b,compilation.pizza,available,19.99,,medium,low,11,name.com,,,
-7293a901-1bfb-43dd-a57d-bd22b7d51850,trendy.jewelry,available,67.98,69.98,medium,low,6,namecheap,,,11/09/2026 19:19
-fc7db900-7955-4c52-8b58-13b152cee095,compilation.fund,available,15.99,,medium,low,11,name.com,,,
-6abd0f13-1a5d-4928-9c99-f7ab8c7743a2,trends.beauty,premium,2600,2600,low,low,6,namecheap,,,17/09/2026 19:12
+d2afa9c3-f151-4685-b2a2-5cc59e6f7672,garment.diet,available,108.98,159.98,medium,low,7,namecheap,,,19/09/2026 20:02
 2e109c87-03d3-4609-b81c-27d4df7c0246,clothing.parts,premium,78.54,78.54,medium,low,8,namesilo,,,13/09/2026 09:00
-817e32a9-dd98-4add-83ba-05d5ec033e4a,sandals.dealer,premium,2170,2800,medium,low,7,namecheap,,,
-d4b9179d-7479-4932-9a43-21d837ee25e0,compilation.creditcard,available,9.99,,medium,low,11,name.com,,,
-30302aec-b3bf-4344-a01f-29c14ce6d49b,sandals.agency,available,7.99,,medium,low,7,name.com,,,
-3a78acc1-cca6-4b60-9449-ede9fd47482d,glamour.feedback,available,9.98,489.98,medium,low,7,namecheap,,,21/08/2026 07:43
-3f28c3d7-2fe5-427d-81f9-b90be14bc156,compilation.works,available,7.99,,medium,low,11,name.com,,,
-ce07cf10-6444-4090-abd1-7f9113a48d0f,glamour.hair,premium,2500,2500,medium,low,7,name.com,,,21/08/2026 07:43
-ce5c1607-2a09-4851-b1f9-f79c52926c78,compilation.download,premium,437.5,,medium,low,11,name.com,,,
-f1711b3b-5a16-4d99-8943-408604ec2a52,designing.shoes,available,34.98,81.98,medium,low,9,namecheap,,,14/08/2026 03:45
+504ad901-01e3-4a29-b307-98d1af877872,garment.legal,available,74.98,88.98,medium,low,7,namecheap,,,19/09/2026 20:02
+c5355968-698e-40fc-ba3e-c26374e14bf7,designer.bargains,premium,118.8,118.8,low,low,8,namesilo,,,20/09/2026 02:12
 37e66ab3-4010-4069-95c2-da00b18d758d,chic.living,premium,1820,2600,medium,low,4,namecheap,,,12/08/2026 04:40
-dbdb1d7e-33f6-45a0-8177-f57404d1c701,gems.limo,available,19.99,,high,low,4,name.com,,,
-44188031-981d-49d7-9c57-08c5f2f87e61,sandals.immo,available,14.99,,medium,low,7,name.com,,,
-84029878-74d1-4975-ab7e-2a68166be6ed,pattern.science,premium,3125,125,medium,low,7,name.com,,,25/08/2026 02:49
-bf644a5e-9154-4ba9-8d23-fa4c6501921d,sophistication.accountant,available,23.59,23.59,high,low,14,namesilo,,,
-f53f3fe9-6b73-419a-ba8a-b755590db017,trendy.enterprises,available,9.48,47.98,medium,low,6,namecheap,,,11/09/2026 19:19
-0e5d58f6-a18c-4879-9931-dc8255b58055,pattern.esq,premium,198.75,198.75,medium,low,7,name.com,,,25/08/2026 02:49
-f1c3e614-8cf5-4534-baf8-a0e4ce239f0a,trendy.cfd,premium,390,780,medium,low,6,namecheap,,,11/09/2026 19:19
-ec9ee5db-de87-4e7d-b3ba-296559725605,pattern.prof,premium,198.75,198.75,medium,low,7,name.com,,,25/08/2026 02:49
-a8fea0f2-b12b-47ba-a2bf-5dc3df6cb537,trends.market,premium,520,520,low,low,6,namecheap,,,17/09/2026 19:12
-8b683e3b-a640-4528-95ed-dc65c71f9b8b,pattern.rent,available,5,81.98,medium,low,7,namecheap,,,25/08/2026 02:49
-b6a1c8fb-eccf-4aab-8b2f-c93934613665,sandals.army,available,19.99,,medium,low,7,name.com,,,
-28f0f40e-9109-46d7-90a8-e8b7e3074409,pattern.ngo,available,16.99,16.99,medium,low,7,name.com,,,25/08/2026 02:49
-44841595-0e42-48cd-9e31-e5b2720cdc61,pattern.protection,available,1999.99,2049.99,medium,low,7,namesilo,,,25/08/2026 02:49
-cd7d96b2-358e-4459-a07b-0c46989ccf91,compilation.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-647f47a8-1713-41c0-880b-c3663e8665ea,gems.black,resell,,,high,low,4,"Xiamen ChinaSource Internet Service Co., Ltd",02/08/2025 15:15,02/08/2026 15:15,
-9d1b49d8-6f84-4951-8be0-857e24123ef2,compilation.investments,available,14.99,,medium,low,11,name.com,,,
-ed67c534-f2b6-4d68-8c61-68aff58534fb,designers.mortgage,available,14.99,,high,low,9,name.com,,,
-3009b414-cf8b-4aae-ac39-7c5cbf3cf399,compilation.shopping,available,14.99,,medium,low,11,name.com,,,
-22e6c3e0-da8f-43ef-97ee-f95d3f6d0828,designers.rentals,available,14.99,,high,low,9,name.com,,,
-e7edf59e-cbdc-427b-9b5f-f373e3731074,sophistication.directory,available,7.99,,high,low,14,name.com,,,
-a35bf4ed-2dc3-42a1-ae1f-78f3addd82a1,gems.singles,available,12.99,,high,low,4,name.com,,,
-624e8352-653b-4943-b75a-8a1fb4df9904,compilation.miami,available,23.49,23.49,medium,low,11,namesilo,,,
-142e3010-d228-43a3-ae81-fd236869b536,sportswear.supplies,available,25.48,32.48,medium,low,10,namecheap,,,17/09/2026 05:14
-282efc14-d965-4fb2-a4de-c5425990d3fb,sophistication.cars,available,1999.99,2199,high,low,14,namesilo,,,
-b8c360f6-782b-41bb-818b-c4859f44b8c0,pattern.locker,premium,58.72,8.8,medium,low,7,namesilo,,,25/08/2026 02:49
-e258a02f-e01a-41c0-9d28-ad6f2a1a5e86,sportswear.shoes,available,64.99,64.99,medium,low,10,namesilo,,,17/09/2026 05:14
-d8fdf9f4-754e-4bfa-833c-81b639447a5a,trendy.vegas,available,19.98,64.98,medium,low,6,namecheap,,,11/09/2026 19:19
-fe694ec5-17e2-4fa2-93ed-44db7017093d,pattern.buzz,premium,116,53.92,medium,low,7,namesilo,,,25/08/2026 02:49
+803aab38-b608-475d-9125-634733558ff3,designer.gratis,available,24.98,31.98,low,low,8,namecheap,,,20/09/2026 02:12
 0d339142-eb80-4cbe-bd7d-4cd7dfa680a5,clothing.boats,available,1.8,21.98,medium,low,8,namecheap,,,13/09/2026 09:00
-677c6323-8bc0-4c49-8fc4-c7e86c59537d,compilation.rodeo,available,12.99,12.99,medium,low,11,namesilo,,,
-06fa3b36-d56e-4a7e-b55f-b3d3d4dc2eaf,trends.healthcare,premium,260,260,low,low,6,namecheap,,,17/09/2026 19:12
-f6fe60c5-f679-4c28-9435-dad9ee1e46b9,gems.enterprises,available,5.99,,high,low,4,name.com,,,
-81af2488-e733-42ac-a3ad-c69e7205c5d1,sophistication.christmas,available,34.99,34.99,high,low,14,namesilo,,,
-3345d32e-7713-499c-81f8-74cf83d09454,suit.ryukyu,available,22.98,,high,low,4,namecheap,,,
-004212e6-94a2-4fdf-a5fc-8aed0624e0ce,luxurious.style,premium,78.54,78.54,medium,low,9,namesilo,,,14/08/2026 00:57
-7b27c6a0-8d95-4fb4-815f-4f39cc607e28,pattern.promo,available,11.98,33.48,medium,low,7,namecheap,,,25/08/2026 02:49
-582ed2cb-9d88-4c49-b16f-d7982294f170,sandals.direct,available,19.99,,medium,low,7,name.com,,,
-02559ae9-9119-495c-bfa6-c4a69387b8da,gems.mom,premium,812.5,,high,low,4,name.com,,,
-7812e880-c7e8-44a2-a28d-ab47d5e3ca12,house.shop,premium,3125,,high,medium,5,name.com,,,
-d67966ba-2e3f-40ff-a5fd-e38c31c9e1ba,sandals.hot,available,58.98,,medium,low,7,namecheap,,,
-3481f5a3-36cf-4f1e-bf2c-dc56b8b72347,designers.hiphop,available,23.99,23.99,high,low,9,namesilo,,,
-45046dfc-7549-4c30-b1a9-b3e3fa613e27,compilation.shiksha,available,19.99,,medium,low,11,name.com,,,
-1a28f61c-b8b4-442f-80c4-1eb216443516,platform.earth,premium,100682.5,,high,medium,8,Dynadot Inc,13/11/2017 13:01,13/11/2026 13:01,
+cdf2a9e6-3150-4bee-b4ce-bdf19c9c7bd3,designer.help,premium,83.3,116,low,low,8,namesilo,,,20/09/2026 02:12
 a6cc8fa8-5e60-433c-bce0-9bb285241156,clothing.reisen,available,3.99,20.99,medium,low,8,namesilo,,,13/09/2026 09:00
 a2495b11-9a36-4ca1-81e0-4488db265e6c,clothing.audio,available,104.99,114.99,medium,low,8,namesilo,,,13/09/2026 09:00
-023632ae-dd65-43ee-9993-b0f946b2fc64,glamour.maison,available,24.99,83.99,medium,low,7,name.com,,,21/08/2026 07:43
-a164a4a3-9442-4820-ab44-4f7c0bb41339,sophistication.how,available,34.99,,high,low,14,name.com,,,
-7cfa7054-6130-4fc0-a033-c4aed60d5a52,uniform.shop,premium,1250,,high,low,7,name.com,,,
-08b35b75-d7c6-4350-af21-a941296601a0,designers.hot,premium,116,116,high,low,9,namesilo,,,
-26904bf3-25e4-414c-b597-546bfe8e00ca,trendy.theatre,available,538.98,620,medium,low,6,namecheap,,,11/09/2026 19:19
-a70ce132-1888-45bf-ad8c-5a58df6c8914,gems.host,premium,312.5,,high,low,4,name.com,,,
-660e1943-42c1-4588-b047-705f2e88db43,pattern.kaufen,available,5.99,26.99,medium,low,7,namesilo,,,25/08/2026 02:49
-27fbe353-8376-43e2-a780-a28584761c84,glamour.charity,available,5.99,40.99,medium,low,7,name.com,,,21/08/2026 07:43
-d21625aa-8fb1-42b2-9f74-26356c476c36,pattern.salon,available,19.99,83.99,medium,low,7,name.com,,,25/08/2026 02:49
-246b3bfc-0095-4ce7-b500-1bb01a82c55e,chic.boston,premium,96,21.24,medium,low,4,namesilo,,,12/08/2026 04:40
-6838547d-aeec-4f83-8bde-008e12d7cd41,glamorous.fashion,available,32.49,32.49,medium,low,9,namesilo,,,19/08/2026 00:15
-9dac4fbe-7b66-4223-94da-72f0b177d2c9,compilation.live,available,3.49,32.99,medium,low,11,namesilo,,,
-ad945c61-1af2-49d7-9716-bb0a260ac99f,sophistication.forex,available,19.99,,high,low,14,name.com,,,
-07ee2207-f202-43a5-a8e3-608f530dbd8e,designers.ong,available,16.99,,high,low,9,name.com,,,
+c4bbe759-95b0-49c0-a2ab-4ed07b8c2b4d,designer.works,premium,128.7,128.7,low,low,8,namecheap,,,20/09/2026 02:12
+bc35fad4-f0a1-4c80-b885-89cf095ca767,garment.moda,available,43.98,45.98,medium,low,7,namecheap,,,19/09/2026 20:02
+e6848d2c-27db-4ca1-8983-af66f5b37cf0,garment.parts,available,10.48,45.98,medium,low,7,namecheap,,,19/09/2026 20:02
 beeb75b7-9b22-4241-8678-2806ee4e3821,clothing.town,premium,118.8,118.8,medium,low,8,namesilo,,,13/09/2026 09:00
-881572b1-2f43-4ac5-8074-f2537db08f22,compilation.glass,available,72.99,72.99,medium,low,11,namesilo,,,
-9d92415e-5f2b-4ad0-9790-766a880a4a77,designers.dating,available,23.99,,high,low,9,name.com,,,
+39266269-eab3-4806-b9cf-2551139892cf,garment.asia,resell,,,medium,low,7,,,,19/09/2026 20:02
+a4edbcba-82b8-4bb4-b914-0cc2d65b5efe,designer.properties,premium,128.7,128.7,low,low,8,namecheap,,,20/09/2026 02:12
 acec1333-2db8-4c10-9bf8-9210b06a6dcf,fashion.baby,resell,,,high,medium,7,"Go Daddy, LLC",02/04/2019 14:56,02/04/2027 23:59,
-ab973ab9-61e9-4e4c-a14a-97d3c42b0252,silhouettes.blue,available,23.99,,medium,low,11,name.com,,,
-a59bc9b1-b0e0-4073-8504-949cdc246f43,gems.viajes,available,37.99,37.99,high,low,4,namesilo,,,
-ee563bb5-b70a-4868-9648-890c4d907bd5,sophistication.gmbh,available,45.99,45.99,high,low,14,namesilo,,,
+8675574f-2132-4f9b-a005-3efd343712df,garment.blog,premium,65,260,medium,low,7,namecheap,,,19/09/2026 20:02
 bf02c099-f4bb-40fa-81ac-3413cf54fe3f,fashion.xxx,available,154.98,,high,medium,7,namecheap,,,
 4258a32c-8f0a-4708-a01e-9278ad3a8ec7,clothing.support,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
-d8505af6-0ae0-49db-91d0-b7cc8df15633,pattern.viajes,available,37.99,37.99,medium,low,7,namesilo,,,25/08/2026 02:49
+ddfa680f-5424-41f4-988c-0ed046a36b43,designer.direct,resell,,,low,low,8,,,,20/09/2026 02:12
+c6ca191d-dd2d-4b32-a338-2702d05f4b2c,garment.global,available,34.98,127.98,medium,low,7,namecheap,,,19/09/2026 20:02
 8d632de2-f80a-4918-a276-5c594abce7fb,fashion.moi,premium,3125,,high,medium,7,name.com,,,
-d759e965-0bb9-4477-8d22-ef5fcc7f3de8,designers.blog,premium,640,0.99,high,low,9,namesilo,,,
 9450efac-8371-4f6a-81c5-0c2b6a6ca84d,fashion.hamburg,resell,,,high,medium,7,,20/04/2016 14:43,20/04/2027 14:43,
-cad7777a-dd6d-4c95-88fd-a6037efa356f,trends.gallery,available,29.98,36.98,low,low,6,namecheap,,,17/09/2026 19:12
-82ca06f8-7e7c-4295-96c0-14ca85ca4e6f,sandals.art,premium,153.75,,medium,low,7,name.com,,,
-6a9094cf-65a8-4eda-b966-ffdad6b41b3a,sandals.shiksha,available,19.99,,medium,low,7,name.com,,,
-0c297810-f03e-4da8-8f97-da521fe37ed6,compilation.today,available,2.99,,medium,low,11,name.com,,,
-7c787964-1f24-412a-8c49-deeff3f863c3,pattern.condos,available,58.99,58.99,medium,low,7,namesilo,,,25/08/2026 02:49
 39ddd998-1eca-43b7-82ea-275c53975069,fashion.buzz,resell,,,high,medium,7,"Spaceship, Inc.",20/06/2025 11:08,20/06/2027 11:08,
-6b333320-f84c-479a-a583-1610a529c8d1,designers.hosting,available,309.99,329.99,high,low,9,namesilo,,,
 79b3e969-2859-411b-84c6-0ad6f55ded61,fashion.desi,available,22.98,,high,medium,7,namecheap,,,
-82d4028e-8460-47c1-9714-f857929f8826,glamour.gold,resell,,,medium,low,7,"Sav.com, LLC - 35",27/05/2026 15:15,27/05/2027 15:15,21/08/2026 07:43
-d1deeeff-46a9-4a63-856e-1e772f0e3134,goods.homes,resell,,,high,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",22/11/2024 10:25,22/11/2026 23:59,
-6a3fe99f-8812-4dc5-a679-b3942389615a,trends.bot,resell,,,low,low,6,"Spaceship, Inc.",10/05/2025 19:10,10/05/2027 19:10,17/09/2026 19:12
-906fa662-5b15-4a28-a175-3fed19f1b7de,sandals.name,available,9.98,,medium,low,7,namecheap,,,
-c7590d6a-9382-45da-865c-df9ffb3f79e9,glamour.trading,available,19.99,19.99,medium,low,7,name.com,,,21/08/2026 07:43
-f72ef0f9-a943-4b83-af89-60c19605d089,sportswear.car,available,1999.99,2199,medium,low,10,namesilo,,,17/09/2026 05:14
-0d8ab7f5-5be8-430b-a19c-30c9e96ef094,glamour.voting,available,1398,1448,medium,low,7,namecheap,,,21/08/2026 07:43
-18ee84e3-256e-4a5a-9965-aaac3753da59,gems.free,premium,116,116,high,low,4,namesilo,,,
-a4a89668-8b6e-4916-8a11-c9593ad55b3d,tendency.rsvp,available,12.98,16.98,low,low,8,namecheap,,,22/08/2026 22:11
-d91ce4fe-11fb-4552-8741-b5f46a180095,glamour.llc,premium,1875,1875,medium,low,7,name.com,,,21/08/2026 07:43
-d340bee7-2260-46fd-acf2-3c77c4aacd71,designers.delivery,available,8.99,,high,low,9,name.com,,,
-8f8dbd66-4bc3-4f43-be31-18fa322ee46a,designers.channel,premium,311.25,,high,low,9,name.com,,,
-fd007a45-219a-4fbc-bc2f-6c887a44ee79,pattern.meme,premium,187.5,187.5,medium,low,7,name.com,,,25/08/2026 02:49
-68b9b53f-1294-491a-9b6f-b59b7a70c6e1,labels.fitness,available,9.99,,medium,low,6,name.com,,,
-4406498f-9a6c-4909-8091-21fc810216bc,trendy.review,premium,3250,130,medium,low,6,namecheap,,,11/09/2026 19:19
-fde5c4fa-7681-4562-ad12-088f77c83d3a,compilation.school,available,9.99,,medium,low,11,name.com,,,
-5e84f687-7c6c-4ebf-8e07-1641c6955ca7,trendy.club,premium,1300,19.5,medium,low,6,namecheap,,,11/09/2026 19:19
-8040678a-36d8-4425-8cb5-948c155fcfb8,chic.pizza,available,5.98,83.98,medium,low,4,namecheap,,,12/08/2026 04:40
-eb71ecb2-d55c-4f39-bcd5-532b1b03d383,compilation.cars,available,1999.99,2199,medium,low,11,namesilo,,,
-ee57e8fa-85be-4956-9633-3fde0e2937c0,trends.cheap,available,5.98,49.98,low,low,6,namecheap,,,17/09/2026 19:12
-10b79db0-d595-476c-b4fe-c4e916241acc,chic.tax,available,8.98,85.98,medium,low,4,namecheap,,,12/08/2026 04:40
-89ca9666-0a09-46f7-b12d-cfdb85641949,sandals.cleaning,available,80.99,,medium,low,7,name.com,,,
-46c8d0cd-33a7-4da7-a1be-27f1cdbf2d03,compilation.srl,available,31.99,31.99,medium,low,11,namesilo,,,
-d51c3a3b-102c-4603-8f25-1945088577e8,compilation.soy,available,24.99,,medium,low,11,name.com,,,
-212d21f1-40f6-4b9d-85e9-5ae22f09fadf,designers.associates,available,21.99,,high,low,9,name.com,,,
+232a1f53-f702-49c1-a2dc-da9c8aeb5098,designer.archi,available,19.99,103.99,medium,low,8,namesilo,,,20/09/2026 02:12
+40f0945a-dfb9-4dba-80b8-ffe8793f7d4c,design.recipes,available,8.99,77.99,medium,low,6,namesilo,,,20/09/2026 03:28
 ae5847e1-73f5-4f1f-85e5-769bc21aa5ef,fashion.forex,available,19.99,,high,medium,7,name.com,,,
-e0a8f472-b6bf-4b66-a81b-514b9b9cd791,sandals.theater,available,19.99,,medium,low,7,name.com,,,
-6b9cdff5-bc0b-4aeb-bad6-fcf206ce231b,sandals.dental,available,59.98,,medium,low,7,namecheap,,,
-593babe7-f604-4483-ba98-436debfc3ee9,trendy.jetzt,available,24.48,30.48,medium,low,6,namecheap,,,11/09/2026 19:19
-5d2a8d57-763b-4583-b779-517a6e24222d,designers.global,premium,5000,,high,low,9,name.com,,,
-a1432a3b-6e41-4e90-825b-280763d56064,glamour.wine,available,8.48,75.98,medium,low,7,namecheap,,,21/08/2026 07:43
-93958904-503b-485a-8c28-fe2efdcb5206,designers.dance,available,17.99,,high,low,9,name.com,,,
-cda6779d-84a9-4de1-82b1-3536ef6754d3,sandals.hockey,available,14.99,,medium,low,7,name.com,,,
-4c8fdd74-943a-46e7-b9ec-0134f721629f,trendy.pics,resell,,,medium,low,6,united-domains GmbH,15/04/2014 16:06,15/04/2027 23:59,11/09/2026 19:19
-0e834948-6a27-4b15-9565-8c652dd21a8d,trends.coffee,available,6.98,47.98,low,low,6,namecheap,,,17/09/2026 19:12
-5817efa7-c8a8-4991-b5f3-02ab30b966e1,designers.luxe,premium,2500,,high,low,9,name.com,,,
-0c0385d2-8308-419e-8c47-b91dd76b1a26,sandals.fish,available,19.99,,medium,low,7,name.com,,,
-0a12d92f-9a64-42a7-bae6-046376fc2053,airstrip.moda,available,41.99,41.99,medium,low,8,namesilo,,,17/09/2026 23:24
+c10d5729-1fa0-4b0b-ac74-66ded5b3b79e,designer.express,premium,78.54,78.54,low,low,8,namesilo,,,20/09/2026 02:12
+0bf44604-ace8-4288-875f-edd3baf2a4aa,garment.talk,available,41.98,46.98,medium,low,7,namecheap,,,19/09/2026 20:02
 4b67905a-86a8-4f1a-89ca-f04cb26f906d,fashion.trading,premium,1250,,high,medium,7,name.com,,,
 e608421f-dee2-4a19-a41c-450ae4bd4286,clothing.london,premium,1404.85,35.13,medium,low,8,namecheap,,,13/09/2026 09:00
-822a828f-69a9-4b9c-b203-811a9ddf74e4,sandals.poker,available,14.99,,medium,low,7,name.com,,,
-4fd29f79-2b70-4842-b075-de59e79165e9,labels.parts,available,15.99,,medium,low,6,name.com,,,
 5fe11b8a-58f4-4bd2-93c1-b7b0697ce254,clothing.maison,premium,78.54,78.54,medium,low,8,namesilo,,,13/09/2026 09:00
-f12aeb29-db32-4978-ae1c-7cb6baf830d6,labels.living,available,39.99,,medium,low,6,name.com,,,
-f6714ae0-cba4-4cec-ad96-04173b43e6d6,list.shop,premium,3125,,high,low,4,name.com,,,
-81199284-0f10-486b-a4b3-495f152ba683,glamour.cam,premium,500,29.99,medium,low,7,name.com,,,21/08/2026 07:43
-32495f09-a15d-41bc-94e9-a854bef116ab,compilation.ooo,available,24.99,24.99,medium,low,11,namesilo,,,
-8538b303-1722-47d9-bb0d-491b9dbdc3ce,sportswear.london,available,31.99,31.99,medium,low,10,namesilo,,,17/09/2026 05:14
-21498b18-4a70-4090-b584-f8addd0a089c,gems.makeup,premium,812.5,,high,low,4,name.com,,,
+6957ea53-bbe9-42bc-a1f6-a5708988ed79,garment.college,available,1.5,81.98,medium,low,7,namecheap,,,19/09/2026 20:02
 18ac089a-a3a2-4597-ac2f-a1451b06dbcd,fashion.broker,premium,1250,,high,medium,7,name.com,,,
 54086519-88ac-4715-9afd-3a597633c9c5,fashion.markets,premium,1250,,high,medium,7,name.com,,,
-71542bd2-9807-4417-8b95-d6442b27f81d,glamorous.luxe,available,19.49,19.49,medium,low,9,namesilo,,,19/08/2026 00:15
-08b0a1fe-938c-459d-a866-8eff575a1506,sportswear.movie,available,40.98,446.98,medium,low,10,namecheap,,,17/09/2026 05:14
-8037c952-d9a9-4ca5-bd04-7cfafe7d460b,trends.vana,available,2298,2498,low,low,6,namecheap,,,17/09/2026 19:12
 7c977086-00fb-4f5b-b09a-9838a15b8305,fashion.poker,available,14.99,,high,medium,7,name.com,,,
-bf50feb5-e479-47ce-b14e-db1d6a3daabe,sportswear.loan,available,5.25,6.25,medium,low,10,namesilo,,,17/09/2026 05:14
-5d9a34c5-46f0-4895-8b51-7d684ec224cd,chic.cat,available,26.98,38.98,medium,low,4,namecheap,,,12/08/2026 04:40
-2b93fde5-2ad2-4757-a237-dd2c2984f01b,labels.doctor,available,14.99,,medium,low,6,name.com,,,
-61052298-151d-4c4e-a036-a289563a7cc1,silhouettes.tickets,available,359.99,389.99,medium,low,11,namesilo,,,
-58469510-47ee-4f35-bc99-fff1f7615a49,trends.bond,premium,390,780,low,low,6,namecheap,,,17/09/2026 19:12
-672c7bc7-03c1-4dc6-819a-73e60744a73a,compilation.direct,available,19.99,,medium,low,11,name.com,,,
-096f5afa-a1cc-4d09-b1a9-3d8d40ed3f0d,glamour.flowers,available,64.99,114.99,medium,low,7,namesilo,,,21/08/2026 07:43
-c2a9b899-c8a5-4745-9852-43e43ee13198,silhouettes.mx,available,39.99,43.99,medium,low,11,namesilo,,,
-636e5138-13be-41cc-a90a-60a27d7272ad,form.digital,resell,,,high,low,4,Porkbun LLC,04/08/2024 22:22,04/08/2026 22:22,
-636555fd-4e01-4162-86bd-e781be24c856,tendency.photos,available,8.98,40.98,low,low,8,namecheap,,,22/08/2026 22:11
-5e798f80-ab42-44e4-bfe5-72281f340684,gems.irish,available,9.99,,high,low,4,name.com,,,
+c74b6de2-8b59-4ad6-a75a-9809105863fa,designer.voting,available,1398,1448,low,low,8,namecheap,,,20/09/2026 02:12
 45811127-c17e-434a-81ef-d46a1943b700,sophistication.lease,available,14.99,,high,low,14,name.com,,,
-fac5fa57-fc88-4433-89f6-165f8b05d4b4,sportswear.plumbing,available,72.99,72.99,medium,low,10,namesilo,,,17/09/2026 05:14
-d9e23c7a-396f-4cf2-a2a1-8de936f5b35a,labels.charity,available,5.99,,medium,low,6,name.com,,,
-a5f1fa67-a926-4fb3-9aa3-e91ed50f9332,sportswear.events,available,15.99,45.99,medium,low,10,namesilo,,,17/09/2026 05:14
-c7716b24-3d86-457e-b1d7-4a6913c6cb8d,glamour.rich,available,94.99,1999,medium,low,7,namesilo,,,21/08/2026 07:43
+c26d0159-259e-4a8f-b7ac-94d775f4043e,designer.catering,available,38.99,38.99,low,low,8,namesilo,,,20/09/2026 02:12
 fc7f8f38-9501-4ff2-82c3-2b5117d0c6e3,clothing.free,premium,1107,1107,medium,low,8,namesilo,,,13/09/2026 09:00
 a2f60a67-93db-4b24-9648-ed5c6819a03d,fashion.channel,premium,1248.75,,high,medium,7,name.com,,,
-ad155ce5-1a59-4ba0-83e0-ebc46e7a4fbd,silhouettes.day,available,16.98,,medium,low,11,namecheap,,,
-ace82ccc-0804-4265-9b8d-92b126fdeba3,labels.foo,premium,623.75,,medium,low,6,name.com,,,
-b727c2d1-aa7e-41ff-a1fd-fb411439055c,gems.lease,available,14.99,,high,low,4,name.com,,,
-bd3eeae5-6780-4487-9d87-bc0a4ac2a9ce,trendy.dental,available,81.98,100.98,medium,low,6,namecheap,,,11/09/2026 19:19
-a67eb6e4-6739-4bd8-becb-178394908f93,glamour.channel,premium,161.25,161.25,medium,low,7,name.com,,,21/08/2026 07:43
 53ea6010-b808-4202-955f-5223ceaccc36,clothing.tennis,available,65.99,65.99,medium,low,8,namesilo,,,13/09/2026 09:00
-622a2f91-c2db-4a66-a3ad-e18d7651d5b4,labels.legal,available,9.99,,medium,low,6,name.com,,,
-79fd66da-450d-4c04-9eb8-de8a846c2cb3,glamour.finance,available,11.99,84.99,medium,low,7,name.com,,,21/08/2026 07:43
-c107bb04-e935-4846-839e-01a7e2f5c3b6,pattern.express,available,9.98,49.98,medium,low,7,namecheap,,,25/08/2026 02:49
-24cdb5f0-323d-4111-a946-40382e9c5b7a,magazines.lol,available,1.99,,medium,low,9,name.com,,,
-08057ea4-21a5-493b-a80e-d4d42128c993,activewear.fitness,available,8.99,41.99,medium,low,10,namesilo,,,17/09/2026 05:14
-6ec8a03e-695b-468c-a197-0dc56efee708,tendency.my,resell,,,low,low,8,Exabytes Network Sdn Bhd,06/06/2026 06:06,06/06/2027 06:06,22/08/2026 22:11
-59b285e6-9b63-4b8e-a12d-50271560ff8a,gems.voting,available,1448,,high,low,4,namecheap,,,
-cb439adf-ea4e-4824-b6d4-bcfc2554f6ee,compilation.media,available,7.99,,medium,low,11,name.com,,,
-8529cbcb-9033-457a-a84b-da981f7e8890,labels.dance,available,17.99,,medium,low,6,name.com,,,
 712e9823-1ba4-4423-96d1-db53616d2066,sophistication.events,available,21.99,,high,low,14,name.com,,,
-50f9307b-6f8e-4646-9318-d8c40f540c9a,sandals.community,available,14.99,,medium,low,7,name.com,,,
-95d6a85b-b95b-4d57-ab21-b78f924d9e10,trends.tel,available,10.98,15.98,low,low,6,namecheap,,,17/09/2026 19:12
-ff7bc177-0b2b-45a1-924a-a9fcf2b4712f,sportswear.support,available,4.98,37.98,medium,low,10,namecheap,,,17/09/2026 05:14
-7e67b634-0b19-4b21-b102-fa29cc0cf95d,trendy.tax,available,8.98,85.98,medium,low,6,namecheap,,,11/09/2026 19:19
-8237f7b0-717f-4ece-a1c3-3fc4f86f29e0,designing.beauty,available,1.8,19.98,medium,low,9,namecheap,,,14/08/2026 03:45
-be3b32eb-912a-442c-b469-7863032badb9,silhouettes.free,available,38.99,38.99,medium,low,11,namesilo,,,
-aff90256-6578-41c2-a5a0-d661f0ec50e3,compilation.cruises,available,14.99,,medium,low,11,name.com,,,
 b3cf82fd-2da8-42ce-92ed-c2fd01092452,fashion.mobile,premium,1250,,high,medium,7,name.com,,,
 b6f9908a-4213-4e52-af41-b1fa28315a66,sophistication.cam,available,8.99,17.49,high,low,14,namesilo,,,
-d64b48d2-fef7-428c-9b52-5271da12474d,chic.actor,available,9.48,54.98,medium,low,4,namecheap,,,12/08/2026 04:40
-4c2346e4-7ea9-422e-bea4-488f97503982,labels.gripe,available,8.98,,medium,low,6,namecheap,,,
-90599a22-c129-458d-96d3-4cd9c64ac5b7,tendency.bet,available,8.98,35.98,low,low,8,namecheap,,,22/08/2026 22:11
-8d039eb0-d840-4199-8625-79d6f0944fcb,gems.computer,available,29.99,,high,low,4,name.com,,,
-6679f0f0-7aac-4d2c-b826-9dd45e9ccef1,glamour.yoga,available,32.49,32.49,medium,low,7,namesilo,,,21/08/2026 07:43
-df8978fe-592a-4cfc-b828-3dcc5ba48265,chic.plus,resell,,,medium,low,4,"DNSPod, Inc.",12/10/2024 17:00,12/10/2026 17:00,12/08/2026 04:40
 8e528da8-c675-48dd-8d5e-1179c81e9c8c,clothing.theatre,available,509.99,529.99,medium,low,8,namesilo,,,13/09/2026 09:00
-3357fe99-cda3-42b9-b294-88dd09ddfaa9,outlets.name,available,9.98,,medium,low,7,namecheap,,,
-1263f2d2-909d-48e5-81f6-c6e66b235dff,pattern.stream,premium,437.5,62.5,medium,low,7,name.com,,,25/08/2026 02:49
-1cd6e41d-8ecd-4e3b-a3d8-2e255db6419d,tendency.attorney,available,62.99,62.99,low,low,8,namesilo,,,22/08/2026 22:11
-a05b53cf-32e2-40cc-9744-61ebbdbe7d44,sportswear.forum,available,2.19,34.99,medium,low,10,namesilo,,,17/09/2026 05:14
-38e56f30-ad9f-4588-8b24-701faf02fab7,sandals.desi,available,22.98,,medium,low,7,namecheap,,,
-20342616-7066-4eb2-9449-6ae5af07e49a,trends.careers,available,28.98,89.98,low,low,6,namecheap,,,17/09/2026 19:12
-141843e2-0f2b-4b5e-88d9-77e5853c448b,sportswear.dentist,available,65.99,65.99,medium,low,10,namesilo,,,17/09/2026 05:14
-47364748-0dcd-43b0-9ef5-e21364f641ae,compilation.red,available,14.99,,medium,low,11,name.com,,,
-17760610-b04d-427b-b0a8-40783e30f1bb,ensemble.black,premium,78.54,78.54,low,low,8,namesilo,,,16/09/2026 09:22
 16adaee7-6955-4aff-87bd-5ab8e6d0e97d,sophistication.hockey,available,14.99,,high,low,14,name.com,,,
-4ff13d0f-bc85-48a5-86e1-4918649f9d08,goods.broker,available,19.99,,high,low,5,name.com,,,
-b3da60bb-e3f6-4c3f-a655-bbb07249611c,airstrip.shoes,available,34.98,81.98,medium,low,8,namecheap,,,17/09/2026 23:24
-84835273-b58f-4d5f-89c2-869f403cc6b5,compilation.care,available,29.99,,medium,low,11,name.com,,,
-2c5ea8cc-3d0b-4a33-aaca-bb0c1ecb755d,goods.barcelona,available,38.98,,high,low,5,namecheap,,,
-4b5e7374-de12-40e5-be19-1492e6e4f669,trendy.vacations,available,40.98,49.98,medium,low,6,namecheap,,,11/09/2026 19:19
-b620a4d9-5809-4870-9557-7c5ab6ec495d,trendy.wine,available,8.48,75.98,medium,low,6,namecheap,,,11/09/2026 19:19
-3b5fbde3-cb29-4db4-8b28-3d8847eeb00c,gems.ag,available,89,,high,low,4,name.com,,,
-ee8cc7ba-e273-420f-9947-2663ea7712bb,trends.win,premium,455,65,low,low,6,namecheap,,,17/09/2026 19:12
-4a8f3b92-aa40-490a-afe4-90516ff0af36,compilation.forum,available,1.99,,medium,low,11,name.com,,,
-a1e668c9-31dd-47a7-807d-4c12b8315838,magazines.movie,available,69.99,,medium,low,9,name.com,,,
-142b3453-a9d7-4a11-9200-70e3412f783a,magazines.icu,available,1.99,,medium,low,9,name.com,,,
-73129db6-4fc6-46df-a1b1-1e9e5a7fe9d9,compilation.city,available,7.99,,medium,low,11,name.com,,,
-dd40ebae-6baf-497b-8c90-1ff2e411c126,outlets.institute,available,9.99,,medium,low,7,name.com,,,
-8e36341f-846b-4cad-be49-77537a133831,trends.juegos,available,368.98,478.98,low,low,6,namecheap,,,17/09/2026 19:12
-22e83b25-88ee-4356-8dbb-d79c1aa6857f,designers.cyou,premium,32.45,65.45,high,low,9,namesilo,,,
-a138e0b0-49a4-4c8e-8a55-f491d35573a4,trendy.co,resell,,,medium,low,6,"NameCheap, Inc.",20/07/2010 18:09,19/07/2027 23:59,11/09/2026 19:19
-051c75f0-2a5b-4e20-8075-35343873114d,styling.pictures,available,16.48,20.98,medium,low,7,namecheap,,,17/09/2026 18:14
-053cfc1d-324a-4979-a69d-5b761f2020ee,luxurious.gold,available,7.98,130.98,medium,low,9,namecheap,,,14/08/2026 00:57
-aa07928c-3d49-4287-a435-517c87b789e1,designing.bet,available,8.98,35.98,medium,low,9,namecheap,,,14/08/2026 03:45
-9762e099-46a0-4976-81f5-4da5263977ee,sandals.furniture,available,39.99,,medium,low,7,name.com,,,
-88f1d5d6-7fe2-44d0-ba27-a717cc40f5af,sandals.partners,available,13.99,,medium,low,7,name.com,,,
-98b67604-ff39-4e9b-8246-8e84de569b01,outlets.boutique,available,6.99,,medium,low,7,name.com,,,
-69e817b1-a74f-4bce-90f8-19605a5b4b27,designers.art,premium,3450,83.3,high,low,9,namesilo,,,
-6af455ae-5d70-490b-be99-765a62c33c69,sandals.bargains,available,21.99,,medium,low,7,name.com,,,
-19bbd035-4569-4cba-a50f-0490333d3fc4,magazines.cruises,available,14.99,,medium,low,9,name.com,,,
-67eec229-7dbe-4575-8eeb-b152124c47b7,glamorous.fishing,available,32.49,32.49,medium,low,9,namesilo,,,19/08/2026 00:15
-9b8344e4-847d-42c3-bdb8-932c1a3bf448,tendency.bz,available,21.98,26.98,low,low,8,namecheap,,,22/08/2026 22:11
+fc028516-aba1-427f-a436-6e7711e1a6eb,designer.parts,available,10.48,45.98,low,low,8,namecheap,,,20/09/2026 02:12
+5d3e0a0c-be2a-4a2b-912d-e4b0577b0eee,designer.run,resell,,,low,low,8,,,,20/09/2026 02:12
+8713eac4-4a34-4cf8-ae82-594088c60d80,garment.baby,available,1.8,81.98,medium,low,7,namecheap,,,19/09/2026 20:02
+6203a91f-12c5-4291-adbc-5a84fd716abc,garment.security,available,2070,2950,medium,low,7,namecheap,,,19/09/2026 20:02
+cde022f7-3849-4db3-b7f5-4466422d5ff4,garment.farm,available,4.98,49.98,medium,low,7,namecheap,,,19/09/2026 20:02
+43c4b430-8504-46c1-857e-6252911823fa,garment.gallery,available,29.98,36.98,medium,low,7,namecheap,,,19/09/2026 20:02
+6792b1d5-5fb8-4deb-a8da-2441c317c05c,garment.pw,resell,,,medium,low,7,,,,19/09/2026 20:02
+0db20ffe-5aae-4070-a0c0-ecb5822d3781,garment.diy,available,4.98,51.98,medium,low,7,namecheap,,,19/09/2026 20:02
 0a77fa95-2fbb-4111-a5fa-45f0e6138a16,clothing.win,resell,,,medium,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",05/08/2015 15:49,04/08/2028 23:59,13/09/2026 09:00
 6af0bb7e-133c-4d88-aba9-ad9b1476e2d7,sophistication.spot,available,25.99,25.99,high,low,14,namesilo,,,
 d3243bc1-08df-48f3-be71-34be6fbe505f,clothing.creditcard,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
-0b862dc8-8f0f-4e75-99aa-d3fbc2b63c42,chic.racing,premium,116,192,medium,low,4,namesilo,,,12/08/2026 04:40
-53d9cd64-1b18-4f21-b7c4-25bca29f2c88,trends.apartments,available,60.98,72.98,low,low,6,namecheap,,,17/09/2026 19:12
 44842f95-f526-443a-8c4a-407934656243,sophistication.media,available,7.99,,high,low,14,name.com,,,
-269a47da-46da-49ec-9eae-8bec63af0f61,trends.storage,available,538.98,858,low,low,6,namecheap,,,17/09/2026 19:12
-e5d0c1dc-5db0-47b5-95b3-999f9223ef94,outlets.mov,premium,73.75,,medium,low,7,name.com,,,
-cffd6e35-008c-4e5f-a7e6-a4b9566706b6,labels.salon,available,14.99,,medium,low,6,name.com,,,
-d41f650d-e8c8-40d5-bbfb-4ee54ce46f01,pattern.gratis,available,23.99,23.99,medium,low,7,namesilo,,,25/08/2026 02:49
 671dc686-6e7d-45fb-98e0-2d9e48267157,clothing.esq,premium,1688.7,1688.7,medium,low,8,namecheap,,,13/09/2026 09:00
 62607b0b-f5c3-4535-b8eb-aff79540752f,designing.moda,available,19.99,52.99,medium,low,9,name.com,,,14/08/2026 03:45
-fe80f825-a04e-431a-bf00-ee3020987753,sandals.beer,available,43.98,,medium,low,7,namecheap,,,
-7106b5b8-9fb3-45e6-b353-ece6d60dff80,glamour.markets,available,5.98,26.98,medium,low,7,namecheap,,,21/08/2026 07:43
-823fd754-da77-4995-ad58-6a1f463e54ad,trendy.properties,available,15.98,43.98,medium,low,6,namecheap,,,11/09/2026 19:19
-e49a9ffe-2505-4efa-8d56-783e0877202d,trendy.webcam,premium,650,84.5,medium,low,6,namecheap,,,11/09/2026 19:19
-552156ae-8244-48df-8579-b499fee2c05a,labels.kim,available,14.99,,medium,low,6,name.com,,,
-edfb425f-4227-431d-bb85-f3d7b1ab9af4,tendency.gripe,available,6.98,8.98,low,low,8,namecheap,,,22/08/2026 22:11
-84fabea1-d174-432d-a274-4fa205b84502,tendency.contractors,available,9.99,45.99,low,low,8,name.com,,,22/08/2026 22:11
-7415e0c3-715f-4b84-965e-3814de661496,designers.bet,available,14.99,,high,low,9,name.com,,,
-8237b549-5e64-4502-9503-e95a0e35c54d,labels.berlin,available,89.98,,medium,low,6,namecheap,,,
-d4f92910-ec37-46b7-aae7-8cedb549cbb8,chic.lawyer,available,62.99,62.99,medium,low,4,namesilo,,,12/08/2026 04:40
-3fe14b8d-fdfa-4ffa-bc6d-efa538b15091,outlets.auction,premium,242,242,medium,low,7,namesilo,,,
-7268d1a8-51db-40ac-ab74-7be9bf626b4b,ensemble.promo,available,14.49,24.99,low,low,8,namesilo,,,16/09/2026 09:22
-f506351b-4925-46ac-8f07-7d6fd2ad3628,progression.hamburg,available,59.99,,high,low,11,name.com,,,
-d1d9e533-db50-4c51-9938-fb77c3acf385,sportswear.lawyer,available,62.99,62.99,medium,low,10,namesilo,,,17/09/2026 05:14
-8e13123f-ac6b-4341-857c-5bde1a70a4dc,sportswear.courses,available,2.19,38.99,medium,low,10,namesilo,,,17/09/2026 05:14
+e04020a8-23cd-4981-90e2-60345f5cc358,designer.reise,available,27.89,97.99,low,low,8,namesilo,,,20/09/2026 02:12
+b435242a-32ff-4bb3-a884-3ce34bc77c10,garment.science,available,12.98,16.98,medium,low,7,namecheap,,,19/09/2026 20:02
 2372a07f-4397-4273-8d5a-c2d7cbbd246f,sophistication.travel,available,39.99,,high,low,14,name.com,,,
-142c2515-6a2d-45b6-aeb4-3d90b5d760be,airstrip.limo,available,54.99,54.99,medium,low,8,namesilo,,,17/09/2026 23:24
-cedefb79-9e92-48f6-9122-ad580adc0e26,trendy.sydney,available,44.98,54.98,medium,low,6,namecheap,,,11/09/2026 19:19
-d9c22e23-6d31-4908-b35d-5847b3b4c373,chic.schule,available,19.99,41.99,medium,low,4,name.com,,,12/08/2026 04:40
-b62bbc6d-686f-42fc-b0b4-2dec7e7bf38c,labels.party,available,9.98,,medium,low,6,namecheap,,,
-95456ef5-28d9-44cd-968d-2c5bd842356e,silhouettes.cab,available,19.99,,medium,low,11,name.com,,,
+80cc60f5-31a2-4a27-90e2-0461bb511b34,garment.build,available,32.98,39.98,medium,low,7,namecheap,,,19/09/2026 20:02
 ef255041-6980-4867-922b-65153bd1accd,sophistication.energy,available,21.99,,high,low,14,name.com,,,
-aac7250f-d872-46a0-a5ec-ecb6491d94d8,silhouettes.market,available,44.49,44.49,medium,low,11,namesilo,,,
+4e351d14-f332-44d8-86f8-f244a1daaa46,designer.bot,resell,,,low,low,8,,,,20/09/2026 02:12
 3e627ca8-5ca5-4848-8844-f803787fdfee,trendy.cool,premium,128.7,128.7,medium,low,6,namecheap,,,11/09/2026 19:19
-ea169a24-350e-4189-8368-4f99edec8f39,labels.fishing,available,45.98,,medium,low,6,namecheap,,,
-4d0519d5-11e5-4dc9-ac93-a2053543323c,sandals.nyc,available,43.98,,medium,low,7,namecheap,,,
-6d651188-0160-4c17-928a-6dbb752eaf52,glamour.taxi,available,8.98,69.98,medium,low,7,namecheap,,,21/08/2026 07:43
-c18253d2-1439-447a-8130-0ae91e19e1d7,luxurious.luxury,premium,2600,2600,medium,low,9,namecheap,,,14/08/2026 00:57
-73784223-45a0-4fe8-a7f1-4341f97482bc,magazines.contact,available,16.78,,medium,low,9,namecheap,,,
-9a273c2d-b519-4d1c-a28d-f7e7b7000296,outlets.partners,available,13.99,,medium,low,7,name.com,,,
-ea214bc1-2330-4147-ab44-00ca2af0f1b9,pattern.estate,available,6.98,52.98,medium,low,7,namecheap,,,25/08/2026 02:49
-9784ca0c-e022-48ec-bb76-94ebe8f69785,magazines.coffee,available,23.99,,medium,low,9,name.com,,,
-1c6a94b4-cdf9-4b42-9cca-d696add2a405,tendency.deals,available,5.99,50.99,low,low,8,name.com,,,22/08/2026 22:11
-bbe000cd-3ca0-444a-b1a9-1cda1de92ee1,labels.sucks,available,298,,medium,low,6,namecheap,,,
-f606c83c-890a-42f6-a4f0-8295cf41a92d,labels.blackfriday,available,134.98,,medium,low,6,namecheap,,,
+dada9bf8-9871-4f7e-b1a0-50fdf00558f0,garment.airforce,available,109.98,134.98,medium,low,7,namecheap,,,19/09/2026 20:02
 469a1f99-cb83-4f0b-91e4-d15d497c05e7,clothing.navy,available,41.99,41.99,medium,low,8,namesilo,,,13/09/2026 09:00
-e723fc14-60c2-448d-ab3f-cf7e615dc44f,glamour.education,available,34.99,34.99,medium,low,7,namesilo,,,21/08/2026 07:43
-4be10706-dffa-4c07-a4a8-b3839e27998f,compilation.zip,available,15.88,,medium,low,11,namecheap,,,
-c89bde5f-b726-41b6-95f8-2f67b89eae35,compilation.mov,available,15.98,,medium,low,11,namecheap,,,
-8508295a-3475-48ec-93b7-143aa5fda843,outlets.giving,available,5.99,,medium,low,7,name.com,,,
-39c6059a-da35-497f-a572-11fa58194908,trends.villas,available,62.98,74.98,low,low,6,namecheap,,,17/09/2026 19:12
-0aca91a9-20c6-45e1-934d-063eb33d2232,trendy.lawyer,available,65.98,66.98,medium,low,6,namecheap,,,11/09/2026 19:19
-c478ffc3-0f58-4295-8b84-48aa66cfbd08,designers.quest,available,1.99,15.75,high,low,9,namesilo,,,
-fd638a0a-b186-4204-9976-d193e26121b2,sportswear.charity,available,14.99,23.99,medium,low,10,namesilo,,,17/09/2026 05:14
-a15d6bf1-44d8-4480-9f7c-a4d4979714ea,ensemble.sex,available,69.98,154.98,low,low,8,namecheap,,,16/09/2026 09:22
-fc07a615-1e04-47be-85e7-c700d58914d2,airstrip.ag,available,89.99,79.99,low,low,8,namesilo,,,17/09/2026 23:24
 eeaada17-017b-4da2-be37-11cd7c220c11,sophistication.mom,available,1.99,,high,low,14,name.com,,,
-a3536788-e7e0-4de0-b35f-ab21e9d7a0f4,magazines.capital,available,9.99,,medium,low,9,name.com,,,
-1b979a97-f49e-4741-92bb-939252bd6fb5,silhouettes.mobile,available,26.98,,medium,low,11,namecheap,,,
 d664205c-bc3f-4256-b3a6-8386fa4ad52e,airstrip.fashion,available,33.98,45.98,medium,low,8,namecheap,,,17/09/2026 23:24
-ed54dffa-5d46-48d8-ac01-f461827bd6f4,sandals.media,available,7.99,,medium,low,7,name.com,,,
+56e10e65-b943-49a9-bb6d-ba47cc129c2f,designers.salon,available,57.99,57.99,medium,low,9,namesilo,,,19/09/2026 23:31
 3e31c3f6-04e6-42a5-91f8-6ab6c6390d24,glamorous.moda,premium,118.8,118.8,medium,low,9,namesilo,,,19/08/2026 00:15
-1c904781-cf1f-45d1-b953-f84b354b39d7,glamour.energy,available,5.98,155.98,medium,low,7,namecheap,,,21/08/2026 07:43
-77cb3346-2beb-4b5d-8a71-90421f31419b,styling.onl,available,3.48,28.98,medium,low,7,namecheap,,,17/09/2026 18:14
 2bc17188-60de-433b-ac76-f44c0a8a4bf1,model.cat,resell,,,medium,low,5,Name SRS AB,11/01/2015 12:01,11/01/2027 12:01,08/09/2026 03:01
-9adee2cc-1226-4a84-9221-dbf180472df9,glamour.coach,resell,,,medium,low,7,"Sav.com, LLC - 24",03/04/2026 15:15,03/04/2027 15:15,21/08/2026 07:43
 8a7b3a7c-38d7-49af-8e38-d3a5ef1b1835,sophistication.properties,available,10.99,,high,low,14,name.com,,,
-c0e41417-2f0f-442b-a938-a4f6f39430a7,designing.bar,available,2.8,81.98,medium,low,9,namecheap,,,14/08/2026 03:45
-86641b47-2fc5-4765-8b0e-7391c82b8b95,labels.town,available,9.99,,medium,low,6,name.com,,,
-f74442ca-07d4-4786-8d82-a6d2f5d1b951,sandals.show,available,17.99,,medium,low,7,name.com,,,
-be47a9ba-dbf7-4785-8fa8-5c2df3f70f66,trendy.gifts,premium,85.8,85.8,medium,low,6,namecheap,,,11/09/2026 19:19
-a9aa517a-cf9f-4909-aa30-12a457b42110,designers.wedding,premium,2500,,high,low,9,name.com,,,
-574b247f-3ed8-4839-a82d-ff520f341e1d,gems.life,resell,,,high,low,4,Squarespace Domains II LLC,18/01/2020 21:12,18/01/2027 21:12,
-900d1552-04c7-40b0-882b-22bb4d859b7d,styling.shoes,available,34.98,81.98,medium,low,7,namecheap,,,17/09/2026 18:14
-17dca004-0ee8-425f-8c37-3663b19da545,styling.motorcycles,available,1.8,21.98,medium,low,7,namecheap,,,17/09/2026 18:14
+2564eeef-0632-48f4-80d2-5db3d7c82cf3,garment.london,premium,69.39,34.7,medium,low,7,namecheap,,,19/09/2026 20:02
+3f2d68f5-af4c-4896-bf0a-9dcef46213b5,sophistication.engineer,available,13.99,,high,low,14,name.com,,,
+3da052fb-6f14-428e-a1a2-a3431bec9ff5,designer.green,premium,1995,1995,low,low,8,namesilo,,,20/09/2026 02:12
+22f3341d-2447-40d0-b33d-982d450b0c93,sophistication.today,available,2.99,,high,low,14,name.com,,,
+5097b78c-2f19-4e7e-b230-132dc7ee04f0,designer.gold,resell,,,medium,low,8,,,,20/09/2026 02:12
+189709d2-ce68-4308-8740-ae5a91bfcd82,chic.nexus,premium,623.75,623.75,medium,low,4,name.com,,,12/08/2026 04:40
+f5f4ddd7-e6ce-4fd7-b19f-e8eeeac9aa91,sophistication.irish,available,9.99,,high,low,14,name.com,,,
+410b9f5c-81e9-490c-860d-75cb1c0588f2,clothing.dental,available,78.99,78.99,medium,low,8,namesilo,,,13/09/2026 09:00
+bfef0216-5364-4e6a-9d16-eab986a4e54f,garment.codes,available,3.98,92.98,medium,low,7,namecheap,,,19/09/2026 20:02
+c57f6f0c-a5cf-4cc9-b373-21c5b178eb00,designer.luxe,resell,,,medium,low,8,,,,20/09/2026 02:12
+65d5914f-be8d-47d6-b1f5-8f336eb27e2f,designer.sucks,premium,2658.67,2658.67,low,low,8,namesilo,,,20/09/2026 02:12
+402bc200-93f6-4dd3-ae1d-e19912b733dc,sophistication.plus,available,21.99,,high,low,14,name.com,,,
+f58307a8-c990-4d5a-a523-3494e4ccc7ce,garment.audio,available,108.98,159.98,medium,low,7,namecheap,,,19/09/2026 20:02
+88eaa623-e5bc-4b2d-98a8-67a8eac6fed1,clothing.gay,premium,116,116,medium,low,8,namesilo,,,13/09/2026 09:00
+5572d689-4d43-4aaf-afc1-79487fe8cd04,chic.gives,available,5.99,40.99,medium,low,4,name.com,,,12/08/2026 04:40
+d9afd910-5a4d-4759-bfcc-348530057eb7,garment.coupons,available,2.98,59.98,medium,low,7,namecheap,,,19/09/2026 20:02
+5283c58d-02b7-4146-bb05-d1e207fd13b0,clothing.guru,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
+633e807e-fb45-42ec-ae7d-8a02020e073d,sophistication.tickets,available,359.99,389.99,high,low,14,namesilo,,,
+1af0ec7c-89c0-4bab-af2d-1c5005927806,sophistication.claims,available,19.99,,high,low,14,name.com,,,
+7d7d9237-ef56-4eb5-b6d0-b2a2e22be390,chic.enterprises,available,5.99,50.99,medium,low,4,name.com,,,12/08/2026 04:40
+7f4d6911-fd28-43ea-bbb5-bf9c893897f1,trendy.icu,premium,390,780,medium,low,6,namecheap,,,11/09/2026 19:19
+35f2b72d-c1ac-48ca-a673-a75f87c39fd4,hair.lat,resell,,,high,low,4,"Spaceship, Inc.",21/02/2026 16:15,21/02/2027 23:59,
+830cc9b2-25c1-49bf-9538-99b9a0050de0,clothing.cv,premium,137.6,8.85,medium,low,8,namesilo,,,13/09/2026 09:00
+5cbd8696-91ad-4433-b6ce-1aed9b81118e,chic.healthcare,available,88.99,88.99,medium,low,4,namesilo,,,12/08/2026 04:40
+c005a056-5250-4500-97b1-cf264f7dac3e,designer.icu,premium,384,768,low,low,8,namesilo,,,20/09/2026 02:12
+3c3dac9f-fc8e-4210-b8b6-fbb6804a545f,clothing.hospital,available,55.98,71.98,medium,low,8,namecheap,,,13/09/2026 09:00
+07eb556f-0f77-42fe-ad26-da2803c6721d,garment.glass,available,76.98,99.98,medium,low,7,namecheap,,,19/09/2026 20:02
+d7cd49be-8d30-4bff-8fa0-d24d7051517b,garment.auction,available,38.98,46.98,medium,low,7,namecheap,,,19/09/2026 20:02
+4c33e194-fe6b-46e8-8b9f-1e2a19888d5d,designer.blackfriday,available,114.99,114.99,low,low,8,namesilo,,,20/09/2026 02:12
+d0acb1af-b610-4146-944f-3fc875788ca9,chic.degree,available,14.99,64.99,medium,low,4,name.com,,,12/08/2026 04:40
+6035ea15-d97c-4a23-95d2-d25d264d413b,sophistication.autos,available,1.99,,high,low,14,name.com,,,
+37e8fa2d-4a93-4754-96db-be6b7056106d,clothing.voting,available,1398,1448,medium,low,8,namecheap,,,13/09/2026 09:00
+12d0695f-c719-4307-85e8-021bf1e0e854,garment.courses,available,1.98,50.98,medium,low,7,namecheap,,,19/09/2026 20:02
+86b922ee-d408-4a60-a6fc-570ae31e769e,movement.shop,premium,312.5,,high,low,8,name.com,,,
+e6fce924-cd7b-4936-9a08-4109ac72c06e,sophistication.tennis,available,65.99,65.99,high,low,14,namesilo,,,
+b3b020f2-7f62-473d-9a01-ddecfe907d0a,trends.clothing,available,31.98,35.68,medium,low,6,namecheap,,,17/09/2026 19:12
+4ed4f802-fb76-40b1-aa0a-ba55683aec69,garment.sbs,premium,195,390,medium,low,7,namecheap,,,19/09/2026 20:02
+412c69f7-b037-4c60-b8c4-3ddd5118b138,designer.club,resell,,,low,low,8,,,,20/09/2026 02:12
+033a8380-d9bb-405c-9665-3d5b24288b33,sophistication.solutions,available,5.99,,high,low,14,name.com,,,
+fc64d557-5639-47b7-970b-809c10c70b50,designers.space,premium,302.5,302.5,medium,low,9,namesilo,,,19/09/2026 23:31
+6847ba48-a88a-49db-8e88-455740b72c98,apparel.boutique,premium,260,260,high,low,7,namecheap,,,
+41cf11fe-06b1-4305-9c46-a46df749750d,clothe.how,available,30.98,41.98,medium,low,6,namecheap,,,19/09/2026 19:51
+c337116d-9ebd-48cb-921a-0e88e9027e7c,apparel.tienda,available,9.99,,high,low,7,name.com,,,
+96944a71-e8d3-4d06-8174-6b925791f229,clothe.kids,premium,390,23.4,medium,low,6,namecheap,,,19/09/2026 19:51
+6fae235e-e786-422d-a9bd-7dcef95d3f7a,garment.exposed,available,22.98,28.98,medium,low,7,namecheap,,,19/09/2026 20:02
+0e837833-25b6-4011-98b7-551272cde925,clothing.center,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
+2919f2d9-52f3-45cc-9c81-8096d601e022,style.fashion,available,,,high,low,5,,,,
+76253586-b312-4ce7-bb45-e5c3bfee17ad,chic.hamburg,available,59.99,59.99,medium,low,4,name.com,,,12/08/2026 04:40
+f127da6b-dde8-4a5c-9e0c-3134770c2ff3,style.cat,available,26.98,38.98,medium,low,5,namecheap,,,08/09/2026 07:22
+5c0aa743-a763-4920-ba3e-e5dc013345ef,clothe.im,available,4.98,12.98,medium,low,6,namecheap,,,19/09/2026 19:51
+f7bd26ca-02c9-4378-b31e-bd88b7929b2f,clothe.cab,available,33.98,41.98,medium,low,6,namecheap,,,19/09/2026 19:51
+8d8b794e-194c-4906-8414-60695105e359,garment.town,available,6.98,47.48,medium,low,7,namecheap,,,19/09/2026 20:02
+ab6ccbb0-1552-465b-ad4c-0d7c9b172978,garment.place,available,22.98,30.98,medium,low,7,namecheap,,,19/09/2026 20:02
+741689a2-f68d-45f3-bef0-cb4525983f29,pattern.dev,resell,,,medium,low,7,"Spaceship, Inc.",26/02/2025 04:18,26/02/2027 04:18,25/08/2026 02:49
+a4f9c5ff-6c04-4d98-977d-fbf25ad9e0ba,garment.cooking,available,33.98,43.98,medium,low,7,namecheap,,,19/09/2026 20:02
+20140f5f-ab32-4fee-982a-28b8c282a198,clothing.vip,premium,3250,19.5,medium,low,8,namecheap,,,13/09/2026 09:00
+2879a2b6-e488-4056-953d-6a6539b438a2,clothe.rentals,available,6.98,56.98,medium,low,6,namecheap,,,19/09/2026 19:51
+7715dd20-4849-4b41-9cca-59607bf9ccdf,garment.social,available,3.98,55.98,medium,low,7,namecheap,,,19/09/2026 20:02
+d4c46d74-9dec-4702-9107-b44101409b0e,sophistication.deals,available,5.99,,high,low,14,name.com,,,
+34672cae-2aa0-4c70-b98f-3218b27d1696,style.shoes,resell,,,high,low,5,Dynadot Inc,21/08/2019 17:01,21/08/2026 17:01,
+0cd9477e-c0b1-4f14-8704-d99bf37dbd2d,sophistication.hospital,available,57.99,57.99,high,low,14,namesilo,,,
+c304e585-841d-4914-ab5e-8cd67b264c57,trendy.blue,available,13.98,32.98,medium,low,6,namecheap,,,11/09/2026 19:19
+f87e4c75-c9ec-4344-adcd-dfc87b665ae6,clothing.giving,available,7.48,35.98,medium,low,8,namecheap,,,13/09/2026 09:00
+c4e91774-b923-430c-a26a-326a9a6fbbc9,garment.fyi,premium,19.5,19.5,medium,low,7,namecheap,,,19/09/2026 20:02
+a2963c71-92fe-45ad-97f2-ab0ebf2879be,clothe.health,available,12.98,107.98,medium,low,6,namecheap,,,19/09/2026 19:51
+5accc6ad-e95d-4c1f-89dd-ac4c97a2c35c,chic.locker,premium,159.23,8.8,medium,low,4,namesilo,,,12/08/2026 04:40
+0e5ea37b-c665-45f8-9632-58eebeb93f96,chic.reise,available,27.89,97.99,medium,low,4,namesilo,,,12/08/2026 04:40
+14db0942-fc43-463c-b01c-47104f4ca95e,sophistication.world,available,4.49,41.49,high,low,14,namesilo,,,
+1eb0b35a-d93e-441e-ac63-bf95abf6257e,designer.horse,premium,96,29.5,low,low,8,namesilo,,,20/09/2026 02:12
+a0eae0e8-be73-48bf-a498-91e6a875f491,garment.vip,premium,1300,19.5,medium,low,7,namecheap,,,19/09/2026 20:02
+aa739572-8d87-4491-9eb3-d2dcfcea34a5,beautifully.mobile,premium,375,,high,low,11,name.com,,,
+c60ccef7-016e-4d2f-814b-307673493303,designer.estate,premium,242,242,low,low,8,namesilo,,,20/09/2026 02:12
+7a2140c5-18a7-4a47-8a0f-70b18dbce296,clothe.limited,available,37.98,39.98,medium,low,6,namecheap,,,19/09/2026 19:51
+e754e844-78a6-4e9e-8e9a-2ac7378ed224,chic.delivery,available,2.98,79.98,medium,low,4,namecheap,,,12/08/2026 04:40
+07ac846f-3b5e-41f3-81b9-03e5e41966f3,designer.date,premium,384,53.92,low,low,8,namesilo,,,20/09/2026 02:12
+2e412b34-7dcb-417c-adcb-006e7bc36cec,sophistication.navy,available,41.99,41.99,high,low,14,namesilo,,,
+eae90348-784f-41c3-9a81-961dabf0bbf4,clothe.shop,resell,,,medium,low,6,,,,19/09/2026 19:51
+0a917e0d-c9b9-4338-8708-0386559c65ba,sophistication.clothing,available,19.99,,high,low,14,name.com,,,
+00215826-f6a2-47ba-bf63-b7fa2b57e852,design.news,premium,1107,1107,medium,low,6,namesilo,,,20/09/2026 03:28
+1f232ee4-d7b3-4bb5-92da-f88dc33d5436,clothe.fan,available,57.98,68.98,medium,low,6,namecheap,,,19/09/2026 19:51
+2b93f502-1cc6-4b3c-8a99-7b0554145682,sophistication.maison,available,19.99,,high,low,14,name.com,,,
+74891025-b6aa-4655-a824-4812d7dfb9e3,apparel.store,premium,1562.5,6250,high,low,7,name.com,,,
+4a392c98-de29-4506-ba14-3bfc226e8a6a,designers.maison,available,57.99,57.99,medium,low,9,namesilo,,,19/09/2026 23:31
+ca3745cc-087a-48e6-8f1b-06321ca62632,sophistication.enterprises,available,5.99,,high,low,14,name.com,,,
+80c46023-db5e-48da-9529-39238a170934,clothing.legal,available,71.99,71.99,medium,low,8,namesilo,,,13/09/2026 09:00
+6212b638-c0b2-4a34-9960-e6ac90814222,clothe.works,available,3.98,51.98,medium,low,6,namecheap,,,19/09/2026 19:51
+a550a214-e29f-4086-b4f0-74b91468defc,glamour.moda,premium,854,854,medium,low,7,namesilo,,,21/08/2026 07:43
+214089a8-1f64-4f78-b80f-2e9b4a74a503,designer.financial,available,23.99,58.99,low,low,8,namesilo,,,20/09/2026 02:12
+ddeb7503-af60-4812-9939-e507699e336e,trendy.beauty,resell,,,medium,low,6,Dynadot Inc,24/06/2026 12:29,24/06/2027 23:59,11/09/2026 19:19
+0cc4d750-9871-4971-9092-c41feae845b2,garment.sarl,available,6.98,8.98,medium,low,7,namecheap,,,19/09/2026 20:02
+16456faa-8ab6-41c4-90b3-279453f06ecd,trends.life,resell,,,medium,low,6,Xin Net Technology Corporation,24/04/2020 10:00,24/04/2028 10:00,17/09/2026 19:12
+cba377e2-4ef3-4c06-a60f-8feebcc1f6ce,designer.camera,available,58.99,58.99,low,low,8,namesilo,,,20/09/2026 02:12
+17c63f67-3b0a-4482-9867-d71d4dbd5f97,clothe.pics,available,1.8,40.98,medium,low,6,namecheap,,,19/09/2026 19:51
+14dae67e-5b90-4bf0-a810-e6d31cd80b5f,clothe.build,available,32.98,39.98,medium,low,6,namecheap,,,19/09/2026 19:51
+3743b2f6-d591-4545-a1b0-cf9d68e9c125,trendy.flowers,available,108.98,159.98,medium,low,6,namecheap,,,11/09/2026 19:19
+bd56709c-fc4e-414f-a225-27e4c4fe8de7,trends.boutique,resell,,,low,low,6,"Spaceship, Inc.",28/02/2026 19:19,28/02/2027 19:19,17/09/2026 19:12
+6f36e892-e1f7-43d9-bb5b-f419a34ae38e,sophistication.tips,available,14.99,,high,low,14,name.com,,,
+50763f8f-fc15-4eb7-8ac7-f9f3de8ba864,garment.tennis,available,67.98,81.98,medium,low,7,namecheap,,,19/09/2026 20:02
+a1a5ba6c-c5cf-4cd0-9baa-2c6bb606e7e0,designers.realty,available,109.99,299,medium,low,9,namesilo,,,19/09/2026 23:31
+00b0ffb0-57db-4e90-820f-c3cf9755c676,garment.la,available,32.98,41.98,medium,low,7,namecheap,,,19/09/2026 20:02
+68e5a94f-0bc3-4015-aef4-90c970510a60,chic.design,premium,422.5,845,medium,low,4,namecheap,,,12/08/2026 04:40
+8f238715-334b-4e31-9e71-ea5b11c65871,designer.construction,available,40.98,50.98,medium,low,8,namecheap,,,20/09/2026 02:12
+78607e66-57a4-48d0-b23f-b4570e6d3560,clothe.mortgage,available,65.98,76.98,medium,low,6,namecheap,,,19/09/2026 19:51
+54805317-cf03-441d-930d-94e54b8602b8,trends.makeup,premium,2600,2600,low,low,6,namecheap,,,17/09/2026 19:12
+1200305c-54af-41c7-91c4-aee39d79a052,garment.rip,available,24.98,32.98,medium,low,7,namecheap,,,19/09/2026 20:02
+f7fd0aeb-57c5-43d4-abe8-84e677ec17e1,clothing.luxe,premium,2660,17.7,medium,low,8,namesilo,,,13/09/2026 09:00
+38bc2002-b093-42b7-aeda-24bbdf4b1aaa,garment.nexus,premium,76.7,76.7,medium,low,7,namecheap,,,19/09/2026 20:02
+e72a937a-d55d-4222-a7da-40bb964366ef,designers.coupons,available,5.99,54.99,low,low,9,namesilo,,,19/09/2026 23:31
+d041a221-04cc-4c94-b089-399e719727e4,chic.democrat,available,5.98,41.48,medium,low,4,namecheap,,,12/08/2026 04:40
+ea7d7feb-d4a3-42be-9617-8d33ce483a0c,clothing.furniture,available,23.98,127.98,medium,low,8,namecheap,,,13/09/2026 09:00
+f49fdaa2-c3a1-4d2b-8022-ff1ac41a5d2f,garment.ltda,available,42.98,46.98,medium,low,7,namecheap,,,19/09/2026 20:02
+37dc8266-c433-40c2-9c72-5a52435d0081,pattern.style,available,7.98,49.98,medium,low,7,namecheap,,,25/08/2026 02:49
+81f7ae4b-c729-4177-a950-0a99dd8acd27,designers.guitars,available,104.99,114.99,medium,low,9,namesilo,,,19/09/2026 23:31
+b7c49968-25a3-45cd-92db-5203d027d26b,garment.organic,available,,,medium,low,7,,,,19/09/2026 20:02
+bb5f387f-b72b-4056-b56d-0ce104fe5c2b,sophistication.gallery,available,28.99,28.99,high,low,14,namesilo,,,
+090fb0b0-78d8-4ab7-92d1-169714c1cc5a,apparel.men,premium,3250,130,high,low,7,namecheap,,,
+0be88970-3428-421e-8138-2ffa74f137e0,designer.health,resell,,,low,low,8,,,,20/09/2026 02:12
+a0c7b0b4-f372-4d72-8f29-5cf56cbe80ea,garment.miami,available,24.98,30.98,medium,low,7,namecheap,,,19/09/2026 20:02
+52d3f5bd-f839-4a53-9f39-99f28d5f244c,garment.gives,available,7.48,37.98,medium,low,7,namecheap,,,19/09/2026 20:02
+073924fd-09bc-4729-97e3-5bfef30b9118,designers.vegas,premium,242,119.94,low,low,9,namesilo,,,19/09/2026 23:31
+dea2af3e-afbd-44a0-a935-f8dee367d730,sophistication.supplies,available,24.99,24.99,high,low,14,namesilo,,,
+966f941e-d79f-4016-ba56-ac661d482bb2,charm.fashion,premium,104,32.5,medium,low,5,namecheap,,,19/09/2026 20:23
+718d822e-0f19-47e8-b9f3-ec11eacbee35,apparel.black,premium,650,650,high,low,7,namecheap,,,
+e893e408-cd51-4b21-a1e9-6cbbaa902828,clothing.forex,available,11.98,133.98,medium,low,8,namecheap,,,13/09/2026 09:00
+e78c7b24-1492-40ab-8927-f8d8a6356b74,sophisticated.mobile,premium,750,,high,low,13,name.com,,,
+34a37114-8871-4c8a-96b4-2396f42cb024,designer.airforce,available,109.98,134.98,low,low,8,namecheap,,,20/09/2026 02:12
+618c41e5-6bf7-408f-ae6e-776757b47bd2,trendy.miami,premium,104,23.4,medium,low,6,namecheap,,,11/09/2026 19:19
+42a79c8f-5c5e-41cf-aad3-b67aa457fbac,apparel.luxury,available,49.99,,high,low,7,name.com,,,
+e90578bc-bc07-4662-baf0-38325c167e64,clothe.lighting,available,22.98,31.98,medium,low,6,namecheap,,,19/09/2026 19:51
+2f9ccb4d-c5dc-416a-b20b-64c504103a02,sophistication.tax,available,14.99,,high,low,14,name.com,,,
+fc43367b-3a56-4162-907e-5ab4d223f6e0,clothe.black,available,17.48,82.98,medium,low,6,namecheap,,,19/09/2026 19:51
+57740f95-12d8-4872-88fb-49a631e30cdd,clothe.markets,available,5.98,26.98,medium,low,6,namecheap,,,19/09/2026 19:51
+4026ce9e-2d81-4754-8562-b58c4d3b0510,chic.eco,premium,625,113.99,medium,low,4,name.com,,,12/08/2026 04:40
+15a4a188-581e-4ab0-8acc-d2b137f96b69,chic.software,available,11.98,56.98,medium,low,4,namecheap,,,12/08/2026 04:40
+9e8cb9d4-b33f-4c32-bc71-63a260f7c782,apparel.blue,premium,85.8,85.8,high,low,7,namecheap,,,
+33ba42c6-4b83-43da-990d-48733d81e258,sportswear.style,available,16.99,38.99,medium,low,10,namesilo,,,17/09/2026 05:14
+2e1161f8-7603-4cd3-827a-8d1817bfd748,designers.pw,premium,130,130,low,low,9,namecheap,,,19/09/2026 23:31
+b19c7f0f-6e07-487f-9a5a-1565a93879a6,designers.dad,premium,323.7,323.7,low,low,9,namecheap,,,19/09/2026 23:31
+fd09060c-de84-48f9-8ba5-1c7d5eb32328,sophistication.hair,available,1.65,15.75,high,low,14,namesilo,,,
+37a71124-0234-4a62-9cc6-a80253e3c393,apparel.diamonds,available,72.98,,high,low,7,namecheap,,,
+4dd8768e-37b5-49ae-98d7-8cda975031e2,sophistication.guru,available,3.99,,high,low,14,name.com,,,
+9569f1e9-d511-4ba0-853d-c504321bcd5f,clothing.blackfriday,available,114.99,114.99,medium,low,8,namesilo,,,13/09/2026 09:00
+238eea1f-b08b-422e-b485-632a84947969,trends.coupons,available,2.98,59.98,low,low,6,namecheap,,,17/09/2026 19:12
+1e77e4cb-0393-4652-b4bc-b1b8f643b8b6,apparel.red,premium,85.8,85.8,high,low,7,namecheap,,,
+29376dbf-0fb7-4a05-b5df-30060d77f7ae,trendy.villas,available,62.98,74.98,medium,low,6,namecheap,,,11/09/2026 19:19
+f8c4a690-54a2-4411-95af-7aec2e53ae4f,apparel.pink,premium,85.8,85.8,high,low,7,namecheap,,,
+5d3b73fc-57a3-4082-9df4-88955476bdb2,designers.tickets,available,359.99,488.88,medium,low,9,namesilo,,,19/09/2026 23:31
+1f0bf50c-fe7d-4f04-8599-f5a055c2ad98,clothes.ryukyu,available,22.98,,high,low,7,namecheap,,,
+28e120f7-1149-4e32-bf76-67e9d41c1436,garment.financial,available,17.48,66.98,medium,low,7,namecheap,,,19/09/2026 20:02
+2165128e-de80-4a8b-b4a9-ac56792f944c,clothe.dental,available,81.98,100.98,medium,low,6,namecheap,,,19/09/2026 19:51
+e6dd9e99-eb7c-4c53-b5b2-c444efb1523d,clothe.voto,available,11.98,86.98,medium,low,6,namecheap,,,19/09/2026 19:51
+9afe39ca-a21c-4f3b-8188-56a056f4d89f,designer.attorney,available,65.98,76.98,low,low,8,namecheap,,,20/09/2026 02:12
+da863c85-ad2a-4ce8-bf43-4483f34c82e3,designer.free,premium,1107,1107,low,low,8,namesilo,,,20/09/2026 02:12
+072a380d-a1e9-4af1-87d5-d8d57553722b,designers.fashion,resell,,,medium,low,9,West263 International Limited,30/06/2026 20:41,30/06/2027 20:41,19/09/2026 23:31
+055e9783-5f23-401f-952a-b6ce8714950b,beauty.shop,premium,12500,,high,low,6,name.com,,,
+1d10d965-08f6-4358-8559-3a17897b0a34,sophistication.agency,available,7.99,,high,low,14,name.com,,,
+32df8857-4521-4bc9-ba76-3431ed828e50,sandals.forum,available,1.99,,medium,low,7,name.com,,,
+e99d5ec2-7a22-44c7-b23d-03382e8c69e7,photography.legal,available,9.99,,high,low,11,name.com,,,
+8d6b7c33-7434-494b-a3f2-905839aafc8c,sophistication.cafe,available,7.99,,high,low,14,name.com,,,
+4af87cfe-8f60-41a6-a95a-e3d239dd5229,sophistication.airforce,available,103.99,103.99,high,low,14,namesilo,,,
+b725abee-f7f0-4f7c-99d7-e796ef9b0f53,chic.zip,premium,623.75,623.75,medium,low,4,name.com,,,12/08/2026 04:40
+0e9552ab-c448-4d84-bcbe-0924cc4a6fad,designer.rip,available,23.49,23.49,low,low,8,namesilo,,,20/09/2026 02:12
+9cc4c93f-5262-4213-99c0-55a73c306e59,apparel.jewelry,available,19.99,,high,low,7,name.com,,,
+e48f7fdf-c923-46f0-a6e1-00680c10ef5f,clothing.kiwi,premium,81.9,81.9,medium,low,8,namecheap,,,13/09/2026 09:00
+4c7b3a4e-29d9-44d1-a91f-5a60370f3ce5,trendy.shopping,resell,,,medium,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",22/01/2022 13:15,22/01/2027 13:15,11/09/2026 19:19
+5d78c86b-6193-4f2d-aa30-c1d4749f3783,thread.ryukyu,available,24.99,,high,low,6,name.com,,,
+60d24ce0-865b-4b08-9a6f-25b53ad64537,chic.associates,available,12.98,49.98,medium,low,4,namecheap,,,12/08/2026 04:40
+a6a6be0d-73e0-43e7-bc33-9a4df44f217c,designer.hiv,available,195.99,195.99,low,low,8,namesilo,,,20/09/2026 02:12
+444fa97b-d63d-4eff-932a-b62acad948ae,glasses.ryukyu,available,22.98,,high,low,7,namecheap,,,
+01e1ae60-901f-4bda-98c0-b3c6c68a64ad,sandals.finance,available,15.99,,medium,low,7,name.com,,,
+4f39cad8-90bf-4a54-818f-a3780609d613,apparel.gold,available,9.99,,high,low,7,name.com,,,
+cc27e003-702f-4739-bbd5-8f1bc5ec3d01,garment.equipment,available,29.98,32.98,medium,low,7,namecheap,,,19/09/2026 20:02
+49b46341-1621-43ec-917c-1be8ffb244e4,photography.bargains,available,21.99,,high,low,11,name.com,,,
+aede47a9-f5b2-431c-9425-92b67169ffa6,designer.vodka,available,33.98,43.98,low,low,8,namecheap,,,20/09/2026 02:12
+31f365ad-8817-4093-a31d-68a0b53a5ba5,glamour.free,available,38.98,44.98,medium,low,7,namecheap,,,21/08/2026 07:43
+24677c4f-4be0-4a8d-adb1-f86d68187fd9,pattern.forex,available,11.98,133.98,medium,low,7,namecheap,,,25/08/2026 02:49
+f8e80e08-de20-40ff-9862-ed8cbbb0281e,apparel.salon,available,14.99,,high,low,7,name.com,,,
+620483c7-0504-4450-9061-b01ccb059916,pattern.site,premium,312.5,1250,medium,low,7,name.com,,,25/08/2026 02:49
+f4708766-f96b-4c29-be6b-eba0f5bfbbb9,garment.eco,available,58.48,101.98,medium,low,7,namecheap,,,19/09/2026 20:02
+d49ae62f-d77c-4670-9595-1c1150fb908d,sophistication.pw,available,3.99,24.49,high,low,14,namesilo,,,
+2ddafdaa-ad57-43e7-aa23-e0c5e3769954,designers.mov,premium,167.7,167.7,low,low,9,namecheap,,,19/09/2026 23:31
+bd83eef2-a50b-4381-b3f9-3612a2fd1b25,sophisticated.services,available,15.99,,high,low,13,name.com,,,
+ccbec3ef-bb22-4cde-b5c7-ac56b070c01a,trendy.porn,available,69.98,154.98,medium,low,6,namecheap,,,11/09/2026 19:19
+31c0f523-f6e7-4108-b257-ad975f4a74e6,sophistication.supply,available,25.99,25.99,high,low,14,namesilo,,,
+55c3986b-c6a1-4bbf-a349-9f7c6abece89,clothing.download,available,5.25,6.25,medium,low,8,namesilo,,,13/09/2026 09:00
+b092c782-62c8-4094-b546-e089c11e4727,designer.mov,premium,167.7,167.7,low,low,8,namecheap,,,20/09/2026 02:12
+f5fe70fc-f29e-49ea-9f72-98e7cb0659d2,sandals.diet,available,159.98,,medium,low,7,namecheap,,,
+34eaedb0-1a00-470d-95d3-854b2db77555,garment.tel,available,10.98,15.98,medium,low,7,namecheap,,,19/09/2026 20:02
+264a92e6-0ed9-47b6-9780-369665e9f3d0,garment.creditcard,available,156.98,168.98,medium,low,7,namecheap,,,19/09/2026 20:02
+1b2a6a8c-1196-4b56-9021-5c8c84cd9974,trends.blackfriday,available,128.98,134.98,low,low,6,namecheap,,,17/09/2026 19:12
+225ba181-7f11-4ba7-a2d3-03c5a79761db,garment.cleaning,available,79.98,94.98,medium,low,7,namecheap,,,19/09/2026 20:02
+6b412680-0da6-4296-ba4c-1a52489b74d3,chic.diamonds,available,54.99,54.99,medium,low,4,namesilo,,,12/08/2026 04:40
+bd9fe873-e459-4854-a631-e287d3703473,sophistication.luxe,available,19.49,19.49,high,low,14,namesilo,,,
+f255194b-7c2f-4a2a-b624-48a0ac585ac7,designer.bz,available,21.98,26.98,low,low,8,namecheap,,,20/09/2026 02:12
+dc0da3f5-2759-4aa0-b780-9a253ab27a2d,designers.sale,available,7.49,38.99,low,low,9,namesilo,,,19/09/2026 23:31
+8d09ba5c-6f4c-4512-9df2-08c3913deef5,glamour.bingo,available,14.99,77.99,medium,low,7,name.com,,,21/08/2026 07:43
+a9323bf6-dda4-4b40-a75a-ada65b2f1fe1,apparel.hair,available,1.99,,high,low,7,name.com,,,
+3a73bb9b-d07f-44eb-8c02-c059a57af8d2,sandals.degree,available,14.99,,medium,low,7,name.com,,,
+54b7feec-7b59-4af1-9a01-68c5f89d73f4,garment.qpon,available,,,medium,low,7,,,,19/09/2026 20:02
+2a88097e-22d7-4527-bc60-0378ebd65a8f,clothing.tickets,available,359.99,488.88,medium,low,8,namesilo,,,13/09/2026 09:00
+f043f0e3-e491-4ce2-a603-8eb3f3a51f24,sandals.xxx,premium,310,,medium,low,7,name.com,,,
+a54d49bd-e432-4610-bdcb-8b859e604825,apparel.makeup,available,1.99,,high,low,7,name.com,,,
+58dccd52-21b5-4421-9428-f7c918965459,designers.holiday,available,64.99,64.99,low,low,9,namesilo,,,19/09/2026 23:31
+2f946f2b-9780-4a3e-863e-14bca5668acc,mall.homes,resell,,,high,low,4,"Spaceship, Inc.",27/02/2022 17:34,27/02/2027 23:59,
+cece7be0-edc5-4fd6-b5dd-a5ee4ba9bd7e,chic.storage,available,509.99,529.99,medium,low,4,namesilo,,,12/08/2026 04:40
+13bac77e-b370-4fd9-b1bd-e35e0c611a01,designer.group,resell,,,low,low,8,,,,20/09/2026 02:12
+ba4e857c-377a-4ff7-a4e6-cc27f2190ab3,garment.theater,available,67.98,80.98,medium,low,7,namecheap,,,19/09/2026 20:02
+b11251e0-7415-4868-a7ce-0eeced5dccc3,clothe.digital,available,2.98,53.98,medium,low,6,namecheap,,,19/09/2026 19:51
+c4169a6f-1cf2-4a64-bebc-014acc3911c8,apparel.skin,available,1.99,,high,low,7,name.com,,,
+fee46767-4426-4b9b-b379-efc9deb36eae,compilation.paris,available,51.98,,medium,low,11,namecheap,,,
+436ced9d-8a86-4b79-8b1a-fa4a279d8868,chic.party,premium,6250,125,medium,low,4,name.com,,,12/08/2026 04:40
+224c17fd-2baa-4f52-bf92-3fb2a195b808,designer.place,premium,118.8,118.8,low,low,8,namesilo,,,20/09/2026 02:12
+07219372-7549-484e-a510-9f4595f9bf35,airstrip.website,available,0.98,20.98,medium,low,8,namecheap,,,17/09/2026 23:24
+dcf876da-b036-4379-b4d5-5198b92467e8,designer.inc,premium,2061.5,2660,low,low,8,namesilo,,,20/09/2026 02:12
+47804a18-fb99-46bc-b2c0-7e9a7358acbe,designers.giving,available,7.48,35.98,low,low,9,namecheap,,,19/09/2026 23:31
+b4e4c21c-8304-470d-b157-f72a7e6ead86,garment.reviews,available,65.98,77.98,medium,low,7,namecheap,,,19/09/2026 20:02
+25bf054c-44e5-49a8-a97c-71b99591ba3b,pattern.bingo,available,14.99,77.99,medium,low,7,name.com,,,25/08/2026 02:49
+53f281e0-06c2-4deb-a796-e20684a5bde8,sophistication.link,premium,26.25,35,high,low,14,namecheap,,,
+6e7d2283-c285-4f60-bb5e-cd346f0109fe,apparel.beauty,available,1.99,,high,low,7,name.com,,,
+fd2c62f1-e5dd-4de7-bf3b-204f61972d69,designer.vet,available,41.99,41.99,low,low,8,namesilo,,,20/09/2026 02:12
+cc808fc6-0d9a-4a6f-93da-c17998936eac,apparel.gallery,available,36.98,,high,low,7,namecheap,,,
+008d61b8-7606-4fe7-9927-34a5325e0f32,clothing.jewelry,available,64.99,64.99,medium,low,8,namesilo,,,13/09/2026 09:00
+602162b9-5d2a-4bca-949d-eac7e93cac93,glamour.catering,available,38.99,38.99,medium,low,7,namesilo,,,21/08/2026 07:43
+48e38ab3-7f51-404b-8d79-02b4162f9ddb,designer.foo,premium,167.7,167.7,low,low,8,namecheap,,,20/09/2026 02:12
+e16cb294-0aa0-4bc0-a78c-93a86f880abb,pattern.cooking,available,32.49,32.49,medium,low,7,namesilo,,,25/08/2026 02:49
+cd008a1d-b9ec-469a-8eca-b9027651984e,chic.nyc,resell,,,medium,low,4,Hello Internet Corp.,29/10/2014 14:32,28/10/2026 23:59,12/08/2026 04:40
+8c51270f-b5b7-493c-a0ac-ef2d9c95137a,pattern.taxi,available,8.98,69.98,medium,low,7,namecheap,,,25/08/2026 02:49
+59a63461-9cfc-422c-a235-55f5a9881c31,compilation.realty,available,109.99,299,medium,low,11,namesilo,,,
+e63d0425-7844-44e8-bdca-d32bde12fab6,pattern.lgbt,available,11.98,93.98,medium,low,7,namecheap,,,25/08/2026 02:49
+770bf49b-0ab2-4dbe-ba78-489a46e298b2,sophistication.coupons,available,3.99,,high,low,14,name.com,,,
+530b4b12-5e17-4e81-84f5-d97a3dfc50be,sandals.car,available,2400,,medium,low,7,namecheap,,,
+616d0fc7-9623-494d-85b2-811f4c7cf9dd,glamour.repair,available,5.98,47.48,medium,low,7,namecheap,,,21/08/2026 07:43
+6af9dcfa-a65e-4973-9c6a-27c7b7ac6c06,garment.clinic,available,11.98,82.98,medium,low,7,namecheap,,,19/09/2026 20:02
+f35865c2-6c73-4914-9818-079da1370f09,vent.shop,premium,625,,medium,low,4,name.com,,,
+5ee44b63-7928-4a28-85b3-d790474a127d,trends.loan,premium,455,65,low,low,6,namecheap,,,17/09/2026 19:12
+6b73d0b4-ec04-4b25-ae3a-9b700ee80e51,clothe.discount,available,29.98,39.98,medium,low,6,namecheap,,,19/09/2026 19:51
+d1fe57f5-a2c0-4864-9a99-3e0c038f435c,sophistication.fit,available,2.99,,high,low,14,name.com,,,
+7873cfb5-a11c-4861-a452-96338f6630a4,sophistication.press,available,4.99,86.99,high,low,14,namesilo,,,
+555930c9-ea30-40a3-8e77-eaa8b1e284f1,sandals.family,available,9.99,,medium,low,7,name.com,,,
+53d2ae4b-db2c-45b7-af4f-25c2e4074520,sophistication.pub,available,39.99,39.99,high,low,14,namesilo,,,
+1d4231d7-7f0e-48c1-8f73-7637a9242fa8,clothe.bingo,available,51.98,68.98,medium,low,6,namecheap,,,19/09/2026 19:51
+a9434e9c-0a8e-4138-b3d7-229824687191,compilation.promo,available,19.99,,medium,low,11,name.com,,,
+a4feef17-c54b-4e12-94b1-5afa5f534315,apparel.graphics,available,31.98,,high,low,7,namecheap,,,
+0b58bf96-ae7c-426b-aa3e-ed37689b1428,apparel.furniture,available,39.99,,high,low,7,name.com,,,
+6ea7fd1e-c2f9-43ca-8a8b-bd8905128d1c,designers.tienda,available,59.99,59.99,medium,low,9,namesilo,,,19/09/2026 23:31
+0419a73b-4b21-43dc-aaa1-fe7b076d1db0,clothing.luxury,premium,520,520,medium,low,8,namecheap,,,13/09/2026 09:00
+c1df7d37-715c-40fa-b1d6-44b4713bc633,trends.surgery,available,57.98,68.98,low,low,6,namecheap,,,17/09/2026 19:12
+a1921e0d-2bde-4117-bd85-f8b4695ce7ad,sophistication.cooking,available,32.49,32.49,high,low,14,namesilo,,,
+520ec6dd-2a77-4df8-9384-00e287893749,trends.glass,available,76.98,99.98,low,low,6,namecheap,,,17/09/2026 19:12
+57fdbf36-78e8-4e86-a924-21f34457b588,sophistication.sale,available,5.99,,high,low,14,name.com,,,
+25acb44e-6e8f-4b79-b9f5-a7defe27a70b,compilation.christmas,available,34.99,34.99,medium,low,11,namesilo,,,
+5651021e-c660-492b-ab82-a8a8d610dac8,apparel.pics,available,1.99,,high,low,7,name.com,,,
+4ce002b2-0497-4e92-afe8-c00695717bc3,apparel.photos,available,14.99,,high,low,7,name.com,,,
+6ca703b3-c0b8-48f1-8f7a-48553971cf7f,apparel.pictures,available,9.99,,high,low,7,name.com,,,
+058ccfcf-715b-4fd9-a28c-5693fc93d58f,apparel.photo,premium,130,130,high,low,7,namecheap,,,
+0fb37de4-3447-40df-acbb-cd94a1aa03d6,apparel.kaufen,available,9.99,,high,low,7,name.com,,,
+32426293-88b3-47c9-9514-f6af8c47c3c0,designers.gift,available,14.99,14.99,low,low,9,namesilo,,,19/09/2026 23:31
+32faab8c-a6e3-480e-b6e9-f8a691110eda,glamour.fund,available,11.98,92.98,medium,low,7,namecheap,,,21/08/2026 07:43
+ece546cd-9250-45eb-8702-bec3fbc60e90,garment.sex,available,69.98,154.98,medium,low,7,namecheap,,,19/09/2026 20:02
+9533fdca-b2af-419f-b1f0-a52110d667f6,clothing.berlin,available,79.98,89.98,medium,low,8,namecheap,,,13/09/2026 09:00
+462cdcfb-fde7-4223-a218-2abb5da001fb,sophisticated.channel,available,16.48,,high,low,13,namecheap,,,
+7c38b53d-28dd-48ec-ae3f-35b79f65b4ec,pattern.date,premium,375,62.5,medium,low,7,name.com,,,25/08/2026 02:49
+95f4825e-139b-48a0-8f86-d219bd1ce737,apparel.rich,available,149.99,,high,low,7,name.com,,,
+715e27f8-7f95-40d9-a90b-474a68b84211,designer.motorcycles,available,1.99,17.29,low,low,8,namesilo,,,20/09/2026 02:12
+03d75916-b766-4726-9db7-15af7474207f,apparel.watch,available,4.99,,high,low,7,name.com,,,
+68cc916e-b6e2-4ffc-b21a-a055da86985c,clothing.engineering,premium,78.54,78.54,medium,low,8,namesilo,,,13/09/2026 09:00
+7a6068ee-fc98-4a62-9fc2-a9d024b9a394,sophistication.vodka,available,32.49,32.49,high,low,14,namesilo,,,
+29437acb-063a-4d8b-a33c-a980570ef713,garment.mx,available,26.98,58.98,medium,low,7,namecheap,,,19/09/2026 20:02
+39edce19-5766-43f3-9ac9-ad45a6bb1b0e,sandals.skin,available,1.99,,medium,low,7,name.com,,,
+eb0ec136-66f0-4363-9135-87a3128b48cb,trendy.lifestyle,premium,1820,2600,medium,low,6,namecheap,,,11/09/2026 19:19
+0fc5dc35-399b-46d8-95c6-55d8af174b88,designer.voto,available,11.98,86.98,low,low,8,namecheap,,,20/09/2026 02:12
+8612e986-a0da-4673-b264-534c82ff22f4,designer.tires,premium,242,242,low,low,8,namesilo,,,20/09/2026 02:12
+44522e51-e772-4d41-8504-48bb1db2beed,sophistication.one,available,3.49,24.75,high,low,14,namesilo,,,
+9ca66ab7-5468-43b2-9439-1ca6a73a92c3,designers.loan,available,5.25,6.25,low,low,9,namesilo,,,19/09/2026 23:31
+ddd089ba-8824-4e58-87cb-482b2607b68c,trendy.doctor,available,5.98,154.98,medium,low,6,namecheap,,,11/09/2026 19:19
+5c5897bf-aadc-45db-9ee7-44a82e80fc01,trends.forum,premium,130,130,low,low,6,namecheap,,,17/09/2026 19:12
+17f615e0-403b-4a5d-bb19-c9251b56aa68,garment.srl,available,,,medium,low,7,,,,19/09/2026 20:02
+7ec90341-b7a0-40a1-a367-f493e5df556b,clothing.credit,available,9.48,131.98,medium,low,8,namecheap,,,13/09/2026 09:00
+bdf2104b-19f1-431f-b993-140c3422f2e0,apparel.site,premium,1562.5,6250,high,low,7,name.com,,,
+ca61d3e8-5cae-435d-9ffa-67b89fcac670,clothing.gmbh,available,45.99,45.99,medium,low,8,namesilo,,,13/09/2026 09:00
+4643fe83-a747-461c-ae0d-b6e08071282a,trendy.ski,available,76.98,82.98,medium,low,6,namecheap,,,11/09/2026 19:19
+055f129d-89bb-454a-8502-00846864bcd5,apparel.online,premium,781.25,3125,high,low,7,name.com,,,
+2905468f-ebca-44d9-b44d-985b33a6671d,pattern.money,resell,,,medium,low,7,"NameCheap, Inc.",10/04/2026 15:15,10/04/2027 15:15,25/08/2026 02:49
+961af5be-f3a6-4215-a397-2ca667a534e5,underwear.today,available,2.99,,high,low,9,name.com,,,
+92700db2-ae78-4b28-ad65-7d9a6de9c542,smart.ryukyu,available,22.98,,high,medium,5,namecheap,,,
+3a871801-f5f5-4a91-a350-25c0259fb5fe,apparel.archi,available,24.99,,high,low,7,name.com,,,
+ec6486ad-567f-44b1-8541-404e6b65e9ee,apparel.design,premium,325,325,high,low,7,namecheap,,,
+2d59d962-a577-47d5-9660-2fe0fd90be7c,trends.city,resell,,,low,low,6,"Sav.com, LLC",07/04/2026 18:42,07/04/2027 18:42,17/09/2026 19:12
+cc99fd49-9127-455e-b06c-42f78252e5a5,sophistication.finance,available,15.99,,high,low,14,name.com,,,
+1d391ca2-ec74-41c8-96db-ef12f0289e29,sophistication.vision,available,9.99,,high,low,14,name.com,,,
+17b55a73-86d2-4296-8de6-2bbb45711f2d,sandals.education,available,39.99,,medium,low,7,name.com,,,
+2cd1cd79-faad-4c62-ba63-6c1aac3edf19,apparel.space,premium,325,1300,high,low,7,namecheap,,,
+bb99566c-7a98-417f-a6e5-e06c969c1311,apparel.dev,premium,198.75,198.75,high,low,7,name.com,,,
+ba312e0f-1ce2-4e70-88da-da02082b882c,clothing.vana,available,2298,2498,medium,low,8,namecheap,,,13/09/2026 09:00
+8bf2c392-c4b7-4fa4-a549-d9fdb419357e,clothe.vc,available,32.98,41.98,medium,low,6,namecheap,,,19/09/2026 19:51
+72baed3e-91cf-4fbf-a3b0-593a6debe869,trends.qpon,premium,4687.5,,low,low,6,name.com,,,17/09/2026 19:12
+cdfa1eda-f0bd-4e30-9e5d-5d881f077e0e,compilation.style,available,12.99,,medium,low,11,name.com,,,
+f8eb9367-d06d-4d33-b6ea-76ace618d7aa,compilation.fan,available,11.99,,medium,low,11,name.com,,,
+4ce3de7a-ddda-42ca-b4a6-138db70745c0,sandals.melbourne,available,53.98,,medium,low,7,namecheap,,,
+503cfd14-19aa-47d9-8f4f-498ea43452f2,garment.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,19/09/2026 20:02
+3acebe44-3fcb-4c80-b2d6-42a2935d0edd,compilation.town,available,9.99,,medium,low,11,name.com,,,
+e0900b82-d736-4531-8d02-d86b00e56710,trading.stream,premium,2367.82,,high,low,7,"NameSilo, LLC",21/11/2022 10:01,21/11/2026 10:01,
+f681ddad-6970-4e3e-a1f7-938a3f97a9ff,glamour.tickets,available,359.99,389.99,medium,low,7,namesilo,,,21/08/2026 07:43
+bb65de6c-9ce5-4c26-8402-ab513ac7fa47,photography.trading,available,19.99,,high,low,11,name.com,,,
+e682c8d1-92b4-4ba2-a86c-88b5b8997be4,exhibition.finance,resell,,,high,low,10,Dynadot Inc,29/05/2025 10:18,29/05/2027 10:18,
+7767bcbf-1766-4481-acb9-91f4f266c7d9,styling.lifestyle,available,1.8,48.98,medium,low,7,namecheap,,,17/09/2026 18:14
+746e317c-a6f9-4c8e-bf3f-cddd83735720,sandals.blackfriday,available,134.98,,medium,low,7,namecheap,,,
+52834ae4-4280-48c6-8379-a1aa73c33c4c,compilation.rentals,available,14.99,,medium,low,11,name.com,,,
+761fcaad-25f0-4a10-b62a-80106e230c71,styling.blue,available,13.98,32.98,medium,low,7,namecheap,,,17/09/2026 18:14
+6e13cff8-29ac-48d5-bb00-301cbdc3b313,clothing.properties,premium,242,242,medium,low,8,namesilo,,,13/09/2026 09:00
+ca27ab58-ec45-4778-84c3-5b2df1f06d43,pattern.fashion,premium,854,29.5,medium,low,7,namesilo,,,25/08/2026 02:49
+6c5c8933-ad1f-46bb-9514-f58aa6287a4d,trends.uk,resell,,,low,low,6,Private Equity Systems Ltd t/a British Hosting,05/07/2019 13:00,05/07/2027 13:00,17/09/2026 19:12
+0ac5eb86-295a-45bf-9b7c-2f3780726e6f,clothe.company,available,21.98,27.98,medium,low,6,namecheap,,,19/09/2026 19:51
+c0556a4d-4948-409e-a562-6d3179ba71b6,designers.gmbh,available,45.99,45.99,low,low,9,namesilo,,,19/09/2026 23:31
+08ea26c2-feb8-4108-80fa-3b40d3387438,sandals.works,available,7.99,,medium,low,7,name.com,,,
+c93aef59-6c7f-46fb-a968-c56a9e2ef942,glamour.date,premium,375,62.5,medium,low,7,name.com,,,21/08/2026 07:43
+5f92c55a-2ec2-44db-bb44-da67c03d97af,apparel.hot,premium,1300,1300,high,low,7,namecheap,,,
+d54460b1-f42e-4fa4-bd7f-abbf779cd12a,chic.boo,premium,311.25,311.25,medium,low,4,name.com,,,12/08/2026 04:40
+7b078ae6-d23a-4ad3-8447-73e8299bb6a6,trends.diamonds,available,57.98,72.98,low,low,6,namecheap,,,17/09/2026 19:12
+ea6855ed-9632-4e38-a2f3-910591a6514d,apparel.studio,premium,260,260,high,low,7,namecheap,,,
+f1bf6924-28ff-4801-bb82-049c9e77c369,trendy.soccer,available,27.48,29.48,medium,low,6,namecheap,,,11/09/2026 19:19
+798b566e-d3d3-403f-a321-7a516344ac52,apparel.ooo,premium,7562.5,,high,low,7,name.com,,,
+20cda656-8ffe-45fb-ba16-4fc42b8b413e,sophistication.bond,available,1.88,19.49,high,low,14,namesilo,,,
+3d45e997-d3ac-40b1-8fb5-8ddae3988932,apparel.life,resell,,,high,low,7,"DNSPod, Inc.",29/08/2024 15:15,29/08/2026 15:15,
+6998ae18-e506-4bf8-8b5c-91c82e5a31cd,apparel.living,available,39.99,,high,low,7,name.com,,,
+61f484dd-0ce6-4c49-929b-dfdc64877c21,trendy.inc,premium,2015,2600,medium,low,6,namecheap,,,11/09/2026 19:19
+f80180ff-c369-4898-a0c3-5d2afae1dbf5,apparel.forsale,premium,128.7,128.7,high,low,7,namecheap,,,
+0482ee09-e826-4bd3-87df-5a9d34e6f44e,clothe.new,available,488.98,601.98,medium,low,6,namecheap,,,19/09/2026 19:51
+051ac1e7-4ff8-4e77-87ab-5e5140e2fa3d,apparel.sale,premium,128.7,128.7,high,low,7,namecheap,,,
+4579693f-ce93-4829-b697-1faada3ca22a,garment.support,available,4.98,37.98,medium,low,7,namecheap,,,19/09/2026 20:02
+f45d7b3b-875e-4a8d-8f71-0f52ef01fe54,apparel.promo,premium,1300,1300,high,low,7,namecheap,,,
+e820ae11-6122-4673-a5fd-fa2991ec0564,apparel.limo,available,19.99,,high,low,7,name.com,,,
+7e1a2c38-362a-47f3-bd6e-621e422768b0,glamour.trade,premium,3125,125,medium,low,7,name.com,,,21/08/2026 07:43
+d7827121-115b-44f0-88ac-faf21db15d4e,sophistication.giving,available,5.99,,high,low,14,name.com,,,
+ef0f10a9-479c-4c5f-b26a-a085a137f5c2,compilation.estate,available,14.99,,medium,low,11,name.com,,,
+3287bf6b-3855-4962-b83a-42573f0c3fee,apparel.onl,premium,65,130,high,low,7,namecheap,,,
+86f29b63-55b7-4bc7-a987-e6fd42a36ae5,apparel.page,premium,167.7,167.7,high,low,7,namecheap,,,
+fdd3a8ec-6db7-4d19-90d7-3d8fb61e1876,apparel.website,premium,650,1300,high,low,7,namecheap,,,
+18c185e9-7e8b-43cb-9c6f-99c09039b846,apparel.blackfriday,available,134.98,,high,low,7,namecheap,,,
+dcc7609c-d60b-4e08-a938-88d0a11e87ff,charm.esq,premium,206.7,206.7,medium,low,5,namecheap,,,19/09/2026 20:23
+cd701646-c853-4993-bd20-4a60ac52b386,trendy.hot,available,52.98,58.98,medium,low,6,namecheap,,,11/09/2026 19:19
+fa5dcc17-83f1-4e5f-9d61-3c0ea16344e6,glamour.cruises,available,14.99,81.99,medium,low,7,name.com,,,21/08/2026 07:43
+f4de5828-aeff-4a61-95dd-abcdfcf8fc87,apparel.kitchen,available,14.99,,high,low,7,name.com,,,
+0f811078-7e96-4f61-a24c-74ada0051386,apparel.gratis,available,26.99,,high,low,7,name.com,,,
+7c838252-7144-4c92-8bdf-5335ae403f20,apparel.bargains,premium,128.7,128.7,high,low,7,namecheap,,,
+acf50a36-e773-46b2-88b8-3bacd26bc3db,apparel.cheap,available,49.98,,high,low,7,namecheap,,,
+8f2a3065-bdb5-40bf-8b1f-31b3eb3a5c7b,apparel.coupons,premium,11700,11700,high,low,7,namecheap,,,
+2954788a-86b1-4718-9339-759335ad0c44,apparel.qpon,premium,937.5,,high,low,7,name.com,,,
+2a39d91a-de1b-486f-96cc-9d079289ae84,apparel.deal,premium,650,650,high,low,7,namecheap,,,
+868249c0-185a-4e29-ab46-e9cab87f8c84,apparel.discount,premium,260,260,high,low,7,namecheap,,,
+43f70f03-ac5c-408d-8ee8-605b77c44a0c,apparel.free,premium,1300,1300,high,low,7,namecheap,,,
+f7f42ba2-113d-4371-8693-548bb165be34,sportswear.poker,available,10.99,67.99,medium,low,10,namesilo,,,17/09/2026 05:14
+1b79721c-3772-4d58-89fb-968d306ff041,garment.wedding,available,33.98,43.98,medium,low,7,namecheap,,,19/09/2026 20:02
+0b84e5d6-7c12-463e-8374-307661b15764,trendy.cloud,resell,,,medium,low,6,"Dynadot, LLC",12/02/2018 14:48,12/02/2027 14:48,11/09/2026 19:19
+341f9d62-882a-4ddc-b3e9-476ded586011,pattern.kids,premium,53.92,21.24,medium,low,7,namesilo,,,25/08/2026 02:49
+201a3fb1-306e-49eb-b140-c3ac03aeffc2,garment.cafe,available,5.98,64.98,medium,low,7,namecheap,,,19/09/2026 20:02
+4186e3eb-4cf1-44ff-9a1d-190c906c3832,apparel.dealer,premium,2015,2600,high,low,7,namecheap,,,
+ad641507-0ce7-4ed9-975a-e3a3d9c00f54,sportswear.webcam,available,11.99,11.99,medium,low,10,namesilo,,,17/09/2026 05:14
+822c5612-3590-4092-a429-72c59dae7875,sophistication.page,available,12.79,12.99,high,low,14,namesilo,,,
+ed8c123a-3bb2-4bae-970f-e59eefcc6bf0,apparel.cars,available,2950,,high,low,7,namecheap,,,
+0bd241a4-e530-44a9-be06-54caec3f5a2c,apparel.motorcycles,available,1.99,,high,low,7,name.com,,,
+5967adde-66b7-472f-a1be-fd8859afe14e,apparel.car,available,2400,,high,low,7,namecheap,,,
+1d57ac07-0c5b-466a-a4b6-a334672ab7eb,apparel.autos,available,1.99,,high,low,7,name.com,,,
+290e1c23-0f6e-4ca0-ab8b-7e9ffbfe01b7,apparel.auto,available,2950,,high,low,7,namecheap,,,
+dfb082dd-1055-4e17-907b-b5751cfb3254,apparel.haus,available,19.99,,high,low,7,name.com,,,
+c3464053-a104-45bc-9b15-f136c17e82ef,glamour.vet,available,41.99,41.99,medium,low,7,namesilo,,,21/08/2026 07:43
+d3e2d981-979b-4ea2-91fa-298a0cbfe8ee,apparel.maison,available,19.99,,high,low,7,name.com,,,
+5f80bd25-bc19-4a5e-93e2-8d5ad863daa0,apparel.house,available,27.99,,high,low,7,name.com,,,
+a5c6731e-72d1-43d8-88bc-09e60dcd146d,apparel.casa,available,17.98,,high,low,7,namecheap,,,
+318765cd-634f-4e8f-a6e7-8c40435ff72b,apparel.tech,premium,312.5,1250,high,low,7,name.com,,,
+9e824545-2d2a-4170-990a-35d8ea2c9ee2,apparel.homes,available,1.99,,high,low,7,name.com,,,
+5dc7843d-4aad-4dbe-88bd-0297a5087599,apparel.estate,available,14.99,,high,low,7,name.com,,,
+fea51b23-76f5-49d8-87af-f55d2778a2d4,apparel.condos,available,71.99,,high,low,7,name.com,,,
+1e03b888-39e2-4c9b-a96e-4439bc2011c8,apparel.immobilien,available,14.99,,high,low,7,name.com,,,
+b5151923-bd6c-45d9-bd93-6814042aa6ec,apparel.land,available,19.99,,high,low,7,name.com,,,
+bb9d3000-86d2-476b-812d-a097dbf495bf,apparel.apartments,available,19.99,,high,low,7,name.com,,,
+ce41bdeb-1374-45b1-9543-59ec568bb768,apparel.realty,available,179.99,,high,low,7,name.com,,,
+657cbbeb-125c-4af1-8f3e-ba8395572bca,apparel.rent,available,29.99,,high,low,7,name.com,,,
+e4887dc4-afab-4972-9f91-e4381990207c,apparel.rentals,available,14.99,,high,low,7,name.com,,,
+eab28685-9e7a-4df3-a33c-f269318b0215,apparel.properties,available,10.99,,high,low,7,name.com,,,
+c9ee72a7-2c79-43f1-9017-875e87c8b168,apparel.immo,available,14.99,,high,low,7,name.com,,,
+f118a891-d05f-48cd-a722-eb9169cc01ce,apparel.place,available,25.99,,high,low,7,name.com,,,
+d4a14c07-26e6-48ef-9239-5243fb064542,apparel.property,available,,,high,low,7,,,,
+d730eeed-bb30-449a-b6bd-41369debfe86,apparel.villas,available,19.99,,high,low,7,name.com,,,
+8488d3ea-4e4e-4959-8216-f1f4ec643e1f,sophisticated.xxx,available,154.98,,high,low,13,namecheap,,,
+58fcbf90-75c3-459f-85fc-97918236973b,designer.dog,resell,,,low,low,8,,,,20/09/2026 02:12
+6320d925-b01b-44bd-9368-720dda4586dd,apparel.lighting,available,14.99,,high,low,7,name.com,,,
+793f3a9a-6fc3-4a41-939c-2b1344d4d645,designers.vet,available,41.99,41.99,low,low,9,namesilo,,,19/09/2026 23:31
+859d4724-48f2-47c8-b407-ffee2070d60e,trendy.win,premium,455,65,medium,low,6,namecheap,,,11/09/2026 19:19
+4177869e-9766-45f7-8e73-38374dddada4,designing.consulting,available,8.48,67.98,medium,low,9,namecheap,,,14/08/2026 03:45
+6304aafc-bfad-45c8-b62d-83b8e83d29ab,clothing.prof,premium,1688.7,1688.7,medium,low,8,namecheap,,,13/09/2026 09:00
+6847cdaf-9267-46d8-ab99-0bd7918d4db3,trendy.tienda,available,62.98,74.98,medium,low,6,namecheap,,,11/09/2026 19:19
+cdbb5a04-ea7a-4261-a398-e9d53880c52a,airstrip.me,available,9.99,19.99,medium,low,8,namesilo,,,17/09/2026 23:24
+a767acbe-e282-459c-9d4b-8e547ef7ccc8,outlets.men,available,5.25,6.25,medium,low,7,namesilo,,,
+605801b9-2aa9-4a97-ba49-d4f12aaa285a,apparel.at,resell,,,high,low,7,eu-iris.at web invest gmbh & co KG ( https://nic.at/registrar/679 ),,,
+eb3cd335-6ec4-41a0-8705-efd4d03ff78c,glamour.diy,premium,437.5,625,medium,low,7,name.com,,,21/08/2026 07:43
+44b956da-ce65-4184-9c9f-be53c51b8d25,trendy.pet,resell,,,medium,low,6,"Spaceship, Inc.",29/08/2026 11:00,29/08/2027 11:00,11/09/2026 19:19
+af991f65-b225-46c5-ac7b-1ec7dfc34d33,apparel.ninja,available,9.99,39.99,high,low,7,name.com,,,
+8f6c55aa-c29d-46b4-ba75-9dd4861aa4f9,jacket.shop,premium,1250,,high,low,6,name.com,,,
+a9ee41a2-c3b3-41f9-9890-ab53fb4de11a,apparel.agency,resell,,,high,low,7,"Sav.com, LLC - 14",26/08/2025 15:15,26/08/2026 15:15,
+96755a26-0233-4d66-8e97-008054d355f9,garment.tips,available,12.98,42.48,medium,low,7,namecheap,,,19/09/2026 20:02
+a0307d4a-90a9-4935-a9c1-81170eef1d22,garment.day,available,12.98,16.98,medium,low,7,namecheap,,,19/09/2026 20:02
+0433efbd-dd4d-4734-a79f-6011c08cde3b,apparel.cool,resell,,,high,low,7,"Sav.com, LLC - 8",31/03/2025 15:15,31/03/2027 15:15,
+f6c2ff96-5cd1-4483-8df8-08c5276aec02,trendy.photo,available,31.98,40.98,medium,low,6,namecheap,,,11/09/2026 19:19
+d656833b-0430-4c94-9f74-77f183eeb63d,clothing.bot,premium,116,116,medium,low,8,namesilo,,,13/09/2026 09:00
+b82cfd6d-9d34-4a3b-925c-d58366fe4cf9,clothe.mobi,available,4.48,64.98,medium,low,6,namecheap,,,19/09/2026 19:51
+25d5ca2c-85c1-4af7-b4b5-c400bc76945e,sophistication.network,available,7.99,,high,low,14,name.com,,,
+cfb90b70-e68c-4c30-b545-19e6101a0981,sandals.viajes,available,57.98,,medium,low,7,namecheap,,,
+26dae0b9-c3cc-43be-9724-ab18450ccc9d,clothe.house,available,12.98,55.98,medium,low,6,namecheap,,,19/09/2026 19:51
+963a69e6-74a6-485c-8daf-e9091724c4f1,trendy.bz,available,21.98,26.98,medium,low,6,namecheap,,,11/09/2026 19:19
+0c311c82-f301-4cc2-af88-6a5ff75b4818,apparel.ag,available,89,,high,low,7,name.com,,,
+5cdc517f-e8ed-4e0f-b790-23cec172051a,apparel.cyou,premium,71.83,287.3,high,low,7,namecheap,,,
+9335c51e-06ff-4a40-ac9e-383771b12cdc,sandals.giving,available,5.99,,medium,low,7,name.com,,,
+a996c663-ed48-4e4a-88e0-bdac4c330a4d,clothe.fm,available,69.98,118.98,medium,low,6,namecheap,,,19/09/2026 19:51
+d20131dc-2863-4887-9c31-bbf21fb885fa,clothe.doctor,available,5.98,154.98,medium,low,6,namecheap,,,19/09/2026 19:51
+4f89f672-b7c5-4519-b2f3-7abd75ad2011,clothing.education,available,34.99,34.99,medium,low,8,namesilo,,,13/09/2026 09:00
+5a5c88bf-c1be-4739-84ce-66e2e7f2021b,garment.city,available,5.98,37.98,medium,low,7,namecheap,,,19/09/2026 20:02
+9c9ae135-0ac3-4dc5-a43f-07f1dd1c9bb0,apparel.engineer,available,13.99,,high,low,7,name.com,,,
+442898ff-11ca-43ab-80b1-9a5a5c3d1d50,clothe.promo,available,11.98,33.48,medium,low,6,namecheap,,,19/09/2026 19:51
+5636ae9f-af4b-497f-9180-898f8fea6ca2,tendency.meme,available,12.98,15.98,low,low,8,namecheap,,,22/08/2026 22:11
+479bab6a-eb62-455f-9ab0-cfa6bbad5ff9,charm.paris,available,66.98,66.98,medium,low,5,namecheap,,,19/09/2026 20:23
+85c7e1b3-30d3-41f8-bd6c-12736cd3e838,sophistication.report,available,14.99,,high,low,14,name.com,,,
+6c6eb164-82b9-43b5-95aa-cfb24f07c23c,garment.dance,available,10.48,36.98,medium,low,7,namecheap,,,19/09/2026 20:02
+84c1f929-b304-49cf-ad33-e72a751acff1,designers.bayern,available,34.99,34.99,low,low,9,namesilo,,,19/09/2026 23:31
+6cb1c8ce-6211-48b7-b2ed-8e7caf38d103,apparel.my,premium,68.16,97.37,high,low,7,namecheap,,,
