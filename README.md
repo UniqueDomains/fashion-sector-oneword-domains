@@ -1,10 +1,10 @@
-# One-Word Fashion Domain Names — 506 TLDs (141,270)
+# One-Word Fashion Domain Names — 506 TLDs (144,549)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-141%2C270%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-144%2C549%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word domain names tied to the fashion keyword, spanning 506 different TLDs from a pool of over 184,000 candidates. The median ask across these domains is about $963. Updated daily, the list helps investors and founders compare pricing and brandability before committing to a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **141,270 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **144,549 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 141,270 domains · **Median ask:** $733.92 · **High-demand under $2,500:** 221
+**Public extract:** 1,000 rows · **Live catalog:** 144,549 domains · **Median ask:** $717.09 · **High-demand under $2,500:** 167
 
-**Last updated:** 2026-09-22
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/sector/fashion`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------- |
-| style.bz         | available | $25       | —             | high           | low    | 5      | name.com                                                            |
-| apparel.services | resell    | $51.98    | —             | high           | low    | 7      | GoDaddy.com, LLC                                                    |
-| chic.fashion     | premium   | $5,000    | $46.99        | medium         | low    | 4      | name.com                                                            |
-| style.cat        | available | $26.98    | $38.98        | medium         | low    | 5      | namecheap                                                           |
-| style.in         | resell    | —         | —             | high           | low    | 5      | Dynadot, LLC                                                        |
-| style.autos      | premium   | $812.50   | —             | high           | low    | 5      | name.com                                                            |
-| style.claims     | available | $11.98    | $82.98        | medium         | low    | 5      | namecheap                                                           |
-| apparel.agency   | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 14                                                   |
-| style.baby       | premium   | $625      | —             | high           | low    | 5      | name.com                                                            |
-| style.computer   | available | $29.99    | —             | high           | low    | 5      | name.com                                                            |
-| apparel.at       | resell    | —         | —             | high           | low    | 7      | eu-iris.at web invest gmbh & co KG ( https://nic.at/registrar/679 ) |
-| style.boats      | premium   | $812.50   | —             | high           | low    | 5      | name.com                                                            |
-| style.engineer   | available | $13.99    | —             | high           | low    | 5      | name.com                                                            |
-| apparel.biz      | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                                                    |
-| style.global     | premium   | $28,750   | $28,750       | high           | low    | 5      | name.com                                                            |
-| style.pizza      | available | $19.99    | —             | high           | low    | 5      | name.com                                                            |
-| apparel.cc       | resell    | —         | —             | high           | low    | 7      | Dynadot Inc                                                         |
-| style.homes      | premium   | $812.50   | —             | high           | low    | 5      | name.com                                                            |
-| trend.ryukyu     | available | $24.99    | —             | high           | low    | 5      | name.com                                                            |
-| apparel.cool     | resell    | —         | —             | high           | low    | 7      | Sav.com, LLC - 8                                                    |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| chic.ag          | available | $89       | $141.99       | medium         | low    | 4      | name.com                                     |
+| trends.works     | resell    | $7.99     | —             | low            | low    | 6      | name.com                                     |
+| gym.mobile       | premium   | $1,250    | —             | high           | low    | 3      | name.com                                     |
+| chic.archi       | available | $14.98    | $132.98       | medium         | low    | 4      | namecheap                                    |
+| chic.agency      | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 25                            |
+| chic.channel     | premium   | $311.25   | $311.25       | medium         | low    | 4      | name.com                                     |
+| chic.audio       | available | $104.99   | $114.99       | medium         | low    | 4      | namesilo                                     |
+| chic.gold        | resell    | —         | —             | medium         | low    | 4      | DNSPod, Inc.                                 |
+| chic.click       | premium   | $875      | $1,250        | medium         | low    | 4      | name.com                                     |
+| chic.band        | available | $17.48    | $39.98        | medium         | low    | 4      | namecheap                                    |
+| chic.homes       | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.                              |
+| chic.clothing    | premium   | $78.54    | $78.54        | medium         | low    | 4      | namesilo                                     |
+| chic.cleaning    | available | $75.49    | $75.49        | medium         | low    | 4      | namesilo                                     |
+| chic.pet         | resell    | —         | —             | medium         | low    | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| chic.cv          | premium   | $1,309.75 | $87.75        | medium         | low    | 4      | namecheap                                    |
+| chic.courses     | available | $1.98     | $50.98        | medium         | low    | 4      | namecheap                                    |
+| chic.pics        | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc                                  |
+| chic.dealer      | premium   | $2,015    | $2,600        | medium         | low    | 4      | namecheap                                    |
+| chic.engineering | available | $10.48    | $85.98        | medium         | low    | 4      | namecheap                                    |
+| chic.wtf         | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 9                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 141,270 live domains                       |
+| 1,000-row public sample | 144,549 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 221 high-demand names under $2,500         |
+| Basic exported fields   | 167 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Fashion Domain Names — 506 TLDs*. Version 2026-09-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Fashion Domain Names — 506 TLDs*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
