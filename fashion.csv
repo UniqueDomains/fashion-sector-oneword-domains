@@ -30,7 +30,7 @@ dfe06730-68ab-4c86-8756-74bcec3a4608,fashion.reisen,available,3.99,20.99,high,me
 90af9eb5-ad9f-4a1e-9700-47e665ce4c0c,fashion.money,resell,,,high,medium,7,Dynadot Inc,30/06/2026 17:00,30/06/2027 17:00,26/09/2026 06:01
 a2f60a67-93db-4b24-9648-ed5c6819a03d,fashion.channel,premium,1248.75,,high,medium,7,name.com,,,
 efa8d3c2-d837-4a12-8f02-2caf68b9ebca,fashion.dealer,premium,2170,2800,high,medium,7,namecheap,,,
-a570500a-ce35-41a3-87f0-e994025022c6,fashion.makeup,premium,812.5,,high,medium,7,name.com,,,
+a570500a-ce35-41a3-87f0-e994025022c6,fashion.makeup,premium,832,832,high,medium,7,namesilo,,,27/09/2026 06:37
 8747b44b-a9fe-49eb-b5cb-979b5200daba,fashion.forum,premium,130,130,high,medium,7,namecheap,,,25/09/2026 09:56
 5f464495-ebde-4272-9eba-2274f481a425,fashion.kiwi,available,31.98,35.68,high,medium,7,namecheap,,,25/09/2026 09:56
 d3372dc7-77ac-45c4-8bc7-79c20533bb1a,fashion.watch,premium,500,,high,medium,7,name.com,,,
@@ -440,7 +440,7 @@ a17c265b-f469-4781-86bc-ed2c2d690e20,clothing.rest,premium,230.4,230.4,high,low,
 f7704283-2a1f-4c6f-8d45-bfd17d53b7e7,fashion.financial,premium,242,242,high,medium,7,namesilo,,,
 92c589ca-7668-4cd4-be47-424f13d4d089,clothing.haus,available,14.99,33.99,high,low,8,namesilo,,,23/09/2026 08:13
 aa2134fb-04be-484e-ad61-d635b69901aa,apparel.taxi,available,10.99,,high,low,7,name.com,,,
-c33376ba-3c87-4112-88a1-3f7c192630f0,apparel.loan,premium,455,65,high,low,7,namecheap,,,
+c33376ba-3c87-4112-88a1-3f7c192630f0,apparel.loan,premium,448,53.92,high,low,7,namesilo,,,27/09/2026 06:58
 e0b2c48f-fdeb-41bf-9b98-c82d5b662b74,clothing.global,premium,1596,53.92,high,low,8,namesilo,,,23/09/2026 08:13
 31bc9e83-a834-446b-9b03-c94eb2fbbeb4,clothing.computer,available,23.99,38.99,high,low,8,namesilo,,,23/09/2026 08:13
 ed8c123a-3bb2-4bae-970f-e59eefcc6bf0,apparel.cars,available,2950,,high,low,7,namecheap,,,
@@ -801,7 +801,7 @@ c6cf3c0f-3eb6-4c04-b65e-e6f943dac84b,fabric.homes,premium,2660,2660,high,low,6,n
 2e531906-e6e9-4ad2-ab1a-d4f44dab497f,clothing.lgbt,premium,78.54,78.54,high,low,8,namesilo,,,23/09/2026 08:13
 227eab4c-d12a-440d-84ee-e4bfbd840f75,style.music,available,,,high,low,5,,,,
 5f91932b-3357-442d-bc7c-d48ec779b253,clothing.new,available,488.98,601.98,high,low,8,namecheap,,,23/09/2026 08:13
-6f6ef8cc-b62c-4dd9-9f92-5c1b276e6b1c,outfit.store,available,,,high,high,6,,,,
+6f6ef8cc-b62c-4dd9-9f92-5c1b276e6b1c,outfit.store,premium,3450,3450,high,high,6,namesilo,,,27/09/2026 06:19
 90ef0364-cf57-48a6-a833-81b2def2920d,garment.capital,available,8.98,89.98,high,low,7,namecheap,,,19/09/2026 20:02
 6e8b8541-fd59-4f5e-83a5-e186ffeebfaa,clothing.memorial,available,52.99,52.99,high,low,8,namesilo,,,23/09/2026 08:13
 3ebe94a3-2c4f-47a6-a017-03c8ecf25d6a,style.srl,premium,54.28,30.68,high,low,5,namesilo,,,08/09/2026 07:22
@@ -847,7 +847,7 @@ f4a62d75-8fe5-4ad0-b48c-35c187ccf6e2,garment.gold,available,7.98,130.98,high,low
 be1e471b-f51d-4bc2-813b-5abfff1da002,garment.tube,available,25.98,33.98,high,low,7,namecheap,,,19/09/2026 20:02
 6539136e-878e-4bfc-8a16-d2f4963779e0,fabric.photography,available,6.98,46.48,high,low,6,namecheap,,,25/09/2026 05:01
 04decd04-37e0-40d9-9b4e-865ac01082b1,style.ink,premium,832,832,high,low,5,namesilo,,,08/09/2026 07:22
-587a356e-00a6-4086-a107-e76eb2a03fb4,outfit.site,available,,,high,high,6,,,,
+587a356e-00a6-4086-a107-e76eb2a03fb4,outfit.site,premium,3450,3450,high,high,6,namesilo,,,27/09/2026 06:08
 aa79afe8-0e7b-410a-bf62-c544f74f39c8,style.foo,premium,648.7,648.7,high,low,5,namecheap,,,08/09/2026 07:22
 fe20a2a4-bbcc-4c11-a9e6-895fc54ce9ba,fabric.bargains,available,17.99,26.49,high,low,6,namesilo,,,25/09/2026 05:01
 9a82b80a-55d5-4b5a-937c-c84c1f60808e,clothing.bingo,available,53.99,53.99,high,low,8,namesilo,,,23/09/2026 08:13

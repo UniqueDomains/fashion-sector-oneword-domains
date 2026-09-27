@@ -1,10 +1,10 @@
-# One-Word Fashion Domain Names — 506 TLDs (162,175)
+# One-Word Fashion Domain Names — 506 TLDs (164,498)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-162%2C175%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-164%2C498%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word domain names tied to the fashion keyword, spanning 506 different TLDs from a pool of over 184,000 candidates. The median ask across these domains is about $963. Updated daily, the list helps investors and founders compare pricing and brandability before committing to a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **162,175 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **164,498 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 162,175 domains · **Median ask:** $548.40 · **High-demand under $2,500:** 245
+**Public extract:** 1,000 rows · **Live catalog:** 164,498 domains · **Median ask:** $546.27 · **High-demand under $2,500:** 614
 
 **Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/fashion`
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 162,175 live domains                       |
+| 1,000-row public sample | 164,498 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 245 high-demand names under $2,500         |
+| Basic exported fields   | 614 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
