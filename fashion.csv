@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 f09e7987-95ed-403b-b22c-83b91742e0c9,fashion.moda,premium,102.67,102.67,high,medium,7,spaceship,,,28/09/2026 02:18
 11554a77-fa10-4057-90f4-6feba4a7946c,fashion.men,available,,,high,medium,7,,,,
+337f7b00-eb81-45d9-9883-ea4a34773dc1,fashion.it,resell,,,high,medium,7,,02/05/1996 00:00,12/09/2027 00:00,28/09/2026 04:35
 ed6dee4e-8ed2-4e1b-b3db-07f4795a1753,fashion.hair,premium,832,832,high,medium,7,namesilo,,,18/09/2026 23:12
 0da5160d-9f9d-475c-8118-ec3f923687cc,fashion.store,premium,3125,,high,medium,7,name.com,,,
 15e5f9eb-e22e-4ded-8f0d-7064999ed443,fashion.black,premium,625,,high,medium,7,name.com,,,
@@ -995,7 +996,6 @@ d102442b-4046-4b01-ad5b-5995c9d2a48f,garment.how,available,30.98,41.98,high,low,
 e0b2c48f-fdeb-41bf-9b98-c82d5b662b74,clothing.global,premium,1310.51,55.11,high,low,8,porkbun,,,28/09/2026 04:12
 8bda53e9-7fe6-4ba7-93fc-317b46128cdf,garment.realty,available,99.8,456.98,high,low,7,namecheap,,,19/09/2026 20:02
 a72379fb-c6f8-49e0-b73b-3eff27dc6d6b,garment.country,available,2298,2450,high,low,7,namecheap,,,19/09/2026 20:02
+051d8ea5-9a1f-4ff5-932f-9dc80d1cb139,runway.style,premium,102.67,102.67,high,low,6,spaceship,,,28/09/2026 06:39
 f2432ffe-2e07-4f94-9e33-c1e8d373859e,style.tax,premium,242,242,high,low,5,namesilo,,,08/09/2026 07:22
 ed8c123a-3bb2-4bae-970f-e59eefcc6bf0,apparel.cars,available,2950,,high,low,7,namecheap,,,
-3710ef01-63b3-4ff4-be12-1fb7092208d5,designer.fishing,premium,96,29.5,high,low,8,namesilo,,,20/09/2026 02:12
-01cbe1dd-7f16-48d6-981a-5cbe5db21ee9,clothing.productions,premium,260,260,high,low,8,namecheap,,,28/09/2026 04:12
