@@ -1,10 +1,10 @@
-# One-Word Fashion Domain Names — 506 TLDs (216,765)
+# One-Word Fashion Domain Names — 506 TLDs (221,605)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-216%2C765%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-221%2C605%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word domain names tied to the fashion keyword, spanning 506 different TLDs from a pool of over 184,000 candidates. The median ask across these domains is about $963. Updated daily, the list helps investors and founders compare pricing and brandability before committing to a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **216,765 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **221,605 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 216,765 domains · **Median ask:** $340.66 · **High-demand under $2,500:** 565
+**Public extract:** 1,000 rows · **Live catalog:** 221,605 domains · **Median ask:** $335.55 · **High-demand under $2,500:** 521
 
 **Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/sector/fashion`
@@ -25,7 +25,7 @@ This selection covers one-word domain names tied to the fashion keyword, spannin
 <p align="center">
   <a href="https://unique.domains/domains/sector/fashion?utm_source=github&utm_medium=referral&utm_campaign=repo_fashion_sector_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./fashion.csv">CSV</a> / <a href="./fashion.json">JSON</a>
-  · <a href="https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_fashion_sector_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
+  · <a href="https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_fashion_sector_oneword_domains&utm_content=top_methodology"><b>📖 Glossary</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_fashion_sector_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
 </p>
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| model.shoes       | available | $50.20    | $50.20        | high           | medium | 5      | cloudflare                                                |
-| trend.style       | resell    | $78.54    | $78.54        | high           | low    | 5      | namesilo                                                  |
-| shop.moda         | premium   | $854      | $854          | high           | medium | 4      | namesilo                                                  |
-| style.airforce    | available | $103.99   | $103.99       | high           | low    | 5      | namesilo                                                  |
-| apparel.network   | resell    | $7.99     | —             | high           | low    | 7      | name.com                                                  |
-| style.archi       | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo                                                  |
-| style.auto        | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo                                                  |
-| fashion.health    | resell    | $5,908.29 | —             | high           | medium | 7      | name.com                                                  |
-| style.baby        | premium   | $625      | —             | high           | low    | 5      | name.com                                                  |
-| style.blackfriday | available | $114.99   | $114.99       | high           | low    | 5      | namesilo                                                  |
-| style.bid         | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
-| style.band        | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo                                                  |
-| style.broker      | available | $11.98    | $47.98        | high           | low    | 5      | namecheap                                                 |
-| style.bio         | resell    | —         | —             | high           | low    | 5      | Global Domains International, Inc. DBA DomainCostClub.com |
-| style.best        | premium   | $97.68    | $97.68        | high           | low    | 5      | namesilo                                                  |
-| style.cars        | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo                                                  |
-| style.cfd         | resell    | —         | —             | high           | low    | 5      | Dynadot Inc                                               |
-| style.black       | premium   | $640      | $640          | high           | low    | 5      | namesilo                                                  |
-| style.claims      | available | $11.98    | $82.98        | high           | low    | 5      | namecheap                                                 |
-| style.club        | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| style.accountants | available | $117.99   | $117.99       | high           | low    | 5      | namesilo         |
+| apparel.services  | resell    | $51.98    | —             | high           | low    | 7      | GoDaddy.com, LLC |
+| style.accountant  | premium   | $448      | $53.92        | high           | low    | 5      | namesilo         |
+| style.barcelona   | available | $38.98    | $38.98        | high           | low    | 5      | namecheap        |
+| fashion.health    | resell    | $5,908.29 | —             | high           | medium | 7      | name.com         |
+| style.archi       | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo         |
+| style.bayern      | available | $34.99    | $34.99        | high           | low    | 5      | namesilo         |
+| style.bid         | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| style.bargains    | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo         |
+| style.blackfriday | available | $114.99   | $114.99       | high           | low    | 5      | namesilo         |
+| style.cc          | resell    | —         | —             | high           | low    | 5      | Porkbun LLC      |
+| style.black       | premium   | $640      | $640          | high           | low    | 5      | namesilo         |
+| style.bz          | available | $25       | —             | high           | low    | 5      | name.com         |
+| style.center      | resell    | —         | —             | high           | low    | 5      | Automattic Inc.  |
+| style.buzz        | premium   | $512      | $116          | high           | low    | 5      | namesilo         |
+| style.cat         | available | $26.98    | $38.98        | high           | low    | 5      | namecheap        |
+| style.cfd         | resell    | —         | —             | high           | low    | 5      | Dynadot Inc      |
+| style.cam         | premium   | $1,950    | $18.20        | high           | low    | 5      | namecheap        |
+| style.claims      | available | $11.98    | $82.98        | high           | low    | 5      | namecheap        |
+| style.cheap       | resell    | —         | —             | high           | low    | 5      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 216,765 live domains                                 |
+| 1,000-row public sample | 221,605 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 565 high-demand names under $2,500                   |
+| Basic exported fields   | 521 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -152,7 +152,7 @@ GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 ## 🔗 Related links
 
 - [Live search](https://unique.domains/domains/sector/fashion?utm_source=github&utm_medium=referral&utm_campaign=repo_fashion_sector_oneword_domains&utm_content=top_open_search)
-- [How the data is built](https://unique.domains/product/data?utm_source=github&utm_medium=referral&utm_campaign=repo_fashion_sector_oneword_domains&utm_content=top_methodology)
+- [Glossary](https://unique.domains/glossary?utm_source=github&utm_medium=referral&utm_campaign=repo_fashion_sector_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_fashion_sector_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_fashion_sector_oneword_domains&utm_content=top_api_docs)
 - [Main catalog repo](https://github.com/UniqueDomains/oneword-domains)
