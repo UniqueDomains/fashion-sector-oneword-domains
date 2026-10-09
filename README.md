@@ -1,10 +1,10 @@
-# One-Word Fashion Domain Names — 506 TLDs (236,834)
+# One-Word Fashion Domain Names — 506 TLDs (239,302)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-236%2C834%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-239%2C302%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word domain names tied to the fashion keyword, spanning 506 different TLDs from a pool of over 184,000 candidates. The median ask across these domains is about $963. Updated daily, the list helps investors and founders compare pricing and brandability before committing to a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **236,834 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **239,302 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 236,834 domains · **Median ask:** $316.89 · **High-demand under $2,500:** 518
+**Public extract:** 1,000 rows · **Live catalog:** 239,302 domains · **Median ask:** $315.00 · **High-demand under $2,500:** 546
 
 **Last updated:** 2026-10-08
 **Canonical page:** `https://unique.domains/domains/sector/fashion`
@@ -68,22 +68,22 @@ print(df.head())
 | style.casino      | resell    | $6.98     | $191.98       | high           | low    | 5      | Spaceship, Inc.  |
 | style.actor       | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo         |
 | style.audio       | available | $104.99   | $114.99       | high           | low    | 5      | namesilo         |
-| fabric.best       | resell    | $2.35     | $17.79        | high           | low    | 6      | Spaceship, Inc.  |
-| style.art         | premium   | $3,450    | $83.30        | high           | low    | 5      | namesilo         |
-| style.car         | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo         |
 | apparel.services  | resell    | $51.98    | —             | high           | low    | 7      | GoDaddy.com, LLC |
 | style.autos       | premium   | $812.50   | —             | high           | low    | 5      | name.com         |
-| style.cleaning    | available | $75.49    | $75.49        | high           | low    | 5      | namesilo         |
+| style.bingo       | available | $51.98    | $68.98        | high           | low    | 5      | namecheap        |
 | fashion.health    | resell    | $5,908.29 | —             | high           | medium | 7      | Dynadot Inc      |
+| style.berlin      | premium   | $1,296.10 | $1,296.10     | high           | low    | 5      | namecheap        |
+| style.cleaning    | available | $75.49    | $75.49        | high           | low    | 5      | namesilo         |
+| style.beauty      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 | style.boats       | premium   | $812.50   | —             | high           | low    | 5      | name.com         |
 | style.coffee      | available | $6.98     | $47.98        | high           | low    | 5      | namecheap        |
-| model.fashion     | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
+| style.build       | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
 | style.bot         | premium   | $1,107    | $1,107        | high           | low    | 5      | namesilo         |
 | style.contractors | available | $35.49    | $35.49        | high           | low    | 5      | namesilo         |
-| style.beauty      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| style.builders    | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo         |
+| style.business    | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.  |
+| style.camera      | premium   | $512      | $512          | high           | low    | 5      | namesilo         |
 | style.creditcard  | available | $144.99   | $144.99       | high           | low    | 5      | namesilo         |
-| style.build       | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| style.cloud       | resell    | —         | —             | high           | low    | 5      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 236,834 live domains                                 |
+| 1,000-row public sample | 239,302 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 518 high-demand names under $2,500                   |
+| Basic exported fields   | 546 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
