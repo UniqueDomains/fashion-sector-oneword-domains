@@ -1,10 +1,10 @@
-# One-Word Fashion Domain Names — 506 TLDs (243,097)
+# One-Word Fashion Domain Names — 506 TLDs (245,606)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-243%2C097%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-245%2C606%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word domain names tied to the fashion keyword, spanning 506 different TLDs from a pool of over 184,000 candidates. The median ask across these domains is about $963. Updated daily, the list helps investors and founders compare pricing and brandability before committing to a name.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **243,097 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **245,606 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 243,097 domains · **Median ask:** $310.56 · **High-demand under $2,500:** 564
+**Public extract:** 1,000 rows · **Live catalog:** 245,606 domains · **Median ask:** $308.33 · **High-demand under $2,500:** 528
 
 **Last updated:** 2026-10-11
 **Canonical page:** `https://unique.domains/domains/sector/fashion`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| style.attorney    | available | $62.99    | $62.99        | high           | low    | 5      | namesilo         |
-| apparel.services  | resell    | $51.98    | —             | high           | low    | 7      | GoDaddy.com, LLC |
-| chic.moda         | premium   | $102.67   | $102.67       | high           | low    | 4      | spaceship        |
-| style.barcelona   | available | $38.98    | $38.98        | high           | low    | 5      | namecheap        |
-| fashion.health    | resell    | $5,908.29 | —             | high           | medium | 7      | Dynadot Inc      |
-| style.art         | premium   | $3,450    | $83.30        | high           | low    | 5      | namesilo         |
-| style.car         | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo         |
-| model.fashion     | resell    | —         | —             | high           | medium | 5      | GoDaddy.com, LLC |
-| style.autos       | premium   | $812.50   | —             | high           | low    | 5      | name.com         |
-| style.cleaning    | available | $75.49    | $75.49        | high           | low    | 5      | namesilo         |
-| style.beauty      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| style.bar         | premium   | $819      | $1,170        | high           | low    | 5      | namecheap        |
-| style.contractors | available | $35.49    | $35.49        | high           | low    | 5      | namesilo         |
-| style.bet         | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| style.bargains    | premium   | $78.54    | $78.54        | high           | low    | 5      | namesilo         |
-| style.degree      | available | $52.99    | $52.99        | high           | low    | 5      | namesilo         |
-| style.build       | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
-| style.boats       | premium   | $812.50   | —             | high           | low    | 5      | name.com         |
-| style.desi        | available | $19.98    | $22.98        | high           | low    | 5      | namecheap        |
-| style.cc          | resell    | —         | —             | high           | low    | 5      | Porkbun LLC      |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| style.auto       | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo         |
+| style.casino     | resell    | $6.98     | $191.98       | high           | low    | 5      | Spaceship, Inc.  |
+| style.actor      | premium   | $118.80   | $118.80       | high           | low    | 5      | namesilo         |
+| style.bingo      | available | $51.98    | $68.98        | high           | low    | 5      | namecheap        |
+| fabric.money     | resell    | $19.99    | —             | high           | low    | 6      | Dynadot Inc      |
+| style.autos      | premium   | $812.50   | —             | high           | low    | 5      | name.com         |
+| style.cars       | available | $1,999.99 | $2,199        | high           | low    | 5      | namesilo         |
+| fabric.monster   | resell    | $1.99     | —             | high           | low    | 6      | Spaceship, Inc.  |
+| style.baby       | premium   | $625      | —             | high           | low    | 5      | name.com         |
+| style.christmas  | available | $1.80     | $49.98        | high           | low    | 5      | namecheap        |
+| apparel.network  | resell    | $7.99     | —             | high           | low    | 7      | Dynadot Inc      |
+| style.berlin     | premium   | $1,296.10 | $1,296.10     | high           | low    | 5      | namecheap        |
+| style.computer   | available | $29.99    | —             | high           | low    | 5      | name.com         |
+| fashion.health   | resell    | $5,908.29 | —             | high           | medium | 7      | Dynadot Inc      |
+| style.blog       | premium   | $3,250    | $13,000       | high           | low    | 5      | namecheap        |
+| style.creditcard | available | $144.99   | $144.99       | high           | low    | 5      | namesilo         |
+| style.build      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC |
+| style.blue       | premium   | $640      | $640          | high           | low    | 5      | namesilo         |
+| style.cruises    | available | $54.98    | $68.98        | high           | low    | 5      | namecheap        |
+| style.business   | resell    | —         | —             | high           | low    | 5      | NameCheap, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 243,097 live domains                                 |
+| 1,000-row public sample | 245,606 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 564 high-demand names under $2,500                   |
+| Basic exported fields   | 528 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
